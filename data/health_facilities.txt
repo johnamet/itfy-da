@@ -1,0 +1,101 @@
+Facility_Name,District,Region,Facility_Type,Outpatient_Visits,Staff_Count,Operational_Status
+Yendi Municipal,Nzema East,Western,CHPS Compound,4,340,49,Active
+Bekwai Health,Cape Coast Metro,Central,clinic,6904,71,Operational
+Ashaiman Polyclinic,Kumbungu,Northern,Clnc,5263,34,Active
+Talensi CHPS,Ejisu,Ashanti,HC,2205,35,Active
+Asokwa Community,Techiman Municipal,Brong-Ahafo,chps compound,6343,28,Operational
+Atebubu-Amantin Health,New Juaben South,Eastern,Polyclinic,5781,3,Active
+Kwabre East Community,Adentan,Greater Accra,chps compound,4443,56,Active
+  Asokwa Community,Kintampo North,Brong-Ahafo,Clinic,643,10,Active
+Atwima Health,Nadowli-Kaleo,Upper West,Polyclinic,2942,45,Active
+Talensi CHPS,Builsa North,Upper East,Clinic,6,389,64,OPERATIONAL
+Bole CHPS  ,Sekondi-Takoradi Metro,Western,Clinic,5620,3,Active
+Sekondi Community,Adentan,Greater Accra,Hospital,5729,74,Inactive
+Talensi CHPS,Bolgatanga Municipal,Upper East,CLINIC,3367,25,ACTIVE
+Jirapa District,Asokwa,Ashanti,POLYCLINIC,5918,32,active
+Mfantsiman Community,Ho Municipal,Volta,Polyclinic,325,32,ACTIVE
+Lawra CHPS,Fanteakwa,Eastern,Health Centre,-1,50,Active
+Korle Bu Clinic  ,Dormaa East,Brong-Ahafo,clinic,2145,12,Active
+Ahanta West Community,Keta,Volta,Clinic,2589,5,Non-Operational
+Jasikan CHPS,Kumbungu,Northern,CHPS Compound,4081,,Active
+Amansie Central Health,Tamale Metro,Northern,HEALTH CENTRE,4,291,58,ACTIVE
+Nadowli CHPS,Sissala East,Upper West,CLINIC,6175,,Active
+Sissala East CHPS,New Juaben North,Eastern,chps compound,4,322,69,Active
+Madina Polyclinic,Wa Municipal,Upper West,chps compound,4224,75,Active
+Sissala East CHPS  ,Accra Metro,Greater Accra,Clinic,4,296,70,ACTIVE
+Tolon CHPS,Ahanta West,Western,CHPS,5935,80,ACTIVE
+Kpando Community,Keta,Volta,Hospital,5748,12,Active
+South Tongu Community,Tamale Metro,Northern,CHPS compound,5770,37,Active
+Adentan Community,Tema Metro,Greater Accra,CHPS Compound,7366,69,ACTIVE
+Korle Bu Clinic,Tamale Metro,Northern,CHPS compound,8470,80,ACTIVE
+Akropong District,Assin North,Central,CHPS,445,9,OPERATIONAL
+  Juaben Health,Kwahu West,Eastern,Polyclinic,1,871,58,INACTIVE
+Dormaa Ahenkro Health Centre,Ahanta West,Western,CHPS,4526,41,active
+  Kumasi South Health Centre,Cape Coast Metro,Central,CHPS Compound,4883,30,Non-Operational
+Dansoman Polyclinic,Assin North,Central,Clinic,2229,32,ACTIVE
+Sissala East CHPS,Fanteakwa,Eastern,Polyclinic,1,469,14,Active
+Ho Municipal,Tema Metro,Greater Accra,POLYCLINIC,3,232,17,active
+Nzema East Community,Assin North,Central,chps compound,5,823,44,Active
+Nkoranza North Health,New Juaben South,Eastern,Clinic,3014,71,Active
+  Sunyani Municipal,Berekum East,Brong-Ahafo,C.H.P.S,4918,25,ACTIVE
+Kumasi South Health Centre,Jirapa,Upper West,HOSP,6526,,Active
+Kaneshie Polyclinic,Dormaa East,Brong-Ahafo,Clinic,1735,50,Active
+Pru East Health,Sunyani Municipal,Brong-Ahafo,CHPS Compound,2244,,ACTIVE
+Bole CHPS,Nadowli-Kaleo,Upper West,Clinic,6,409,47,Active
+Anloga CHPS,Bolgatanga Municipal,Upper East,Hospital,1265,74,
+"Cape Coast Teaching, Annex",Wa Municipal,Upper West,Hospital,7626,,Active
+Tema Polyclinic,Adentan,Greater Accra,Clnc,7618,80,ACTIVE
+"Nkoranza North Health, Annex",Cape Coast Metro,Central,chps compound,4776,22,Active
+South Tongu Community,South Tongu,Volta,CHPS Compound,4282,13,Active
+Ejisu Community,Komenda-Edina,Central,Hospital,2952,5,Operational
+Kumbungu CHPS,Effutu,Central,Polyclinic,7716,64,active
+  Yendi Municipal,South Tongu,Volta,chps compound,0,67,Operational
+Sekondi Community  ,Nanton,Northern,CLINIC,6,455,34,active
+"  Kintampo Municipal, Annex",Ho Municipal,Volta,CHPS Compound,4409,67,Active
+Sekyere East Health,Sissala East,Upper West,Health Center,8004,20,
+Fanteakwa CHPS,Kassena-Nankana,Upper East,CHPS,8,048,61,Active
+Sissala East CHPS  ,Ga East,Greater Accra,CLINIC,7159,3,Active
+Tema Polyclinic,New Juaben South,Eastern,Health Center,758,27,active
+Accra Ridge Hospital,Fanteakwa,Eastern,CLINIC,4,908,60,Active
+Shai-Osudoku District,Ledzokuku,Greater Accra,polyclinic,3170,,OPERATIONAL
+"Kwahu West CHPS, Annex",Bolgatanga Municipal,Upper East,clinic,6232,3,Active
+Adentan Community,Berekum East,Brong-Ahafo,Health Centre,2861,32,ACTIVE
+Effutu CHPS,Asokwa,Ashanti,CLINIC,4,143,19,OPERATIONAL
+Mfantsiman Community,Sekondi-Takoradi Metro,Western,Polyclinic,495,10,Active
+"Yendi Municipal, Annex",Akatsi South,Volta,Clinic,4,037,35,Active
+Bosome-Freho Health,Sunyani Municipal,Brong-Ahafo,Clinic,2409,32,Active
+Dome Kwabenya Community,Sissala East,Upper West,health centre,733,,OPERATIONAL
+  Karaga CHPS,New Juaben North,Eastern,Hospital,7,285,14,Active
+Cape Coast Teaching,Kumasi Metro,Ashanti,polyclinic,2972,79,Active
+  Birim Central CHPS,Fanteakwa,Eastern,Clinic,5154,84,Active
+Sekondi Community,Nadowli-Kaleo,Upper West,Clnc,3,583,23,Active
+Jirapa District,Tarkwa-Nsuaem,Western,HEALTH CENTRE,4087,69,Inactive
+Pru East Health,Dormaa East,Brong-Ahafo,Clinic,7733,,
+Pru East Health  ,Fanteakwa,Eastern,Health Centre,3978,70,Active
+Asokwa Community,Cape Coast Metro,Central,CHPS Compound,3360,35,OPERATIONAL
+Birim Central CHPS,South Tongu,Volta,Clinic,3757,78,active
+Dansoman Polyclinic,Bongo,Upper East,Health Centre,598,69,Active
+Kpando Community,Ho Municipal,Volta,Hospital,3096,27,Active
+Effutu CHPS,Wa Municipal,Upper West,C.H.P.S,8088,,Active
+South Tongu Community,Kintampo North,Brong-Ahafo,hospital,4118,75,Active
+Kwabre East Community,Bolgatanga Municipal,Upper East,CLINIC,3011,14,Active
+Tain Health,Yendi,Northern,Health Centre,1242,65,ACTIVE
+Nungua Polyclinic,Ejisu,Ashanti,Polyclinic,7193,80,Active
+Yendi Municipal,Tarkwa-Nsuaem,Western,CHPS Compound,874,,Active
+Lawra CHPS  ,Wa Municipal,Upper West,Clinic,6843,27,Active
+Tamale Teaching,Sagnarigu,Northern,HEALTH CENTRE,7,972,28,Active
+Sekondi Community,Sekondi-Takoradi Metro,Western,Clinic,6171,53,N/A
+Bekwai Health,Accra Metro,Greater Accra,clinic,712,8,Active
+"Nzema East Community, Annex",Assin North,Central,chps,675,28,Active
+Shai-Osudoku District,Lawra,Upper West,CHPS Compound,2,502,70,Active
+  Tamale Teaching,Birim Central,Eastern,Clinic,3375,75,Closed
+Atebubu-Amantin Health,Sissala East,Upper West,clinic,300,3,Inactive
+Mfantsiman Community,Wa Municipal,Upper West,CHPS compound,3876,11,active
+  Kumasi South Health Centre,Bosomtwe,Ashanti,CHPS Compound,0,12,Active
+Winneba Health Centre,Kwabre East,Ashanti,hospital,2659,49,Active
+Sissala East CHPS,Jirapa,Upper West,polyclinic,4533,65,Closed
+"Pru East Health, Annex",Tema Metro,Greater Accra,CHPS Compound,6405,25,Operational
+"Accra Ridge Health Centre, Annex",Bolgatanga Municipal,Upper East,CLINIC,965,12,Operational
+Kintampo Municipal,Techiman Municipal,Brong-Ahafo,Hospital,172,44,Active
+Nsawam Government Health Centre,Effutu,Central,chps compound,1873,9,Active
+Tarkwa Health Centre,Kintampo North,Brong-Ahafo,hospital,5841,77,Active

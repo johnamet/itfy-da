@@ -1,0 +1,81 @@
+School_Name	Region	District	Total_Enrolment	Male	Female	School_Type
+Madina Government Basic School	Central	Mfantsiman	421	314	107	PUBLIC
+Bolgatanga East Catholic Basic School	western	Nzema East	770	549	221	GOVT
+Teshie Islamic Basic School	Western	Ahanta West	817	221	596	Public
+Ashaiman Catholic Basic School	Eastern Region	New Juaben North	891	559	332	Public
+Kaneshie Islamic Basic School	Central	Cape Coast Metro	936	349	587	Public
+Dome Islamic Basic School	Ashanti	Ejisu	986	411	575	PUBLIC
+Akropong Islamic Basic School	Greater Accra	Tema Metro	722	577	145	Public
+Keta Government Basic School	Central	Mfantsiman	882	399	483	private
+Nkwanta Government Basic School	Volta	Keta	226	87	147	Public
+Bubuashie Presbyterian Basic School	Greater Accra	Ledzokuku	1055	564	491	Private
+Dansoman SDA Basic School	ASHANTI	Kumasi Metro	613	427	186	Public
+Ofankor Government Basic School	Ashanti	Oforikrom	306	180	126	Public
+Abeka Catholic Basic School	Volta	South Tongu	625	490	135	Private
+Abokobi SDA Basic School	Ashanti	Suame	507	238	269	PVT
+Ayigbe Town D/A Basic School   	Western	Ahanta West	757	600	157	Public
+Dormaa Catholic Basic School	Ashanti	Kumasi Metro	316	120	158	Public
+Nkoranza Presbyterian Basic School	Western	Ahanta West	238	154	84	Private
+  Builsa Catholic Basic School	Eastern	Kwahu West	582	437	145	Public
+Ho Central Methodist Basic School	Ashanti	Asokwa	398	186	212	Govt
+Dome Methodist Basic School	WESTERN	Sekondi-Takoradi Metro	464	337	127	Public
+  Berekum D/A Basic School	Gr. Accra	Ashaiman	278	89	189	GOVT
+Sissala D/A Basic School	Greater Accra	Ga West	568	453	115	Public
+Teshie Catholic Basic School	Western Region	Ahanta West	502	246	256	public
+Obuasi Anglican Basic School	Eastern Region	New Juaben North		190	466	Public
+Tamale North Presbyterian Basic School	Greater Accra	Ga South	760	277	483	Public
+Bortianor Islamic Basic School	Western Region	Tarkwa-Nsuaem	604	347	257	PUBLIC
+Adentan Catholic Basic School	central	Effutu	609	274	335	Public
+Abokobi Presbyterian Basic School   	Gr. Accra	Ashaiman	981	387	594	PUBLIC
+Sekondi SDA Basic School	Western	Nzema East	878	388	490	private
+Cape Coast Central Islamic Basic School	Central	Cape Coast Metro	825	532	293	Public
+Nungua Catholic Basic School	Central	Assin North		397	305	public
+Adabraka D/A Basic School	ASHANTI	Oforikrom	747	279	468	Private
+Teshie Methodist Basic School   	EASTERN	Fanteakwa North	1160	610	550	Private
+Kasoa Government Basic School	Greater Accra	Ga East	1107	596	511	GOVT
+Madina Government Basic School	central	Assin North	684	530	154	Pvt
+Techiman Islamic Basic School	Volta	Keta	530	236	294	Public
+Anloga Anglican Basic School	Greater Accra	Ashaiman	564	100	464	Private
+Akuapem North Islamic Basic School	eastern	New Juaben North	880	359	521	Public
+Akatsi Anglican Basic School	eastern	New Juaben North	585	483	102	PUBLIC
+Kumasi Central Government Basic School	Greater Accra	Ashaiman	796	468	359	Private
+Sissala D/A Basic School	Eastern Region	New Juaben North	379	284	95	public
+Techiman Methodist Basic School	central	Mfantsiman	439	197	242	public
+Kassena D/A Basic School	western	Sekondi-Takoradi Metro	480	157	323	private
+Dormaa Catholic Basic School	Greater Accra	Adentan	1022	598	424	PRIVATE
+Bole Catholic Basic School	G. Accra	Ashaiman	965	614	351	Public
+Yendi Government Basic School	Central	Komenda-Edina	901	365	536	PUBLIC
+Bimbilla SDA Basic School	Ashanti	Bosomtwe	745	344	423	Private
+Chorkor Presbyterian Basic School	Central Region	Mfantsiman	630	538	92	PVT
+Tamale North SDA Basic School	Greater Accra	Adentan	942	432	510	Private
+Takoradi South Anglican Basic School	Volta	South Tongu		202	264	Govt
+Yendi Islamic Basic School	Ashanti	Oforikrom		383	307	public
+Cape Coast Central D/A Basic School	Western	Ahanta West	786	209	577	Public
+Talensi Islamic Basic School	Greater Accra	Accra Metro	760	569	191	Public
+Bole Catholic Basic School	Greater Accra	Ashaiman	530	334	196	Public
+Techiman North Presbyterian Basic School	central	Assin North	317	141	176	Private
+Sunyani Islamic Basic School	Ashanti	Kwabre East		498	536	Public
+  Damongo Islamic Basic School	Volta	South Tongu	466	152	314	GOVT
+  Pokuase SDA Basic School	Western	Prestea-Huni Valley	313	153	136	public
+Bimbilla Islamic Basic School	Eastern	New Juaben North	637	120	517	Private
+  Techiman North Islamic Basic School	Volta	Keta	375	121	254	Govt
+Nkwanta Islamic Basic School	Eastern	Kwahu West	929	436	493	PVT
+Dome Methodist Basic School	Western	Tarkwa-Nsuaem	710	545	165	PRIVATE
+Sekondi Catholic Basic School	Western	Tarkwa-Nsuaem	633	503	130	GOVT
+Akropong Government Basic School	Ashanti	Ejisu		576	199	GOVT
+Madina Islamic Basic School	Greater Accra	Ga East	432	200	232	Public
+Lawra Islamic Basic School	Eastern	Birim Central	742	472	270	Private
+Kumasi Central Catholic Basic School	Central	Komenda-Edina	961	385	576	Govt
+Nandom Government Basic School	Ashanti	Suame	791	324	467	private
+Anloga D/A Basic School	ASANTE	Bosomtwe	699	587	112	private
+Berekum West Anglican Basic School	Ashanti	Ejisu	721	227	494	Private
+Bubuashie Government Basic School	Volta	Hohoe	868	469	399	Pvt
+Sissala D/A Basic School	volta	Akatsi South	357	180	177	GOVT
+  Cape Coast Central D/A Basic School	eastern	New Juaben South	554	229	325	Public
+Builsa Methodist Basic School   	Central Region	Assin North	538	226	312	Public
+Krachi Islamic Basic School	Eastern	Birim Central	682	155	527	public
+Cape Coast Central SDA Basic School	Western	Prestea-Huni Valley	787	322	465	PRIVATE
+Talensi Islamic Basic School	Central Region	Effutu	713	130	583	Private
+Techiman North Anglican Basic School	Western	Ahanta West	922	396	526	PUBLIC
+Keta Catholic Basic School	Greater Accra	Ledzokuku	1042	454	588	Public
+Wa Central Government Basic School	WESTERN	Ahanta West	792	311	481	private

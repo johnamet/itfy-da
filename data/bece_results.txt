@@ -1,0 +1,96 @@
+School_Name|Region|District|Year|Candidates|Passes|Pass_Rate
+Gushegu Presbyterian JHS|Upper East|Bolgatanga Municipal|2022/23|30|22|73.3
+Takoradi East SDA JHS|WESTERN|Nzema East|2023|79|32|
+Sunyani West Islamic JHS|CENTRAL|Effutu|2023|89|67|75.3
+Ashaiman Presby JHS|Ashanti|Kwabre East|2023/24|92|65|
+Kwahu North Government JHS|GREATER ACCRA|Ashaiman|2023/24|129|87|67.4
+Nungua Government JHS|Upper East|Kassena-Nankana|2023|178|70|39.3%
+Mfantsiman East Islamic JHS|Northern|Tamale Metro|2023/24|84|61|72.6
+Techiman East Islamic JHS|Eastern|Birim Central|2023|158|61|
+Hohoe South Government JHS|Western|Nzema East|2023/24|146|93|63.7
+Kintampo South Government JHS|Western|Sekondi-Takoradi Metro|2023|93|40|43.0%
+Chorkor Government JHS|Greater Accra|Accra Metro|2023|50|41|
+Akuapem Presbyterian JHS|Greater Accra|Ga East|2022/23|56|35|62.5
+Akuapem Anglican JHS|Greater Accra|Tema Metro|2023/24|173|147|
+Koforidua Islamic JHS|NORTHERN|Tamale Metro|2023|108|61|56.5
+Kintampo South Anglican JHS|Eastern|Kwahu West|2023|132|73|55.3
+Madina Presby JHS|VOLTA|Hohoe|2023|46|29|63.0
+Kpando Presby JHS|Northern|Sagnarigu|2023|151|165|109.3
+Agbogba Presbyterian JHS|CENTRAL|Assin North|2022/23|165|93|56.4%
+Assin Fosu Presbyterian JHS|Western|Ahanta West|2023|26|19|73.1
+Ashaiman Presby JHS|Ashanti|Ejisu|2023|43|23|
+Dome Methodist JHS|Upper East|Bongo|2023|172|116|67.4
+Anloga Anglican JHS|Ashanti|Asokwa|2023|136|81|
+Komenda Presbyterian JHS|Central|Assin North|2023/24|174|72|41.4%
+Techiman East Anglican JHS|Upper East|Builsa North|2023|131|65|49.6
+Nungua SDA JHS|volta|Hohoe|2023/24|57|52|91.2
+
+Darkuman Presbyterian JHS|UPPER EAST|Bolgatanga Municipal|2022/23|121|80|
+Assin Fosu SDA JHS|eastern|Birim Central|2023|146|63|
+Kasoa | South Government JHS|Upper East|Bolgatanga Municipal|2023|65|34|52.3
+Ho North D/A JHS|Ashanti|Suame|2023/24|91|62|68.1%
+Talensi North D/A JHS|Central|Cape Coast Metro|2023/24|43|33|76.7
+
+Assin Fosu Presbyterian JHS|Volta|Akatsi South|2023|120|78|65.0
+Nungua D/A JHS|upper east|Bongo|2023/24|63|55|87.3
+Yendi North SDA JHS|ashanti|Kumasi Metro|2023|75|52|69.3
+Akatsi Catholic JHS|Central|Cape Coast Metro|2023|104|87|83.7
+Techiman East Catholic JHS|VOLTA|Ho Municipal|2023|162|176|108.6
+Effutu Central D/A JHS|Volta|Akatsi South|2022/23|101|73|72.3
+Jasikan Islamic JHS|WESTERN|Sekondi-Takoradi Metro|2023|132|110|83.3
+Takoradi East Presby JHS|northern|Tamale Metro|2023/24|86|60|69.8%
+Fanteakwa Islamic JHS|western|Tarkwa-Nsuaem|2023|79|58|
+Ho North SDA JHS|Upper East|Kassena-Nankana|2023|75|70|93.3
+Kwahu North Anglican JHS|Central|Cape Coast Metro|2022/23|123|97|78.9
+Anloga Presby JHS|Greater Accra|Accra Metro|2023/24|107|90|84.1%
+Akatsi Islamic JHS|western|Ahanta West|2022/23|53|24|
+Yendi North Government JHS|Upper East|Kassena-Nankana|2023|69|41|59.4%
+Prampram Presbyterian JHS|northern|Tamale Metro|2023|63|41|
+Yendi North Government JHS|Volta|Keta|2023|152|79|52.0
+Ho North Anglican JHS|Central|Effutu|2023|66|61|92.4
+Wa Central Catholic JHS|Ashanti|Kumasi Metro|2023|83|41|49.4
+Effutu Central D/A JHS|greater accra|Ga East|2022/23|131|75|57.3
+Ashaiman Catholic JHS|Greater Accra|Accra Metro|2023/24|122|92|75.4
+Sunyani West Islamic JHS|Central|Mfantsiman|2023|106|70|66.0%
+Madina Methodist JHS|Central|Assin North|2023|143|99|69.2%
+Tarkwa Central | South D/A JHS|VOLTA|Hohoe|2023|117|84|71.8
+
+Kaneshie Government JHS|Ashanti|Suame|2023|137|117|85.4
+Sunyani West | South SDA JHS|Eastern|New Juaben South|2023/24|74|61|82.4%
+Sekondi Anglican JHS|Northern|Sagnarigu|2023|140|64|45.7
+Agbogba Government JHS|Central|Effutu|2023|158|130|82.3
+Madina D/A JHS|Volta|Ho Municipal|2023|91|61|67.0%
+Obuasi D/A JHS|EASTERN|New Juaben North|2022/23|113|99|87.6%
+Prampram Presby JHS|EASTERN|Birim Central|2023|90|83|
+Akatsi Presbyterian JHS|Greater Accra|Ashaiman|2022/23|34|31|91.2
+Talensi North | South Islamic JHS|Ashanti|Kwabre East|2023|168|135|80.4
+Ayigbe Anglican JHS|volta|Akatsi South|2023/24|154|106|68.8
+Tamale North D/A JHS|eastern|New Juaben South|2023/24|103|45|43.7
+Labadi Presbyterian JHS|greater accra|Tema Metro|2023|42|38|
+Ayigbe Islamic JHS|UPPER EAST|Kassena-Nankana|2023/24|129|83|64.3%
+Abeka Anglican JHS|GREATER ACCRA|Accra Metro|2023|172|124|72.1
+Berekum East Presbyterian JHS|ashanti|Suame|2023/24|62|56|90.3
+Anloga Government JHS|ashanti|Kumasi Metro|2022/23|110|79|
+Tamale North Anglican JHS|eastern|New Juaben South|2023|74|54|73.0%
+Prampram D/A JHS|Volta|Hohoe|2023|100|64|64.0
+Anloga Methodist JHS|Northern|Tolon|2023/24|170|104|61.2
+Assin Fosu D/A JHS|Volta|Akatsi South|2023|49|22|44.9
+Obuasi Methodist JHS|Volta|Ho Municipal|2023|30|27|90.0
+Komenda Anglican JHS|Northern|Tamale Metro|2023|120|62|51.7
+Achimota D/A JHS|Upper East|Builsa North|2023|40|28|70.0
+Akatsi Islamic JHS|NORTHERN|Sagnarigu|2022/23|150|101|67.3
+Darkuman Catholic JHS|Volta|Hohoe|2023|134|87|64.9%
+Agbogba | South Presbyterian JHS|Gr. Accra|Ga West|2023|172|175|101.7
+Tarkwa Central Presby JHS|volta|Hohoe|2023/24|57|27|47.4
+
+Nsawam D/A JHS|Northern|Tamale Metro|2023|108|53|
+Akropong Presbyterian JHS|Upper East|Kassena-Nankana|2022/23|141|134|95.0
+Cape Coast Central Methodist JHS|Ashanti|Asokwa|2023|99|44|44.4
+
+New Juaben SDA JHS|Western|Sekondi-Takoradi Metro|2023|65|38|58.5%
+Anloga | South Anglican JHS|central|Assin North|2023|164|79|48.2%
+Sunyani West D/A JHS|eastern|New Juaben North|2023|152|95|62.5
+Fanteakwa D/A JHS|Eastern|Kwahu West|2023|167|116|69.5
+Chorkor Presby JHS|Central|Cape Coast Metro|2023|159|108|
+Bolgatanga Islamic JHS|VOLTA|Ho Municipal|2023|134|80|
+Odorkor Presby JHS|Ashanti|Oforikrom|2023|57|26|
