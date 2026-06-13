@@ -1,0 +1,301 @@
+student_id,full_name,region,school_type,math_score,english_score,science_score,year_group,date_enrolled,gender
+STU-001,Emmanuel Frimpong,Eastern Region,Public,73,92,25,JHS 2,2020-11-27,Male
+STU-002,Priscilla Antwi,Ashanti,Public,38,46,80,jhs 3,2021-02-25,Female
+STU-003,Patience Nartey,Asante,public,55,60,,JHS 3,2022-02-15,Female
+STU-004,Esi Bonsu,central,Public,72,27,34,JHS 1,2022-10-23,m
+STU-005,Emmanuel Alhassan,greater accra,public,25,72,,JHS 2,2020-12-06,Male
+STU-006,Benjamin Dankwa,Greater Accra,Private,98%,84,27,JHS 3,2020-05-29,Male
+STU-007,Samuel Mahama,Eastern,Pvt,68,44,59,jhs 3,2020-11-10,Male
+STU-008,Comfort Lartey  ,Ashanti,public,32,45,29,JHS 2,2022-10-10,Female
+STU-009,Akosua Asante,Volta,Private,79,35,66,Form 1,2021-03-24,f
+STU-010,Joseph Frimpong,Western,Public,27,60,32,jhs 1,2021-03-21,Male
+STU-011,Adwoa Sarpong,Volta,Public,45,48,93,jhs 2,2022-10-22,m
+STU-012,Gifty Baah,upper east,Public,94,71,98,JHS 3,2020-09-25,Female
+STU-013,Mohammed Mahama,Ashanti,Government,55,79,84,JHS 2,2022-10-10,male
+STU-014,Yaw Bonsu,Eastern,Public,68,81,63,JHS 2,2020-10-12,MALE
+STU-015,Akosua Antwi  ,Central,Private,86,32,28,Form 1,2022-01-28,m
+STU-016,Emmanuel Frimpong,Upper East,PUBLIC,40,50,67,jhs 2,07/06/2020,Male
+STU-017,Akosua Appiah,Central,Government,88,52,29,JHS 1,2021-11-17,Female
+STU-018,Alberta Appiah,central,Public,54,81,87,JHS3,2022-10-22,Female
+STU-019,Ama Lartey,Western,private,53,81,54,JHS 3,2020-02-10,Female
+STU-020,Efua Gyasi,Gr. Accra,Public,50,44,26,JHS 1,2020-11-19,female
+STU-021,Kwame Ofori,ASHANTI,Public,27%,35,56,JHS 3,2021-03-25,Male
+STU-022,Kwesi Danso,Greater Accra,Govt,88,30,76,JHS 2,2022-09-14,Male
+STU-023,Mohammed Owusu,central,Public,74%,62,31,jhs2,2020-08-24,Male
+STU-024,Afia Agyei,WESTERN,Public,81,54,31,JHS 1,2022-02-05,Female
+STU-025,Abena Lartey,Eastern,PUBLIC,67%,80,48,Form 2,2020-02-08,Female
+STU-026,Akosua Asante,western,public,70%,92,73,Year 3,2021-01-23,Female
+STU-027,Fatima Frimpong,Volta,Public,32,56,63,JHS3,2021-11-02,F
+STU-028,Fatima Antwi  ,Central,PUBLIC,88,90,,Year 1,2021-03-09,F
+STU-029,Esi Nartey,Western,Public,83,39,85,Year 1,2020-04-09,m
+STU-030,Kwame Ofori,central,Pvt,69%,25,77,JHS 3,2021-06-10,Male
+STU-031,Efua Poku,Volta,Govt,60,,45,JHS1,2020-01-08,Female
+STU-032,Rashida Frimpong,Greater Accra,Public,41,66,46,Year 3,2021-02-10,Female
+STU-033,Joseph Amoah,Volta,Private,56,63,66,JHS2,11/04/2021,Male
+STU-099,Abena Tetteh,Upper East,Public,31,73,87,JHS 3,2020-06-22,F
+STU-035,Alberta Baah,GREATER ACCRA,Public,81%,36,98,JHS3,2022-04-14,F
+STU-036,Rashida Sarpong,Central,public,43,45,77,JHS 2,2021-10-04,f
+STU-037,Gifty Mahama,greater accra,Public,55,95,85,JHS 2,26/07/2021,f
+STU-038,Kobina Tetteh,Upper East,Govt,92,46,37,Form 1,2021-01-14,MALE
+STU-039,Esi Tetteh,Eastern,PUBLIC,51,93,46,JHS2,2020-01-23,f
+STU-040,Joseph Bonsu,Northern,Public,78,50,58,jhs 1,2022-03-24,Male
+STU-041,Fatima Poku,Volta,Public,45,54,48,JHS 3,2020-07-30,Female
+STU-042,Akosua Issahaku,Volta,Public,97,48,46,jhs 1,2022-03-23,F
+STU-043,Rashida Asante,Western,private,74,68,,JHS 1,2020-08-30,f
+STU-044,Samuel Ofori,Volta,private,86,59,35,JHS 3,2022-04-03,Male
+STU-045,Yaw Frimpong,Ashanti,Public,61,32,77,jhs 2,2021-05-13,MALE
+STU-046,Kweku Gyasi,Northern,Private,65,71,61,Year 2,2021-08-02,MALE
+STU-047,Comfort Owusu,ASANTE,Private,54,92,58,JHS 2,2020-06-03,Female
+STU-048,Joseph Owusu,Northern,Private,36,76,,Year 3,2022-10-07,Male
+STU-059,Kweku Acheampong,Eastern,Public,50,97,39,JHS 3,2022-04-02,Male
+STU-050,Priscilla Issahaku,eastern,Private,28%,27,94,jhs2,2020-09-18,FEMALE
+STU-051,Efua Alhassan,Ashanti,PUBLIC,48,30,41,jhs2,2020-12-12,m
+STU-052,Esi Tetteh,Gr. Accra,PRIVATE,85,85,57,JHS 3,2020-05-24,M
+STU-053,Adwoa Baah,Eastern,Pvt,46%,25,92,JHS 3,2020-01-31,FEMALE
+STU-054,Akosua Ofori,Greater Accra,Public,50,71,86,Year 3,2021-10-04,female
+STU-055,Comfort Frimpong,Central,Private,68,95,29,JHS 3,2021-06-30,M
+STU-056,Mohammed Baah,Northern,Public,31%,98,29,JHS 3,2022-08-01,Male
+STU-057,Kwesi Sarpong,Western Region,Private,92,91,94,JHS 3,2020-03-27,Male
+STU-058,Gifty Kyei,Central,Public,64,85,48,JHS 1,17/05/2020,Female
+STU-059,Fatima Lartey,western,GOVT,48%,56,87,Form 1,2020-06-11,Female
+STU-060,Efua Poku,upper east,Private,73,64,98,JHS 2,2021-04-04,Female
+STU-061,Kojo Nartey,Volta,Public,82%,39,46,JHS 1,2020-05-28,MALE
+STU-062,Joseph Nartey,ASANTE,PUBLIC,35,87,77,JHS 2,2020-03-12,Male
+STU-063,Kwesi Poku,WESTERN,Public,50,64,90,Year 3,2020-07-15,Male
+STU-064,Efua Mahama,central,Private,53,31,41,JHS 3,2021-09-16,Female
+STU-065,Afia Twum  ,Volta,PUBLIC,58,79,37,JHS 2,2022-01-22,Female
+STU-066,Efua Baah,greater accra,Public,43,,69,JHS 2,2020-05-02,M
+STU-067,Yaw Appiah,Upper East,Public,29,71,34,JHS 3,2022-06-08,Male
+STU-068,Kobina Lartey,Ashanti,Public,86,,61,Year 2,2020-05-08,Male
+STU-069,Priscilla Issahaku,Northern,Govt,74,94,81,JHS 1,2020-11-21,Female
+STU-070,Daniel Sarpong,Upper East,Govt,37,,33,JHS 1,2021-04-19,Male
+STU-071,Alhassan Agyei,U/E,Public,40,52,63,JHS 3,2022-06-16,Male
+STU-072,Alhassan Lartey,UPPER EAST,Private,84,,50,JHS 1,2022-06-25,Male
+STU-073,Benjamin Poku,Eastern,Public,74,,89,JHS 3,2022-09-29,Male
+STU-074,Samuel Acheampong,Ashanti,Public,89,87,47,JHS 2,2020-09-02,male
+STU-075,Ama Antwi,Western,Public,94,43,56,JHS 2,2021-07-21,Female
+STU-084,Efua Mensah,Northern,Govt,29,90,83,jhs1,2022-08-15,female
+STU-077,Abena Owusu,Greater Accra,Public,64%,76,78,Form 3,2022-04-08,Female
+STU-078,Akosua Twum,Ashanti,GOVT,35,29,34,JHS 2,2022-05-12,F
+STU-079,Ama Twum,NORTHERN,Public,54,26,94,JHS 2,2020-11-04,m
+STU-080,Emmanuel Sarpong,Upper East,Private,53,43,37,JHS1,2022-12-03,Male
+STU-081,Fatima Kyei,EASTERN,Private,96,,52,jhs 3,2022-01-06,Female
+STU-082,Afia Agyei,UPPER EAST,Public,67,64,45,JHS 3,2022-04-08,Female
+STU-083,Gifty Boateng,NORTHERN,Public,27,48,36,Form 2,2021-01-16,Female
+STU-084,Priscilla Antwi,Upper East,private,40,57,92,JHS 1,15/09/2021,Female
+STU-085,Alberta Acheampong,VOLTA,PUBLIC,70,34,39,JHS 1,2021-05-31,m
+STU-086,Abena Ofori,Western,Public,42,85,32,JHS 2,2022-07-14,FEMALE
+STU-087,  Kwame Amoah,Eastern,PRIVATE,97,49,66,Form 1,2022-02-15,Male
+STU-088,Ama Owusu,Greater Accra,Private,79,44,26,Year 3,2022-06-30,Female
+STU-089,Rashida Ofori,Volta,Private,84,78,39,JHS 3,2020-04-16,m
+STU-090,Kwame Mahama,Western Region,GOVT,41,42,69,JHS1,2020-12-17,Male
+STU-091,Kwame Danso,western,public,72,68,,JHS1,2020-09-06,MALE
+STU-061,Gifty Mahama,Greater Accra,public,46,48,67,JHS3,2022-04-27,Female
+STU-093,Yaw Frimpong,Northern,Private,42,70,37,JHS 3,2022-01-02,Male
+STU-094,Rashida Yakubu,Northern,Public,49,34,65,Form 3,2021-04-29,Female
+STU-095,Comfort Acheampong,Eastern,Public,51,82,45,JHS3,2020-11-10,m
+STU-096,Kwesi Acheampong,Northern,Public,58,60,50,jhs 1,2021-08-16,Male
+STU-097,Kwame Yakubu,Volta,Pvt,51,95,57,JHS 1,2020-11-19,Male
+STU-098,Alberta Danso,Volta,Public,25,85,,jhs3,2022-10-15,Female
+STU-099,Benjamin Asante,U/E,Public,31,65,91,JHS 2,2020-11-26,Male
+STU-100,Kwame Mahama,U/E,Pvt,46,26,60,JHS 2,2021-05-13,Male
+STU-101,Efua Gyasi,Volta,Pvt,64,36,93,JHS 3,2022-11-22,Female
+STU-102,Alberta Ofori,Volta,Public,66,64,32,jhs 1,12/11/2021,Female
+STU-103,Patience Antwi,Central,PUBLIC,50,64,48,Year 1,04/02/2020,Female
+STU-104,Daniel Amoah,ASANTE,Public,52,37,33,Form 1,04/11/2022,Male
+STU-105,Akua Lartey,Western,Public,79,98,79,JHS 3,2021-01-04,Female
+STU-106,Efua Owusu,Eastern Region,Private,66,32,27,JHS 2,21/10/2021,Female
+STU-107,Patience Bonsu,Upper East,Public,39,74,35,JHS 1,20/03/2022,m
+STU-108,Daniel Darko,UPPER EAST,Public,63,36,72,JHS 3,2021-12-24,Male
+STU-109,Ama Poku  ,Central,Private,31%,94,30,JHS 1,2021-05-09,Female
+STU-110,Joseph Yakubu,Greater Accra,Private,71,61,40,jhs1,2022-12-18,Male
+STU-111,Akua Alhassan,Western,GOVT,82,48,34,JHS 2,2021-11-24,Female
+STU-112,Comfort Yakubu,Ashanti,Public,105,42,29,jhs 2,2022-12-28,f
+STU-113,Mohammed Darko,Northern,Public,59,45,35,Year 3,2021-11-20,Male
+STU-114,Efua Osei,Greater Accra,Pvt,37,,93,JHS 2,2020-10-24,Female
+STU-115,Abena Mensah,eastern,Public,34%,45,58,jhs 3,2020-06-02,Female
+STU-116,Kwesi Boateng,UPPER EAST,Public,86,58,54,JHS 2,2021-06-05,Male
+STU-117,Kwame Asante,Greater Accra,Private,72,72,35,JHS 3,09/07/2021,male
+STU-118,Alberta Kyei,Upper East,Public,57,,97,JHS3,2021-07-10,Female
+STU-119,Alberta Issahaku,Western,Public,29,53,40,JHS 1,2022-11-11,m
+STU-120,Ibrahim Darko,Upper East,PUBLIC,90,83,93,jhs 3,2020-04-10,Male
+STU-121,Alberta Frimpong,Volta,public,56,37,62,JHS 2,2021-04-19,Female
+STU-122,Rashida Issahaku,volta,private,55,44,30,JHS 2,2022-10-04,Female
+STU-123,Benjamin Gyasi,Northern,Public,81,94,95,jhs 1,2020-02-13,Male
+STU-124,Adwoa Nartey,VOLTA,Public,68,41,76,jhs 3,2022-07-23,Female
+STU-125,Akua Antwi,Central,Public,83,29,60,JHS 3,2022-06-24,m
+STU-126,Akua Poku,upper east,Public,70,38,42,JHS 2,2020-10-19,female
+STU-127,Alberta Gyasi,Upper East,Private,54,80,67,Form 1,2022-10-30,FEMALE
+STU-128,Rashida Kyei,CENTRAL,Public,38%,72,52,Form 3,2020-05-26,Female
+STU-129,Priscilla Amoah,U/E,Public,93,70,51,JHS 1,2020-07-25,female
+STU-130,Ibrahim Frimpong,Gr. Accra,Public,39,65,59,JHS 1,2020-07-29,male
+STU-131,Kwame Appiah,Eastern,public,97,85,,JHS1,2020-06-17,Male
+STU-132,Yaw Amoah,Ashanti,Government,89,30,69,JHS 2,03/12/2021,Male
+STU-133,Kofi Alhassan,Asante,Public,53%,98,40,JHS 3,2022-07-13,Male
+STU-134,Rashida Amoah,Ashanti,PRIVATE,52,97,89,JHS 2,2020-02-28,Female
+STU-135,Patience Ofori,U/E,Public,97,70,39,JHS 2,2022-11-14,Female
+STU-136,Rashida Appiah,CENTRAL,Public,-12,64,52,JHS 2,2022-02-25,Female
+STU-137,Esi Antwi,Central,Public,32,,33,Year 2,2022-08-28,Female
+STU-138,Akosua Tetteh,NORTHERN,PUBLIC,87,27,31,Year 1,2020-01-16,Female
+STU-139,Ama Asante  ,Upper East,Public,96%,66,62,JHS 1,2021-04-04,Female
+STU-140,Kwame Alhassan,Volta,GOVT,26,70,74,Form 1,2022-08-14,Male
+STU-141,Daniel Ofori,VOLTA,Govt,45,27,55,JHS 2,2021-01-17,Male
+STU-142,Afia Appiah,eastern,Public,93,28,50,JHS 2,2020-01-28,M
+STU-143,Abena Sarpong,Ashanti,private,85,83,74,jhs 3,2020-12-25,f
+STU-144,Alberta Bonsu,northern,Govt,32,30,92,jhs2,2021-12-29,F
+STU-145,Kofi Danso,central,Public,42,36,46,JHS 3,2022-06-12,Male
+STU-146,Ibrahim Tetteh,EASTERN,Public,47,30,61,jhs 2,17/11/2021,Male
+STU-147,Kwame Appiah,Greater Accra,Public,83,85,51,JHS 1,2021-05-29,MALE
+STU-148,Gifty Nartey,Eastern,Government,53%,80,48,jhs2,2021-10-11,female
+STU-149,Akua Mensah,western,Public,45,81,90,JHS 2,2022-03-04,FEMALE
+STU-150,Ama Antwi,northern,Govt,67,27,,JHS 2,2020-04-25,Female
+STU-151,Rashida Poku,Volta,Private,150,29,32,JHS 3,2021-03-20,Female
+STU-152,Kojo Kyei,Volta,Public,27,51,30,JHS 2,2022-03-24,Male
+STU-153,Efua Owusu,Volta,PRIVATE,83,45,84,JHS 3,2021-06-05,f
+STU-154,Adwoa Appiah,GREATER ACCRA,PRIVATE,25,56,84,JHS 2,2021-02-17,f
+STU-155,Kofi Asante,northern,Private,82,70,75,JHS 1,06/06/2022,Male
+STU-156,Afia Osei,Ashanti,Public,41,65,26,jhs3,2020-02-03,Female
+STU-157,Mohammed Ofori,eastern,Public,68,54,,jhs3,2020-06-02,Male
+STU-158,Rashida Lartey,CENTRAL,Private,39,,52,JHS 1,2021-02-01,Female
+STU-159,Rashida Tetteh,Northern,Public,36,80,,jhs1,2021-02-06,Female
+STU-160,Priscilla Owusu,Northern,Public,89,47,79,JHS 1,2021-08-24,Female
+STU-161,Rashida Kyei,Northern,GOVT,40,87,56,JHS 1,2022-04-30,Female
+STU-162,  Adwoa Appiah,volta,Public,45,,96,JHS 2,2021-05-10,F
+STU-163,Emmanuel Owusu,Upper East,Public,86,75,31,Year 1,2021-01-10,Male
+STU-164,Kweku Gyasi,northern,PUBLIC,72,85,36,JHS 3,04/03/2020,MALE
+STU-022,Kojo Kyei,WESTERN,Public,25,44,84,JHS 1,2020-06-27,Male
+STU-166,Patience Yakubu,Central,Public,44,,30,JHS 2,2020-11-21,F
+STU-167,Samuel Alhassan,Volta,Public,52,67,73,JHS1,2022-09-13,male
+STU-168,Afia Yakubu,western,PRIVATE,83,44,51,JHS 1,07/02/2021,Female
+STU-169,Ama Kyei,Western,Private,59,72,72,JHS 3,2022-01-16,Female
+STU-170,Esi Nartey,Eastern,Public,41%,26,39,Year 1,2021-03-31,m
+STU-171,Gifty Kyei,Northern,Public,71,51,,JHS 3,2021-02-13,Female
+STU-172,Afia Agyei,Eastern,Private,46,66,28,Year 2,2021-08-04,female
+STU-173,Rashida Boateng,NORTHERN,Public,26,44,55,JHS 2,2022-12-23,f
+STU-174,Kweku Osei,greater accra,Public,97,25,95,jhs1,2021-04-07,Male
+STU-175,  Mohammed Asante,Greater Accra,Private,39,33,29,Form 1,2021-03-07,Male
+STU-176,Kwesi Mahama,Central,Public,64,33,42,JHS 2,2021-10-31,Male
+STU-177,Esi Appiah,Asante,GOVT,61,87,67,JHS 2,2022-03-04,female
+STU-178,  Kobina Alhassan,Eastern,Government,94,59,81,JHS 2,11/08/2020,Male
+STU-179,Kwame Alhassan,UPPER EAST,Public,41,63,40,JHS 1,2021-06-08,Male
+STU-180,Joseph Owusu,Central,Government,89,91,71,Year 2,22/11/2022,Male
+STU-181,Abena Appiah,Volta,Private,88,58,96,JHS 1,2022-04-02,Female
+STU-182,Priscilla Asante,Eastern,Pvt,58%,58,70,JHS2,2022-07-09,Female
+STU-183,Priscilla Bonsu,Gr. Accra,Public,96%,72,82,jhs 1,2021-08-25,Female
+STU-184,Esi Ofori,Ashanti,Private,94,70,91,JHS 3,2022-08-24,Female
+STU-185,Adwoa Boateng,CENTRAL,Public,38,74,,JHS 1,2021-12-27,f
+STU-103,Adwoa Mensah,WESTERN,Public,60,29,31,JHS3,2022-11-21,M
+STU-187,Kweku Ofori,Northern,Public,95,80,36,JHS 2,2021-05-21,Male
+STU-188,Rashida Gyasi,Upper East,Public,59,36,,JHS 1,2020-04-06,Female
+STU-189,Akosua Nartey,Asante,Public,32,40,32,JHS 2,2021-11-06,Female
+STU-190,Priscilla Asante,Central,Public,66,51,97,JHS 1,2020-08-05,f
+STU-191,Samuel Dankwa,Volta,Private,81%,59,66,jhs2,2021-09-11,Male
+STU-192,Esi Osei,Gr. Accra,Public,51,77,74,JHS3,2022-07-17,FEMALE
+STU-193,Patience Baah,Volta,Public,61%,71,84,JHS 2,2020-05-29,Female
+STU-194,Akosua Darko,Eastern Region,Private,38,64,55,Form 1,2020-06-26,F
+STU-195,Yaw Issahaku,ASANTE,Private,50,,89,JHS 3,2022-09-26,Male
+STU-196,Daniel Acheampong,Volta,Public,65,64,56,JHS 3,2022-04-10,Male
+STU-125,Efua Boateng,Eastern,Public,65,45,86,JHS 2,2022-04-21,Female
+STU-198,Abena Amoah,Central,PUBLIC,44%,43,56,JHS 2,2022-07-28,f
+STU-199,Samuel Poku,WESTERN,PUBLIC,59%,80,54,JHS 3,2020-12-13,Male
+STU-200,Kwesi Asante,Greater Accra,Public,66,28,72,JHS 1,2021-02-09,MALE
+STU-201,Adwoa Gyasi,northern,GOVT,88%,39,47,JHS 3,2021-05-22,M
+STU-202,Mohammed Bonsu,volta,Govt,95%,72,38,JHS 1,2021-05-05,MALE
+STU-203,  Gifty Ofori,western,Public,93%,95,89,jhs 3,2021-01-08,Female
+STU-204,Patience Asante,EASTERN,GOVT,77,73,,jhs 3,2020-12-24,Female
+STU-205,Kobina Frimpong,UPPER EAST,Private,77,68,,jhs 2,2020-02-16,Male
+STU-206,Gifty Dankwa,Volta,Public,81,63,58,JHS3,2021-09-10,Female
+STU-207,Yaw Mahama,Central,public,26,25,29,JHS 1,2021-11-03,Male
+STU-208,Daniel Issahaku,Western,Public,89%,80,40,jhs 3,2022-02-05,Male
+STU-209,Kofi Kyei,NORTHERN,Government,60,51,62,Year 3,2020-04-16,Male
+STU-210,Abena Kyei,Gr. Accra,Public,31,40,70,JHS 3,2020-03-16,M
+STU-211,Alberta Mahama,EASTERN,Public,52,59,76,JHS 3,2022-10-19,Female
+STU-212,Kobina Danso  ,Northern,Government,92,98,57,JHS 2,2020-05-02,Male
+STU-213,  Kojo Owusu,U/E,Private,66%,65,36,JHS 2,2021-06-14,MALE
+STU-214,Ibrahim Sarpong,central,Public,58,31,72,Form 2,2020-06-18,Male
+STU-215,Efua Antwi,Volta,Private,58,25,39,JHS 2,2021-09-13,FEMALE
+STU-216,Ama Twum,volta,Government,60,97,79,JHS 1,2022-11-14,Female
+STU-217,Priscilla Bonsu,Western,PRIVATE,29,60,57,JHS2,19/09/2021,Female
+STU-218,Kojo Issahaku,Ashanti,Public,83,37,75,jhs 2,2021-02-06,Male
+STU-219,Samuel Acheampong,VOLTA,Public,57%,65,53,JHS 1,2022-08-02,Male
+STU-220,Efua Nartey,Western,Public,63,88,29,jhs 1,2020-01-06,Female
+STU-221,Akosua Poku,Volta,Public,25,48,55,jhs 1,2020-01-19,M
+STU-222,Esi Osei,Eastern Region,Public,64,36,68,jhs 2,2021-08-05,female
+STU-223,Benjamin Mahama,Ashanti,Public,82,28,96,JHS 1,2020-12-26,male
+STU-224,Alhassan Lartey,Upper East,Public,77,25,79,Form 2,2022-12-07,male
+STU-225,Adwoa Agyei,Central,Private,56%,70,94,JHS 2,2022-02-17,Female
+STU-226,Ama Agyei,Eastern Region,Public,67,37,52,Form 2,25/10/2020,Female
+STU-227,Ibrahim Lartey,Upper East,Public,79,97,68,JHS 1,2021-06-07,MALE
+STU-228,Ibrahim Lartey,Volta,private,83,28,47,jhs3,2022-10-02,Male
+STU-229,Emmanuel Gyasi,Western,Government,87,75,55,jhs2,2021-01-22,Male
+STU-230,Adwoa Tetteh,Central,private,53,32,43,Year 1,2022-08-14,Female
+STU-231,Patience Bonsu,Volta,Private,39,37,45,Year 1,2020-02-13,Female
+STU-232,Abena Frimpong,Upper East,Public,88,54,69,JHS1,2020-06-15,Female
+STU-233,Alberta Twum,Volta,GOVT,66,70,27,JHS 2,2022-02-18,FEMALE
+STU-234,Benjamin Frimpong  ,Northern,Private,78,94,59,JHS 1,12/12/2021,Male
+STU-235,Kwesi Kyei,upper east,Public,27%,55,76,JHS2,2020-08-30,Male
+STU-236,Adwoa Asante,Upper East,Public,27,,56,JHS 2,2022-11-15,f
+STU-237,Benjamin Asante,Ashanti,Public,56,58,38,Form 2,2021-10-02,Male
+STU-238,Ama Lartey,Central,Public,53,47,38,JHS 2,03/02/2020,Female
+STU-239,Joseph Darko,VOLTA,Private,78,71,54,JHS 1,2020-06-18,Male
+STU-240,Fatima Appiah,Ashanti,Public,91,27,43,JHS 3,24/09/2022,FEMALE
+STU-241,Benjamin Gyasi,EASTERN,Public,92,51,62,JHS 2,2020-07-12,Male
+STU-242,Kweku Bonsu,NORTHERN,Government,44,73,53,JHS 2,2020-03-10,Male
+STU-243,Adwoa Appiah,Eastern,Public,72,63,87,JHS 1,17/01/2021,Female
+STU-244,Gifty Ofori  ,Western,GOVT,39,91,71,JHS 1,2021-09-13,FEMALE
+STU-245,Kobina Amoah,upper east,Private,60,25,26,JHS 1,2020-08-06,MALE
+STU-246,  Benjamin Dankwa,CENTRAL,Private,82,69,81,JHS1,2022-12-15,Male
+STU-247,Alberta Antwi,Ashanti,Government,94%,65,67,JHS 2,2021-05-22,Female
+STU-248,Efua Kyei,G.Accra,Govt,78,71,72,Year 1,2022-05-26,Female
+STU-249,Joseph Osei,Western,Public,49,79,77,JHS 1,2020-03-10,Male
+STU-250,Joseph Agyei,Central,Public,95,44,76,JHS 3,2021-08-06,Male
+STU-251,Akua Darko,Western,Public,44,43,73,JHS 1,2020-10-10,Female
+STU-252,Abena Gyasi,G.Accra,public,94%,62,44,JHS3,2020-05-01,f
+STU-253,Kweku Appiah,CENTRAL,Public,67,33,38,jhs 2,07/07/2022,Male
+STU-254,Kweku Agyei,EASTERN,private,36,44,80,JHS3,18/06/2021,Male
+STU-255,Efua Mensah,ASHANTI,PUBLIC,70,87,79,JHS1,2020-05-30,Female
+STU-256,Daniel Antwi,Central,Public,60,34,86,jhs3,2022-03-23,Male
+STU-257,Efua Frimpong,Greater Accra,Govt,56%,40,91,JHS 3,2022-04-08,female
+STU-258,Kofi Tetteh,Western,Pvt,87,36,35,jhs1,17/03/2020,Male
+STU-259,Rashida Acheampong,Central,Govt,33,97,31,JHS 2,2020-07-22,Female
+STU-260,Ama Osei,Upper East,Government,38,63,91,jhs1,2022-07-27,Female
+STU-261,Akosua Kyei,Volta,Public,73,,60,JHS 1,2020-06-29,Female
+STU-262,Adwoa Issahaku,eastern,Private,53,87,96,JHS 2,2022-02-14,FEMALE
+STU-263,Emmanuel Frimpong,upper east,PUBLIC,31,76,47,Year 1,2021-07-20,Male
+STU-264,Samuel Mahama,volta,Public,76,,64,JHS 2,2022-05-14,Male
+STU-265,Alhassan Mahama,Greater Accra,Public,29,47,66,JHS 1,09/03/2022,Male
+STU-117,Adwoa Owusu,Northern,PUBLIC,65,87,68,JHS 1,2020-03-04,m
+STU-267,Ama Darko,Ashanti,Government,41,,77,JHS 3,2022-01-27,F
+STU-268,Afia Agyei,Greater Accra,Public,38,82,55,JHS1,2022-08-17,f
+STU-269,Kweku Gyasi,central,GOVT,25,65,,JHS 2,2022-12-07,Male
+STU-270,Joseph Acheampong,Greater Accra,Public,29%,31,78,JHS 1,2020-08-19,MALE
+STU-271,  Kofi Agyei,greater accra,Public,31,90,60,jhs2,2021-07-29,Male
+STU-272,Kofi Owusu,Volta,Public,36,38,60,Form 1,2022-03-18,Male
+STU-273,  Efua Amoah,Ashanti,Private,70%,79,73,Form 2,2020-12-05,f
+STU-274,Comfort Kyei,Ashanti,Private,89%,71,34,JHS3,2022-11-19,Female
+STU-275,Afia Agyei  ,VOLTA,Public,82,26,70,JHS 3,2021-06-14,Female
+STU-276,Comfort Mensah,G.Accra,Private,59,30,25,Year 3,2020-06-27,m
+STU-277,Abena Dankwa,Greater Accra,Public,37,78,68,jhs 3,2021-12-08,f
+STU-278,Patience Mensah,EASTERN,Public,34%,51,91,JHS 1,2021-07-20,Female
+STU-279,Patience Yakubu,CENTRAL,private,46,44,30,JHS 1,2020-09-23,Female
+STU-280,Kwame Twum,Central,Public,75%,44,53,JHS 3,2021-03-01,male
+STU-281,Mohammed Gyasi,Upper East,Public,35,33,49,JHS 1,08/08/2022,male
+STU-282,Emmanuel Darko,Upper East,Public,36%,40,95,JHS1,2021-11-13,Male
+STU-283,Kojo Gyasi,Western,GOVT,62,96,29,JHS 3,2022-06-06,Male
+STU-284,Kofi Appiah,Northern,Public,92,50,62,JHS 3,2022-02-06,Male
+STU-285,Alhassan Owusu,Volta,Public,26,38,45,JHS 2,14/05/2022,Male
+STU-286,Afia Antwi,Northern,Public,30,93,84,Year 3,2022-01-18,Female
+STU-287,Kofi Gyasi,Volta,PUBLIC,93,54,51,JHS 1,2020-10-24,Male
+STU-288,Adwoa Baah,Northern,Govt,53,91,38,JHS 3,2022-02-13,f
+STU-289,Samuel Amoah,Upper East,Public,40,89,79,JHS 2,2022-03-27,Male
+STU-290,Alberta Acheampong,Upper East,private,64,,71,JHS 2,2020-03-07,M
+STU-291,Alhassan Asante,central,Public,58%,47,43,Year 3,2020-06-02,Male
+STU-292,Ama Boateng,Western,Public,83,94,43,JHS 2,2020-08-08,Female
+STU-293,  Alhassan Kyei,U/E,Public,63,36,90,Form 1,2022-12-12,male
+STU-294,Ibrahim Poku,Western,Public,44,84,93,JHS 3,2021-12-30,Male
+STU-295,Kwesi Mensah,volta,public,84%,27,89,Year 2,2022-05-09,MALE
+STU-296,Kojo Agyei,WESTERN,Private,98,28,,JHS 1,2021-03-31,Male
+STU-297,Patience Amoah,Greater Accra,Govt,78,32,47,jhs1,2020-12-01,F
+STU-298,Akosua Frimpong,Eastern,Public,29,97,49,jhs 3,2020-08-30,Female
+STU-299,Afia Sarpong,VOLTA,Public,29,33,31,Form 3,2022-10-08,F
+STU-300,Rashida Bonsu,NORTHERN,PUBLIC,80,,25,JHS 3,2020-05-29,M

@@ -1,0 +1,281 @@
+patient_id,patient_name,region,age,gender,ward,diagnosis,admission_date,discharge_date,length_of_stay
+PAT-001,Ama Alhassan,central,51,Female,Emergency,Malaria,2023-06-24,2023-07-04,10
+PAT-002,Nana Mahama,volta,26,Male,Maternity,Maternal Complication,2023-12-29,,
+PAT-003,Akua Asante,Upper East,26,Male,Maternity,Anaemia,10/09/2023,2023-09-18,8
+PAT-004,Kobina Osei,Eastern,14,Male,maternity,Respiratory Infection,2023-10-27,2023-11-03,7
+PAT-005,Abena Ofori,Volta,36,Female,General,Gastroenteritis,2023-03-23,2023-04-13,21
+PAT-006,Kweku Alhassan,Upper East,22,Female,General,Fracture,2023-12-03,2023-12-16,13
+PAT-007,Kweku Acheampong,EASTERN,47,M,General,Gastroenteritis,2023-01-09,2023-01-16,7
+PAT-008,Ibrahim Mahama,Volta,26,Female,General,Fracture,2023-05-15,2023-05-28,13
+PAT-009,Efua Mensah,eastern,10,Female,Paediatric,Respiratory Infection,2023-06-16,2023-07-05,19
+PAT-010,Akosua Tetteh,U/E,42,Female,General,Gastroenteritis,2023-10-11,2023-10-13,2
+PAT-011,Akosua Issahaku,Northern,51,Female,SURGICAL,Respiratory Infection,2023-05-12,2023-05-13,1
+PAT-012,Kweku Alhassan  ,EASTERN,47,Female,General,Maternal Complication,2023-06-24,2023-06-29,5
+PAT-013,Kweku Mensah,Western,49,male,Matern,Malaria,17/11/2023,2023-11-27,10
+PAT-014,Comfort Ofori,Upper East,63,M,Paediatric,Respiratory Infection,2023-08-26,2023-08-30,4
+PAT-015,Kweku Dankwa,Ashanti,50.0,Male,maternity,Maternal Complication,2023-10-14,2023-10-17,3
+PAT-016,Ibrahim Owusu,Northern,58.0,FEMALE,general,Appendicitis,2023-02-04,2023-02-21,17
+PAT-017,Kweku Alhassan,CENTRAL,78,Male,Maternity,Anaemia,17/06/2023,2023-07-03,16
+PAT-018,Akosua Mensah,Ashanti,79,Female,General,Diabetes,2023-05-09,2023-05-16,7
+PAT-019,Kwesi Amoah,CENTRAL,77,F,Paediatric,Appendicitis,2023-02-22,,
+PAT-020,Efua Osei,Volta,33.0,MALE,Paediatric,Respiratory Infection,2023-08-26,2023-09-10,15
+PAT-021,Gifty Antwi,Western,57,Female,Matern,Malaria,2023-03-02,2023-03-23,21
+PAT-022,Abena Darko,Upper East,69,F,Maternity,Maternal Complication,2023-05-15,2023-05-24,9
+PAT-023,Kwame Dankwa,Northern,14,Female,maternity,Gastroenteritis,2023-03-19,,
+PAT-024,Esi Antwi,Greater Accra,33,Male,General,Anaemia,2023-01-04,2023-01-10,6
+PAT-025,Patience Tetteh,Volta,22,Male,emergency,Diabetes,12/01/2023,2023-01-20,8
+PAT-026,Nana Asante,Greater Accra,55.0,F,General,Anaemia,2023-05-19,2023-05-24,5
+PAT-027,Akua Sarpong  ,Northern,11,MALE,Gen,Gastroenteritis,2023-05-04,2023-05-07,3
+PAT-028,Ama Tetteh,eastern,21.0,Male,General,Appendicitis,2023-08-16,2023-09-03,18
+PAT-029,Fatima Mahama,Northern,74.0,Female,paediatric,Gastroenteritis,2023-08-31,2023-09-02,2
+PAT-030,Nana Asante,Ashanti,51,Male,Paediatric,Fracture,2023-09-25,,
+PAT-031,Kobina Gyasi,Western,37,M,general,Maternal Complication,2023-07-09,2023-07-15,6
+PAT-032,Abena Frimpong,Northern,68,male,PAEDIATRIC,Respiratory Infection,2023-10-24,,
+PAT-033,Akosua Amoah,Western,13,Male,GENERAL,Typhoid,2023-03-18,2023-04-04,17
+PAT-034,Kwesi Asante,Eastern,80.0,FEMALE,Maternity,Fracture,2023-08-30,2023-08-31,1
+PAT-035,Kofi Darko,Central,16,FEMALE,General,Respiratory Infection,2023-08-08,2023-08-29,21
+PAT-036,Kwame Frimpong,Northern,48,FEMALE,Maternity,Appendicitis,2023-08-30,2023-09-17,18
+PAT-037,Adwoa Ofori,Upper East,55,Female,General,Fracture,2023-02-23,2023-03-10,15
+PAT-038,Kojo Gyasi  ,Ashanti,17,Female,General,Gastroenteritis,2023-04-26,2023-05-02,6
+PAT-039,Kobina Mahama,Volta,55,Male,Paediatric,Appendicitis,17/08/2023,2023-08-18,1
+PAT-040,Adwoa Boateng,Asante,55,Male,General,Gastroenteritis,2023-08-19,2023-08-23,4
+PAT-041,Nana Gyasi,Northern,26,Female,Paediatric,Hypertension,2023-03-31,2023-04-05,5
+PAT-042,Ibrahim Appiah,Greater Accra,27,MALE,Maternity,Typhoid,01/12/2023,2023-12-12,11
+PAT-043,Kweku Alhassan,U/E,75,Male,General,Typhoid,2023-11-03,2023-11-13,10
+PAT-044,Comfort Boateng,upper east,14.0,male,Maternity,Malaria,2023-08-06,2023-08-20,14
+PAT-045,Patience Appiah,Asante,30,M,Paediatric,Gastroenteritis,2023-08-13,,
+PAT-046,Priscilla Issahaku,eastern,11,M,General,Anaemia,2023-08-31,2023-09-11,11
+PAT-047,Akosua Darko,greater accra,45,Male,General,Fracture,2023-03-10,2023-03-17,7
+PAT-048,Esi Twum,NORTHERN,5,Male,Paediatric,Anaemia,2023-09-19,2023-09-30,8
+PAT-049,Kobina Acheampong,ASHANTI,27,Male,Paediatric,Respiratory Infection,2023-07-06,2023-07-27,21
+PAT-050,Kofi Dankwa,Upper East,50.0,Male,Maternity,Appendicitis,2023-09-01,2023-09-16,15
+PAT-051,Kwesi Owusu,Northern,7,M,Paediatric,Typhoid,2023-08-07,2023-08-15,8
+PAT-052,Emmanuel Frimpong,central,35,Male,Maternity,Fracture,2023-07-21,2023-08-08,18
+PAT-053,Kojo Amoah,Western,16,Female,Emergency,Typhoid,11/02/2023,2023-02-15,4
+PAT-054,Kojo Tetteh,Upper East,26,MALE,General,Malaria,02/11/2023,2023-11-09,7
+PAT-055,Kojo Lartey,Asante,28.0,M,general,Malaria,2023-07-12,2023-07-25,13
+PAT-056,Kweku Gyasi,Asante,54,M,Maternity,Respiratory Infection,2023-12-31,2024-01-16,16
+PAT-057,Efua Darko,western,43,Male,general,Typhoid,2023-10-16,2023-10-26,10
+PAT-058,Ibrahim Tetteh,Upper East,41,Male,General,Appendicitis,2023-06-17,2023-06-25,8
+PAT-059,Fatima Alhassan,Western,60.0,FEMALE,Paediatric,Anaemia,2023-02-27,2023-03-13,14
+PAT-060,Akosua Ofori,northern,8,male,General,Anaemia,2023-01-07,,
+PAT-061,Fatima Lartey,CENTRAL,63,Male,General,Appendicitis,2023-05-29,2023-06-13,15
+PAT-062,Ibrahim Appiah,Western,18,Female,Gen,Anaemia,2023-10-23,2023-11-01,9
+PAT-063,Esi Mensah,greater accra,38,MALE,Paediatric,Fracture,2023-08-02,2023-08-23,21
+PAT-064,Akosua Sarpong,Northern,50,Male,general,Respiratory Infection,2023-11-03,2023-11-05,2
+PAT-065,Priscilla Twum,central,6.0,Female,Maternity,Anaemia,2023-06-28,2023-07-14,16
+PAT-066,Kobina Alhassan,EASTERN,12.0,Male,Maternity,Typhoid,2023-09-29,2023-10-10,11
+PAT-067,Ama Frimpong,Volta,40,Male,Gen,Malaria,26/10/2023,2023-11-12,17
+PAT-068,Kobina Lartey,Northern,73.0,MALE,Paediatric,Typhoid,2023-07-27,2023-08-09,13
+PAT-069,Abena Acheampong,northern,77,Female,General,Anaemia,2023-04-14,2023-05-01,17
+PAT-070,Kweku Dankwa,Northern,24,F,General,Fracture,2023-04-04,2023-04-15,11
+PAT-071,Gifty Osei,WESTERN,69,Male,Emergency,Maternal Complication,2023-01-17,,
+PAT-072,Kobina Mensah,WESTERN,16,Female,GENERAL,Maternal Complication,2023-10-12,2023-10-30,18
+PAT-073,Gifty Darko,UPPER EAST,46,female,Paediatric,Hypertension,2023-02-23,2023-03-13,18
+PAT-074,Kobina Issahaku,Upper East,60,Male,Paediatric,Appendicitis,2023-09-22,2023-10-07,15
+PAT-075,Kojo Ofori,U/E,15,Female,Matern,Maternal Complication,16/11/2023,2023-11-24,8
+PAT-076,Ibrahim Mensah,U/E,64.0,FEMALE,Pediatric,Diabetes,2023-06-08,2023-06-15,7
+PAT-077,Adwoa Osei,central,9,Male,Matern,Maternal Complication,2023-09-18,2023-09-22,4
+PAT-078,Efua Acheampong,CENTRAL,43.0,Female,Emergency,Malaria,2023-01-02,2023-01-05,3
+PAT-079,Priscilla Alhassan,Volta,68.0,Female,Surgical,Hypertension,2023-01-26,2023-02-09,14
+PAT-080,Ibrahim Alhassan,greater accra,11,Female,Gen,Respiratory Infection,2023-06-21,2023-07-01,10
+PAT-081,Yaw Appiah,Ashanti,9,Male,General,Maternal Complication,2023-01-05,,
+PAT-082,Kobina Acheampong,Northern,33,F,Emergency,Respiratory Infection,2023-04-21,2023-05-08,22
+PAT-083,Patience Twum,Eastern,41,F,A&E,Fracture,2023-12-01,2023-12-12,11
+PAT-084,Akua Boateng,CENTRAL,78,male,General,Appendicitis,2023-08-22,2023-09-11,20
+PAT-085,Efua Boateng,Central,62.0,FEMALE,General,Diabetes,2023-04-23,2023-05-10,17
+PAT-086,Ama Issahaku,CENTRAL,23,F,maternity,Fracture,2023-10-05,2023-10-11,6
+PAT-087,Patience Osei,central,64,Female,EMERGENCY,Hypertension,2023-03-06,2023-03-26,20
+PAT-088,Esi Owusu,western,56,Female,General,Gastroenteritis,31/01/2023,2023-02-15,15
+PAT-089,Kwesi Asante,Northern,78,Male,General,Respiratory Infection,2023-02-24,2023-03-16,20
+PAT-090,Adwoa Mensah,Eastern,41,Male,General,Maternal Complication,2023-03-24,2023-04-14,21
+PAT-091,Kwame Mensah,Northern,23,Male,General,Fracture,2023-04-02,2023-04-12,10
+PAT-092,Yaw Appiah  ,Ashanti,72,Female,Maternity,Anaemia,2023-08-12,2023-09-02,21
+PAT-093,Yaw Boateng,WESTERN,5.0,Female,Paediatric,Anaemia,2023-03-24,2023-03-25,1
+PAT-094,Akua Tetteh,Greater Accra,12,male,General,Anaemia,2023-08-25,2023-09-06,12
+PAT-095,Kojo Mensah,Central,40,MALE,Gen,Fracture,2023-11-20,2023-11-29,9
+PAT-096,Efua Ofori,Northern,35.0,female,Surgical,Maternal Complication,2023-10-26,2023-11-05,10
+PAT-097,Fatima Mensah,Eastern,13,Female,Surgical,Fracture,2023-09-27,2023-10-17,20
+PAT-098,Abena Sarpong,Eastern,72,Male,Paediatric,Appendicitis,2023-05-21,2023-05-29,8
+PAT-099,Gifty Ofori,Eastern,41,Female,General,Gastroenteritis,2023-01-26,2023-01-31,5
+PAT-100,Akua Tetteh,Volta,37,Male,Surgical,Hypertension,2023-01-07,2023-01-14,7
+PAT-101,Fatima Mensah,ASHANTI,145,Male,general,Hypertension,2023-09-19,2023-09-26,7
+PAT-102,Kojo Issahaku,Upper East,60.0,Female,Paediatric,Maternal Complication,2023-07-02,2023-07-22,20
+PAT-103,Abena Dankwa,GREATER ACCRA,39,F,Paediatric,Malaria,2023-11-14,2023-12-04,20
+PAT-104,Gifty Twum,Volta,38,Male,Emergency,Diabetes,2023-01-07,2023-01-09,0
+PAT-105,Esi Issahaku,western,27.0,F,General,Fracture,2023-06-05,2023-06-18,13
+PAT-106,Yaw Mahama,Northern,46,male,General,Respiratory Infection,2023-04-28,2023-05-18,20
+PAT-107,Kwesi Alhassan,CENTRAL,48,Female,Gen,Typhoid,28/11/2023,2023-11-30,2
+PAT-108,Priscilla Mensah,Ashanti,10,Female,Surgical,Diabetes,2023-11-11,,
+PAT-109,Kweku Mensah,Northern,31.0,female,general,Malaria,2023-08-01,2023-08-18,17
+PAT-110,Yaw Frimpong,U/E,13,Female,General,Hypertension,2023-02-27,2023-03-01,2
+PAT-111,Kobina Sarpong,Eastern,55,Female,paediatric,Respiratory Infection,2023-09-14,2023-09-29,12
+PAT-112,Gifty Appiah,Eastern,63,Male,Pediatric,Anaemia,2023-05-24,2023-06-04,11
+PAT-113,Emmanuel Osei,Northern,21,Male,Paediatric,Typhoid,2023-01-25,2023-01-29,4
+PAT-114,Kwesi Mensah,central,22,Female,general,Respiratory Infection,2023-04-29,2023-05-03,4
+PAT-115,Akosua Owusu,CENTRAL,21,female,surgical,Malaria,2023-11-29,2023-12-01,2
+PAT-116,Fatima Acheampong,Upper East,34,female,paediatric,Respiratory Infection,2023-11-03,2023-11-16,13
+PAT-117,Abena Gyasi,GREATER ACCRA,42,Male,Paediatric,Diabetes,2023-06-28,2023-07-18,20
+PAT-118,Ama Osei,Volta,46.0,male,General,Respiratory Infection,2023-08-07,2023-08-14,7
+PAT-119,Kojo Lartey,VOLTA,10,Male,Emergency,Malaria,2023-04-02,2023-04-20,18
+PAT-120,Ama Ofori,Greater Accra,15,MALE,Emergency,Malaria,15/01/2023,2023-01-26,11
+PAT-121,Yaw Ofori,Eastern,56,M,General,Respiratory Infection,2023-10-01,2023-10-13,12
+PAT-122,Fatima Ofori,U/E,32,female,General,Gastroenteritis,2023-12-15,2023-12-26,11
+PAT-123,Kwame Frimpong,ASHANTI,19,Male,Matern,Typhoid,09/10/2023,2023-10-10,1
+PAT-124,Priscilla Mahama,NORTHERN,5,female,Gen,Malaria,2023-01-25,2023-02-13,19
+PAT-125,Kofi Tetteh,WESTERN,10,female,Paediatric,Typhoid,2023-12-07,2023-12-28,26
+PAT-126,Kojo Twum,Greater Accra,10,Female,General,Respiratory Infection,2023-06-06,2023-06-11,5
+PAT-127,Patience Acheampong,Eastern,130,Male,Emergency,Appendicitis,2023-05-11,2023-05-23,12
+PAT-128,Yaw Amoah,Northern,63,M,General,Malaria,2023-09-20,2023-09-30,10
+PAT-129,Kwame Antwi,Greater Accra,21,M,GENERAL,Typhoid,2023-11-09,2023-11-26,17
+PAT-130,Kwame Asante,Ashanti,54.0,Female,General,Typhoid,2023-04-06,2023-04-26,20
+PAT-131,Nana Dankwa,Ashanti,20,Male,General,Malaria,12/08/2023,2023-08-14,2
+PAT-132,Adwoa Issahaku  ,Volta,13,Male,Pediatric,Typhoid,2023-04-03,2023-04-23,20
+PAT-133,Kwesi Tetteh,greater accra,74,FEMALE,Maternity,Diabetes,2023-04-14,2023-04-28,14
+PAT-134,Kwame Acheampong,Upper East,65.0,Female,Paediatric,Typhoid,2023-07-07,2023-07-22,15
+PAT-135,Patience Tetteh,ASHANTI,49,MALE,Paediatric,Typhoid,2023-01-31,2023-02-03,3
+PAT-136,Ibrahim Amoah,VOLTA,65,FEMALE,Paeds,Gastroenteritis,2023-02-16,2023-02-20,4
+PAT-099,Gifty Darko,VOLTA,61,Female,General,Anaemia,2023-09-13,2023-09-22,9
+PAT-138,Akua Darko,Central,52,F,Surgical,Fracture,02/05/2023,2023-05-15,13
+PAT-139,Abena Acheampong  ,GREATER ACCRA,10,Female,Maternity,Gastroenteritis,2023-05-19,,
+PAT-140,Esi Antwi,Greater Accra,7,Male,GENERAL,Fracture,2023-10-14,,
+PAT-141,Akosua Lartey,Upper East,5.0,Male,Gen,Diabetes,2023-04-07,2023-04-09,2
+PAT-142,Kobina Darko,Western,28,Male,Surgical,Anaemia,2023-04-20,2023-05-04,14
+PAT-143,Ibrahim Owusu,Greater Accra,41,Male,Paediatric,Anaemia,2023-10-29,2023-11-01,3
+PAT-144,Esi Darko,Ashanti,64,FEMALE,Paediatric,Typhoid,2023-08-17,2023-09-06,20
+PAT-145,Priscilla Gyasi,Greater Accra,5,M,General,Maternal Complication,2023-11-20,2023-12-01,11
+PAT-146,Kojo Owusu,Ashanti,53,MALE,Maternity,Maternal Complication,17/02/2023,2023-03-04,15
+PAT-147,Patience Asante,ASHANTI,67,M,Maternity,Fracture,2023-06-06,2023-06-08,2
+PAT-148,Akosua Antwi,Greater Accra,25,Male,Paeds,Maternal Complication,08/08/2023,2023-08-09,1
+PAT-149,Yaw Boateng,Greater Accra,38,M,Surgical,Malaria,2023-09-11,2023-09-25,14
+PAT-150,Ama Sarpong,Volta,68,F,General,Fracture,2023-01-08,2023-01-25,17
+PAT-151,Kojo Lartey,Western,33.0,Male,Surgical,Appendicitis,2023-05-16,2023-05-19,3
+PAT-152,Kweku Issahaku,Volta,54,M,Paediatric,Fracture,2023-05-16,,
+PAT-153,Kweku Owusu,Upper East,73,Female,maternity,Diabetes,13/12/2023,2023-12-16,3
+PAT-154,Akua Amoah,Volta,8,FEMALE,Maternity,Respiratory Infection,2023-09-19,,
+PAT-155,Ama Asante,Western,78,female,Emergency,Respiratory Infection,2023-02-06,2023-02-22,16
+PAT-156,Priscilla Asante,eastern,43,Female,General,Malaria,2023-09-12,2023-09-16,4
+PAT-157,Kojo Dankwa,western,50,Male,General,Respiratory Infection,2023-07-27,2023-08-13,17
+PAT-158,Kwesi Gyasi,Ashanti,18.0,M,Pediatric,Fracture,2023-01-06,2023-01-07,1
+PAT-159,Kobina Ofori,Eastern,73.0,female,surgical,Typhoid,2023-11-05,2023-11-10,5
+PAT-160,Kwesi Appiah,Upper East,72,Female,Pediatric,Typhoid,2023-08-07,2023-08-09,2
+PAT-161,Ibrahim Issahaku,Ashanti,41,male,paediatric,Maternal Complication,2023-06-04,2023-06-10,6
+PAT-162,Nana Antwi,Gr. Accra,46,MALE,Gen,Malaria,2023-09-30,2023-10-18,18
+PAT-163,Kofi Issahaku  ,upper east,54,Female,Maternity,Anaemia,2023-06-04,,
+PAT-164,Gifty Dankwa,Northern,25.0,Female,Paediatric,Respiratory Infection,2023-01-13,2023-01-18,5
+PAT-165,Kweku Issahaku,Central,24.0,Female,General,Diabetes,2023-12-18,2023-12-24,6
+PAT-166,Gifty Owusu,Western,62,Male,Paediatric,Malaria,2023-09-22,2023-09-30,8
+PAT-167,Priscilla Amoah,Greater Accra,31.0,Female,general,Hypertension,2023-01-10,2023-01-27,17
+PAT-168,Esi Twum,Volta,34.0,Male,General,Appendicitis,2023-08-03,2023-08-19,16
+PAT-169,Kobina Gyasi,Greater Accra,64,Male,Emergency,Fracture,08/03/2023,2023-03-29,21
+PAT-170,Esi Acheampong,U/E,80,Male,General,Diabetes,2023-03-15,2023-03-16,1
+PAT-171,Kwame Amoah,Greater Accra,6,MALE,Gen,Typhoid,2023-05-31,2023-06-13,13
+PAT-172,Kojo Boateng,EASTERN,79,F,Maternity,Gastroenteritis,2023-05-11,2023-05-30,19
+PAT-173,Priscilla Boateng,Western,22,Male,General,Malaria,2023-01-10,2023-01-31,21
+PAT-174,Esi Alhassan,central,145,Male,Emergency,Typhoid,2023-06-03,2023-06-09,6
+PAT-175,Ama Issahaku,Eastern,41,male,Maternity,Diabetes,2023-12-03,2023-12-14,11
+PAT-176,Akosua Twum,UPPER EAST,70,Female,General,Malaria,2023-07-02,2023-07-21,19
+PAT-177,Kojo Acheampong,Ashanti,52,Female,Emergency,Appendicitis,2023-05-04,,
+PAT-178,Kwame Twum,Greater Accra,79.0,Female,General,Anaemia,2023-02-16,2023-03-09,21
+PAT-179,Comfort Dankwa,NORTHERN,80,male,General,Fracture,27/07/2023,2023-08-15,19
+PAT-180,Kwame Gyasi,ashanti,14,Female,Maternity,Fracture,2023-07-04,2023-07-24,20
+PAT-181,Efua Tetteh,VOLTA,13,Male,Paeds,Diabetes,2023-01-24,2023-02-12,19
+PAT-182,Nana Twum,greater accra,60,Female,Emergency,Appendicitis,2023-03-29,2023-04-12,14
+PAT-183,Efua Antwi,greater accra,72,FEMALE,Paediatric,Appendicitis,2023-07-26,2023-07-27,1
+PAT-184,Efua Sarpong  ,Ashanti,8,M,general,Appendicitis,2023-01-12,2023-01-31,19
+PAT-185,Adwoa Appiah,Volta,31,female,Gen,Hypertension,2023-06-12,2023-06-21,9
+PAT-186,Comfort Mahama,Northern,67.0,Male,GENERAL,Diabetes,2023-05-18,2023-05-20,2
+PAT-187,Nana Gyasi,Central,5,Male,general,Appendicitis,2023-05-09,,
+PAT-188,Patience Frimpong,Greater Accra,49.0,Female,General,Appendicitis,2023-03-04,2023-03-16,12
+PAT-189,Yaw Mensah,WESTERN,9.0,Male,General,Respiratory Infection,2023-12-08,2023-12-21,13
+PAT-190,Esi Issahaku,Greater Accra,8,Female,Paediatric,Anaemia,2023-11-30,2023-12-20,20
+PAT-191,Nana Antwi,central,61,Female,Emergency,Diabetes,2023-07-05,2023-07-13,8
+PAT-192,Ama Lartey,CENTRAL,70,M,Paeds,Anaemia,2023-06-13,2023-07-01,23
+PAT-062,Esi Lartey,NORTHERN,53,Female,General,Respiratory Infection,2023-11-15,2023-11-28,13
+PAT-194,Fatima Osei,EASTERN,56,Male,General,Respiratory Infection,2023-03-13,2023-04-02,20
+PAT-195,Priscilla Acheampong,Northern,19,MALE,General,Fracture,2023-03-27,2023-04-09,13
+PAT-196,Priscilla Amoah,Ashanti,46,Male,Emergency,Typhoid,2023-06-27,2023-07-10,11
+PAT-197,Akosua Appiah,western,12,Male,General,Gastroenteritis,2023-06-12,2023-07-03,21
+PAT-198,Ibrahim Tetteh,NORTHERN,10,Male,surgical,Gastroenteritis,2023-07-15,2023-07-19,4
+PAT-199,Kobina Asante,western,60,Male,Maternity,Respiratory Infection,2023-02-13,2023-02-23,10
+PAT-200,Kwesi Mensah,Western,70,Female,PAEDIATRIC,Fracture,2023-12-14,,
+PAT-201,Emmanuel Boateng  ,Upper East,64,Male,SURGICAL,Gastroenteritis,2023-01-05,2023-01-09,4
+PAT-202,Priscilla Amoah,ashanti,21,M,Gen,Anaemia,2023-10-01,,
+PAT-203,Gifty Owusu,Greater Accra,39.0,Male,Pediatric,Fracture,2023-12-22,2024-01-05,14
+PAT-204,Comfort Twum,western,76,FEMALE,Maternity,Maternal Complication,2023-02-08,2023-02-26,18
+PAT-112,Akosua Frimpong,NORTHERN,12,Male,Paediatric,Anaemia,2023-11-05,2023-11-24,19
+PAT-206,Emmanuel Twum  ,Central,71,Female,Maternity,Fracture,2023-02-14,2023-03-04,18
+PAT-207,Fatima Twum,Asante,20.0,Female,Maternity,Anaemia,2023-09-12,2023-09-18,6
+PAT-030,Kwesi Darko,Northern,22,Female,Paediatric,Typhoid,2023-05-12,2023-05-19,7
+PAT-209,Patience Antwi,eastern,58,Female,General,Diabetes,2023-01-30,2023-02-16,17
+PAT-210,Kweku Asante,Greater Accra,8.0,Male,General,Malaria,2023-09-30,2023-10-08,8
+PAT-211,Kofi Alhassan,Eastern,72,M,Paediatric,Typhoid,2023-05-11,2023-05-17,6
+PAT-212,Gifty Darko,Western,53.0,Male,Paeds,Maternal Complication,2023-02-23,2023-03-03,8
+PAT-213,Efua Boateng,Volta,43,Male,Surgical,Respiratory Infection,2023-05-17,2023-06-02,16
+PAT-214,Akosua Sarpong,Ashanti,32.0,Male,Gen,Diabetes,2023-01-02,2023-01-06,4
+PAT-215,Kwame Antwi,NORTHERN,10,F,Maternity,Respiratory Infection,19/08/2023,2023-09-01,13
+PAT-216,Adwoa Amoah,WESTERN,39,F,Emergency,Respiratory Infection,2023-10-28,2023-11-17,20
+PAT-217,Kojo Issahaku,CENTRAL,73,F,General,Hypertension,2023-11-30,,
+PAT-218,Fatima Appiah,eastern,55,Male,General,Hypertension,2023-03-17,,
+PAT-219,Kweku Dankwa,NORTHERN,27,Male,emergency,Appendicitis,2023-06-27,2023-06-30,3
+PAT-220,Kwesi Acheampong,Volta,35,Female,Matern,Hypertension,2023-05-20,2023-06-07,18
+PAT-221,Ama Frimpong,Upper East,55,MALE,General,Hypertension,2023-03-05,2023-03-11,6
+PAT-222,Nana Mensah,Ashanti,59.0,Male,Paediatric,Typhoid,2023-08-18,2023-08-20,2
+PAT-223,Kweku Frimpong,Western,24,F,Pediatric,Gastroenteritis,2023-05-02,,
+PAT-224,Kofi Appiah,Gr. Accra,78,Male,General,Fracture,2023-12-04,2023-12-19,15
+PAT-225,Esi Antwi,Central,71.0,F,General,Anaemia,2023-05-02,2023-05-17,15
+PAT-226,Kweku Antwi,ASHANTI,45,Male,General,Respiratory Infection,2023-01-23,2023-01-26,3
+PAT-227,Esi Darko,ashanti,40,M,MATERNITY,Appendicitis,2023-05-04,2023-05-16,12
+PAT-228,Ibrahim Issahaku,eastern,54,MALE,Paediatric,Gastroenteritis,2023-03-28,,
+PAT-229,Kofi Owusu,Greater Accra,43,Male,Matern,Respiratory Infection,02/11/2023,2023-11-12,10
+PAT-230,Akosua Mensah,ASHANTI,39,Male,General,Fracture,2023-03-26,2023-03-29,3
+PAT-231,Akua Mahama,Greater Accra,68,Male,Maternity,Appendicitis,2023-06-21,2023-07-01,10
+PAT-232,Akosua Issahaku,Volta,30,Male,maternity,Appendicitis,2023-11-30,2023-12-20,20
+PAT-233,Efua Acheampong,ASHANTI,60,Male,Maternity,Malaria,2023-09-01,,
+PAT-234,Akosua Alhassan,Northern,9,Female,paediatric,Diabetes,2023-02-10,2023-02-25,15
+PAT-235,Adwoa Sarpong,Northern,29.0,Male,General,Malaria,2023-03-25,2023-04-03,9
+PAT-236,Ibrahim Amoah,Volta,11,male,Paediatric,Fracture,2023-10-13,2023-10-25,12
+PAT-237,Emmanuel Ofori  ,western,61,Male,SURGICAL,Fracture,2023-12-17,2023-12-22,5
+PAT-238,Gifty Twum,Ashanti,6,F,Gen,Gastroenteritis,2023-02-03,2023-02-15,12
+PAT-239,Emmanuel Lartey,Gr. Accra,11,Male,Paeds,Malaria,2023-12-02,2023-12-05,3
+PAT-240,Kwame Mahama,Western,30.0,Male,General,Fracture,2023-10-04,2023-10-05,1
+PAT-073,Nana Acheampong,Eastern,74,Female,Surgical,Typhoid,2023-01-24,2023-02-08,15
+PAT-242,Kobina Antwi,Upper East,6,F,Paediatric,Gastroenteritis,2023-05-20,2023-05-23,3
+PAT-243,Kobina Dankwa,Greater Accra,29,MALE,Emergency,Appendicitis,2023-04-04,2023-04-24,20
+PAT-244,Ibrahim Lartey  ,Eastern,66.0,Female,Matern,Maternal Complication,2023-03-05,2023-03-23,18
+PAT-245,Patience Darko,Ashanti,29,Female,MATERNITY,Malaria,2023-06-13,2023-06-17,4
+PAT-246,Emmanuel Asante,western,27,F,General,Malaria,2023-01-21,,
+PAT-247,Fatima Alhassan,GREATER ACCRA,45.0,Male,Maternity,Maternal Complication,2023-01-13,2023-01-24,11
+PAT-248,Patience Tetteh,Ashanti,28,Male,Maternity,Appendicitis,2023-02-26,2023-03-11,13
+PAT-249,Ibrahim Mahama  ,central,18,Male,MATERNITY,Respiratory Infection,2023-07-31,2023-08-05,10
+PAT-250,Priscilla Mahama,Western,9,Male,General,Fracture,2023-01-09,,
+PAT-251,Kweku Osei,Greater Accra,5,Female,maternity,Hypertension,19/06/2023,2023-07-01,12
+PAT-252,Priscilla Amoah,Asante,9,Male,Emergency,Gastroenteritis,2023-10-27,2023-10-29,2
+PAT-253,Ibrahim Darko,northern,65,Female,General,Anaemia,2023-05-04,2023-05-15,11
+PAT-254,Adwoa Owusu,Greater Accra,8,male,Maternity,Malaria,2023-12-27,2024-01-11,15
+PAT-255,Comfort Issahaku,Western,5,Male,Maternity,Diabetes,01/06/2023,2023-06-14,13
+PAT-256,Efua Ofori,WESTERN,56.0,Female,Emergency,Respiratory Infection,2023-02-27,2023-03-04,5
+PAT-257,Abena Mahama,central,44.0,Male,general,Appendicitis,2023-11-05,2023-11-06,1
+PAT-258,Ibrahim Boateng,northern,11,male,General,Malaria,2023-06-21,2023-07-04,13
+PAT-259,Emmanuel Mensah,central,25,Female,Paeds,Respiratory Infection,2023-07-28,2023-08-12,15
+PAT-260,Kofi Twum,U/E,18,Male,general,Fracture,2023-01-22,2023-02-02,11
+PAT-261,Kobina Asante,Volta,55,Female,Surgical,Typhoid,02/08/2023,2023-08-14,12
+PAT-262,Comfort Gyasi,CENTRAL,66.0,FEMALE,Emergency,Appendicitis,2023-06-25,2023-07-07,12
+PAT-263,Kojo Owusu,WESTERN,47.0,male,GENERAL,Anaemia,2023-07-23,2023-08-11,19
+PAT-264,Esi Issahaku,Greater Accra,79,FEMALE,maternity,Hypertension,2023-09-04,2023-09-20,16
+PAT-265,Priscilla Boateng,Ashanti,22,Male,Maternity,Hypertension,2023-10-15,2023-11-04,20
+PAT-266,Emmanuel Boateng  ,Northern,72.0,FEMALE,Maternity,Gastroenteritis,2023-06-07,2023-06-23,16
+PAT-267,Kojo Frimpong,eastern,77,Female,GENERAL,Gastroenteritis,2023-05-24,2023-06-11,18
+PAT-268,Kweku Owusu,Ashanti,31,Female,GENERAL,Malaria,2023-12-11,2023-12-31,20
+PAT-269,Nana Osei,UPPER EAST,35.0,Female,Paediatric,Maternal Complication,2023-10-31,2023-11-15,15
+PAT-270,Emmanuel Osei,volta,11,Male,surgical,Anaemia,2023-05-29,2023-05-30,1
+PAT-271,Fatima Appiah,northern,78,F,Paediatric,Appendicitis,31/07/2023,2023-08-08,8
+PAT-272,Kojo Acheampong,Volta,79,Female,Paediatric,Gastroenteritis,2023-03-11,2023-03-15,4
+PAT-273,Abena Tetteh,Gr. Accra,78,Female,Paediatric,Gastroenteritis,2023-11-09,2023-11-11,2
+PAT-274,Kweku Gyasi,Volta,71,Male,General,Anaemia,2023-06-07,2023-06-19,12
+PAT-275,Emmanuel Owusu,U/E,78,Female,general,Typhoid,2023-05-24,,
+PAT-276,Kobina Gyasi,Greater Accra,35.0,Female,General,Malaria,2023-06-16,2023-07-03,17
+PAT-277,Efua Mahama,Western,16,M,paediatric,Respiratory Infection,07/04/2023,2023-04-26,19
+PAT-278,Ibrahim Gyasi,GREATER ACCRA,45,Male,Surgery,Hypertension,2023-08-06,,
+PAT-279,Adwoa Gyasi,Eastern,38,FEMALE,Paeds,Respiratory Infection,2023-11-18,2023-11-30,12
+PAT-280,Esi Appiah,Central,46,M,Paediatric,Respiratory Infection,2023-02-17,2023-03-05,16

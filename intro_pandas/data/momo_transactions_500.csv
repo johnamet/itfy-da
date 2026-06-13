@@ -1,0 +1,501 @@
+transaction_id,date,sender_region,receiver_region,amount_ghs,transaction_type,network_provider,status
+TXN-00001,2023-03-14,Upper West,Northern,7.96,Airtime Top-up,MTN,Success
+TXN-00002,2023-01-10,Brong-Ahafo,Brong-Ahafo,1115.71,Cash Out,MTN,Success
+TXN-00003,2023-07-07,Greater Accra,Upper East,1347.28,Cash Out,AirtelTigo,Success
+TXN-00004,2023-09-13,Central,Volta,550.65,Cash Out,MTN,Success
+TXN-00005,2023-03-17,Eastern,Brong-Ahafo,233.38,Transfer,Vodafone,Failed
+TXN-00006,2023-05-07,Western,Greater Accra,459.32,Transfer,MTN,Success
+TXN-00007,2023-02-09,Brong-Ahafo,Volta,682.32,Transfer,MTN,Success
+TXN-00008,2023-06-29,Western,Central,494.7,Transfer,AirtelTigo,Success
+TXN-00009,2023-07-30,Western,Upper West,654.43,Merchant Payment,Vodafone,Success
+TXN-00010,2023-02-19,Greater Accra,Northern,18.31,Airtime Top-up,AirtelTigo,Success
+TXN-00011,2023-06-26,Eastern,Upper West,676.16,Transfer,MTN,Success
+TXN-00012,2023-06-07,Upper West,Central,1067.18,Transfer,MTN,Success
+TXN-00013,2023-08-16,Northern,Central,396.82,Merchant Payment,MTN,Success
+TXN-00014,2023-11-01,Upper West,Northern,35.72,Airtime Top-up,AirtelTigo,Failed
+TXN-00015,2023-03-31,Upper West,Volta,652.09,Transfer,MTN,Success
+TXN-00016,2023-07-05,Volta,Eastern,1134.71,Cash Out,AirtelTigo,Success
+TXN-00017,2023-07-22,Upper West,Eastern,1373.03,Transfer,MTN,Success
+TXN-00018,2023-03-26,Upper West,Upper West,15.36,Airtime Top-up,Vodafone,Success
+TXN-00191,2023-10-26,Eastern,Western,50.17,Cash In,AirtelTigo,Success
+TXN-00020,2023-10-30,Volta,Northern,317.58,Bill Payment,AirtelTigo,Success
+TXN-00021,2023-07-11,Greater Accra,Greater Accra,1393.77,Cash In,Vodafone,Success
+TXN-00022,2023-07-05,Ashanti,Volta,1550.21,Transfer,MTN,Success
+TXN-00023,2023-11-14,Greater Accra,Upper East,511.58,Cash Out,MTN,Success
+TXN-00024,2023-10-15,Volta,Western,43.87,Airtime Top-up,Vodafone,Success
+TXN-00025,2023-09-13,Greater Accra,Central,715.62,Merchant Payment,AirtelTigo,Success
+TXN-00026,2023-06-29,Ashanti,Upper East,417.13,Transfer,AirtelTigo,Success
+TXN-00027,2023-03-25,Ashanti,Ashanti,40.79,Airtime Top-up,Vodafone,Success
+TXN-00028,2023-06-18,Greater Accra,Upper East,1979.16,TRANSFER,AirtelTigo,Success
+TXN-00029,2023-11-13,Western,Upper West,207.61,Bill Payment,Vodafone,Success
+TXN-00030,2023-11-16,Ashanti,Central,374.93,Merchant Payment,Vodafone,Success
+TXN-00031,2023-08-01,Volta,Upper West,48.36,Airtime,Vodafone,Success
+TXN-00032,2023-03-09,Brong-Ahafo,Eastern,569.52,Cash Out,AirtelTigo,Success
+TXN-00033,2023-07-16,Eastern,Upper West,1094.63,Transfer,MTN,Pending
+TXN-00034,2023-07-24,Volta,Brong-Ahafo,181.27,Transfer,MTN,Success
+TXN-00035,2023-07-30,Northern,Brong-Ahafo,431.6,Cash Out,MTN,Pending
+TXN-00036,2023-07-10,Ashanti,Volta,1392.56,Transfer,MTN,Success
+TXN-00037,2023-02-17,Volta,Volta,1557.79,Transfer,MTN,Success
+TXN-00038,2023-01-07,Volta,Brong-Ahafo,46.5,Bill Payment,MTN,Failed
+TXN-00039,2023-03-26,Northern,Brong-Ahafo,3.53,Airtime Top-up,Vodafone,Success
+TXN-00040,2023-09-07,Western,Greater Accra,8.93,Airtime Top-up,AirtelTigo,Failed
+TXN-00041,2023-05-19,Northern,Eastern,1207.76,Transfer,Vodafone,Success
+TXN-00042,2023-12-24,Volta,Upper East,45.68,Airtime Top-up,MTN,Success
+TXN-00043,2023-04-26,Northern,Central,524.9,Transfer,Vodafone,Success
+TXN-00044,2023-05-05,Greater Accra,Brong-Ahafo,1505.07,Transfer,MTN,Success
+TXN-00045,2023-05-21,Ashanti,Western,1450.89,Cash Out,MTN,Failed
+TXN-00046,2023-10-15,Eastern,Eastern,341.9,Bill Payment,MTN,Success
+TXN-00047,2023-05-06,Greater Accra,Central,152.09,Transfer,MTN,Success
+TXN-00048,2023-02-05,Ashanti,Western,1611.97,Transfer,MTN,Success
+TXN-00049,2023-08-22,Central,Ashanti,84.76,Merchant Payment,AirtelTigo,Success
+TXN-00050,2023-01-22,Northern,Eastern,41.45,Airtime Top-up,MTN,Success
+TXN-00051,2023-06-23,Upper East,Ashanti,233.8,Merchant Payment,AirtelTigo,Success
+TXN-00052,2023-10-14,Central,Eastern,466.75,Bill Payment,Vodafone,Failed
+TXN-00053,2023-02-14,Greater Accra,Upper East,415.59,Bill Payment,Vodafone,Success
+TXN-00054,2023-11-07,Western,Northern,1821.36,Transfer,AirtelTigo,Success
+TXN-00055,2023-08-26,Western,Northern,257.16,Bill Payment,AirtelTigo,Success
+TXN-00056,2023-01-20,Greater Accra,Northern,1082.85,Cash Out,AirtelTigo,Pending
+TXN-00057,2023-12-27,Eastern,Western,1546.41,Transfer,MTN,Success
+TXN-00058,2023-06-18,Central,Upper East,308.62,Transfer,MTN,Success
+TXN-00059,2023-01-11,Ashanti,Volta,305.69,Merchant Payment,MTN,Success
+TXN-00060,2023-10-29,Ashanti,Western,1076.76,transfer,MTN,Failed
+TXN-00061,2023-01-30,Western,Upper West,529.48,Merchant Payment,Vodafone,Success
+TXN-00062,2023-10-22,Northern,Brong-Ahafo,1430.43,Cash Out,Vodafone,Success
+TXN-00063,2023-05-06,Northern,Volta,242.59,bill payment,Vodafone,Success
+TXN-00064,2023-10-14,Brong-Ahafo,Ashanti,836.09,Cash Out,MTN,Success
+TXN-00065,2023-12-10,Central,Upper East,344.63,Cash Out,MTN,Success
+TXN-00066,2023-06-05,Upper West,Upper East,494.31,Merchant Payment,AirtelTigo,Success
+TXN-00067,2023-09-14,Upper East,Greater Accra,13.59,Airtime Top-up,MTN,Success
+TXN-00068,2023-09-13,Western,Western,,Transfer,AirtelTigo,Success
+TXN-00069,2023-08-10,Upper East,Volta,792.56,Merchant Payment,MTN,Success
+TXN-00070,2023-03-25,Greater Accra,Volta,340.11,Bill Payment,AirtelTigo,Success
+TXN-00071,2023-10-02,Volta,Western,443.94,Cash In,MTN,Success
+TXN-00072,2023-10-10,Volta,Greater Accra,28.17,Airtime Top-up,MTN,Success
+TXN-00073,2023-11-21,Western,Eastern,409.76,Bill Payment,Vodafone,Success
+TXN-00074,2023-04-29,Central,Central,795.84,Merchant Payment,MTN,Success
+TXN-00075,2023-11-15,Upper East,Brong-Ahafo,,Transfer,AirtelTigo,Success
+TXN-00076,2023-01-10,Eastern,Volta,5.74,Airtime Top-up,MTN,Success
+TXN-00077,2023-02-12,Western,Brong-Ahafo,755.92,Transfer,Vodafone,Pending
+TXN-00078,2023-08-30,Volta,Central,347.35,Bill Payment,MTN,Success
+TXN-00079,2023-10-18,Greater Accra,Ashanti,32.27,Airtime Top-up,MTN,Pending
+TXN-00080,2023-08-26,Upper West,Volta,32.56,Airtime Top-up,MTN,Success
+TXN-00081,2023-09-17,Brong-Ahafo,Volta,1469.11,Cash In,MTN,Success
+TXN-00082,2023-02-08,Central,Greater Accra,1502.65,Transfer,MTN,Success
+TXN-00083,2023-09-19,Upper West,Brong-Ahafo,144.59,bill payment,Vodafone,Success
+TXN-00084,2023-03-20,Upper West,Western,1794.08,Transfer,Vodafone,Success
+TXN-00085,2023-02-02,Northern,Central,32.14,Airtime Top-up,MTN,Success
+TXN-00086,2023-03-05,Central,Eastern,298.71,Bill Payment,AirtelTigo,Success
+TXN-00087,2023-12-23,Eastern,Upper West,,Transfer,MTN,Success
+TXN-00088,2023-06-26,Upper West,Northern,41.87,Airtime Top-up,Vodafone,Success
+TXN-00089,2023-12-02,Eastern,Central,79.6,Transfer,MTN,Success
+TXN-00090,2023-11-16,Greater Accra,Brong-Ahafo,35.8,transfer,AirtelTigo,Success
+TXN-00091,2023-10-05,Volta,Ashanti,990.16,Cash In,MTN,Pending
+TXN-00092,2023-11-15,Ashanti,Western,43.93,Airtime Top-up,Vodafone,Success
+TXN-00093,2023-09-23,Brong-Ahafo,Upper East,1726.11,Transfer,Vodafone,Success
+TXN-00094,2023-06-21,Ashanti,Ashanti,303.65,Cash Out,Vodafone,Success
+TXN-00095,2023-11-05,Central,Central,306.89,Transfer,AirtelTigo,Success
+TXN-00096,2023-08-27,Upper West,Ashanti,27.23,Bill Payment,MTN,Success
+TXN-00097,2023-12-20,Eastern,Volta,864.44,Transfer,AirtelTigo,Success
+TXN-00098,2023-09-21,Greater Accra,Central,1790.64,Transfer,MTN,Success
+TXN-00099,2023-09-28,Greater Accra,Greater Accra,196.36,Merchant Payment,Vodafone,Success
+TXN-00100,2023-11-27,Eastern,Volta,69.72,Transfer,MTN,Success
+TXN-00101,2023-09-02,Brong-Ahafo,Greater Accra,1062.74,Cash In,AirtelTigo,Success
+TXN-00102,2023-08-11,Upper East,Greater Accra,479.28,Bill Payment,MTN,Success
+TXN-00103,2023-03-04,Upper East,Upper West,499.36,Merchant Payment,MTN,Success
+TXN-00104,2023-08-21,Western,Volta,669.14,Transfer,Vodafone,Success
+TXN-00105,2023-03-08,Eastern,Upper East,17.42,Transfer,AirtelTigo,Successfull
+TXN-00106,2023-06-18,Northern,Greater Accra,69.44,Merchant Payment,Vodafone,Failed
+TXN-00107,2023-09-05,Western,Greater Accra,7.24,Airtime Top-up,AirtelTigo,Success
+TXN-00108,2023-05-18,Ashanti,Upper West,531.15,Merchant Payment,AirtelTigo,Success
+TXN-00109,2023-03-02,Brong-Ahafo,Central,339.1,Bill Payment,MTN,Pending
+TXN-00110,2023-11-02,Eastern,Northern,414.74,Merchant Payment,MTN,Failed
+TXN-00111,2023-07-31,Northern,Northern,1682.92,Transfer,AirtelTigo,Success
+TXN-00112,2023-02-14,Central,Upper East,855.67,Transfer,MTN,Success
+TXN-00113,2023-09-19,Greater Accra,Central,1706.93,Transfer,MTN,Failed
+TXN-00114,2023-01-30,Volta,Upper East,1266.81,Transfer,Vodafone,Success
+TXN-00115,2023-08-26,Brong-Ahafo,Greater Accra,125.73,Bill Payment,MTN,Success
+TXN-00116,2023-06-07,Western,Greater Accra,3.16,Airtime Top-up,AirtelTigo,Success
+TXN-00117,2023-12-06,Upper West,Upper West,41.77,Airtime Top-up,MTN,Success
+TXN-00118,2023-10-17,Upper West,Upper East,1977.42,Transfer,MTN,Pending
+TXN-00119,2023-09-16,Volta,Western,1910.79,Transfer,MTN,Success
+TXN-00120,2023-03-17,Eastern,Brong-Ahafo,220.43,Cash Out,MTN,Success
+TXN-00121,2023-05-29,Northern,Central,1120.65,Cash Out,MTN,Success
+TXN-00122,2023-11-30,Upper East,Central,18.34,Airtime Top-up,MTN,Success
+TXN-00123,2023-11-13,Volta,Volta,496.76,Transfer,AirtelTigo,Success
+TXN-00124,2023-08-15,Eastern,Ashanti,39.48,Airtime Top-up,AirtelTigo,Success
+TXN-00125,2023-05-28,Northern,Central,14.5,Airtime Top-up,MTN,Success
+TXN-00126,2023-11-17,Central,Western,8.25,Airtime Top-up,Vodafone,Success
+TXN-00127,2023-06-18,Brong-Ahafo,Greater Accra,12.31,Airtime Top-up,MTN,Pending
+TXN-00128,2023-07-07,Northern,Brong-Ahafo,290.57,Transfer,MTN,Success
+TXN-00129,2023-01-18,Upper West,Western,43.86,Airtime Top-up,MTN,Success
+TXN-00130,2023-10-31,Ashanti,Ashanti,353.26,Merchant Payment,MTN,Success
+TXN-00131,2023-07-24,Western,Upper West,22.18,Airtime Top-up,AirtelTigo,Success
+TXN-00132,2023-07-18,Upper East,Upper East,1658.18,Transfer,MTN,Failed
+TXN-00133,2023-07-10,Volta,Ashanti,1753.89,Transfer,MTN,Success
+TXN-00134,2023-06-13,Western,Greater Accra,11.94,Transfer,AirtelTigo,Success
+TXN-00135,2023-06-13,Greater Accra,Eastern,683.98,Merchant Payment,MTN,Success
+TXN-00136,2023-07-18,Western,Ashanti,179.3,Cash Out,AirtelTigo,Pending
+TXN-00137,2023-08-13,Upper West,Upper West,1920.45,Transfer,MTN,Pending
+TXN-00138,2023-01-14,Central,Northern,,Bill Payment,MTN,Pending
+TXN-00139,2023-09-17,Ashanti,Volta,206.71,Bill Payment,AirtelTigo,Success
+TXN-00140,2023-01-21,Western,Eastern,72.48,Bill Payment,MTN,Success
+TXN-00141,2023-11-14,Northern,Northern,677.92,Merchant Payment,Vodafone,Success
+TXN-00142,2023-07-27,Volta,Ashanti,176.21,Transfer,AirtelTigo,Success
+TXN-00143,2023-02-27,Northern,Upper East,451.95,Merchant payment,AirtelTigo,Success
+TXN-00144,2023-09-11,Upper West,Central,43.1,Airtime Top-up,Vodafone,Success
+TXN-00145,2023-03-27,Northern,Northern,1656.71,Transfer,Vodafone,Success
+TXN-00146,2023-11-09,Eastern,Greater Accra,1837.71,Transfer,MTN,Success
+TXN-00147,2023-03-03,Eastern,Upper East,559.58,Merchant Payment,MTN,Failed
+TXN-00148,2023-11-11,Central,Upper East,16.26,Airtime Top-up,MTN,Success
+TXN-00149,2023-11-21,Upper East,Greater Accra,459.82,Bill Payment,MTN,Success
+TXN-00150,2023-05-16,Greater Accra,Volta,5.33,Airtime Top-up,MTN,Failed
+TXN-00151,2023-04-26,Ashanti,Volta,1431.4,Transfer,MTN,Success
+TXN-00152,2023-10-21,Upper West,Eastern,23.69,Airtime Top-up,AirtelTigo,Success
+TXN-00153,2023-07-03,Greater Accra,Eastern,121.86,cash out,MTN,Success
+TXN-00154,2023-06-15,Ashanti,Upper East,584.31,Merchant Payment,AirtelTigo,Success
+TXN-00155,2023-11-04,Upper East,Greater Accra,1371.58,Transfer,MTN,Success
+TXN-00156,2023-01-01,Upper East,Ashanti,474.98,Transfer,Vodafone,Success
+TXN-00157,2023-02-22,Western,Ashanti,1895.48,Transfer,Vodafone,Success
+TXN-00158,2023-05-02,Upper West,Greater Accra,58.56,Bill Payment,MTN,Success
+TXN-00159,2023-04-26,Upper West,Brong-Ahafo,36.44,Airtime Top-up,MTN,Success
+TXN-00160,2023-06-19,Central,Western,957.74,Transfer,MTN,Pending
+TXN-00161,2023-04-09,Northern,Greater Accra,627.59,Merchant Payment,Vodafone,Success
+TXN-00162,2023-12-18,Greater Accra,Central,1170.92,Transfer,MTN,Failed
+TXN-00163,2023-11-21,Eastern,Greater Accra,27.33,Airtime Top-up,MTN,Success
+TXN-00164,2023-03-05,Volta,Upper East,456.54,Bill Payment,MTN,Pending
+TXN-00165,2023-09-26,Western,Western,22.19,Bill Payment,MTN,Success
+TXN-00166,2023-06-22,Western,Central,23.35,Bill Payment,Vodafone,Success
+TXN-00167,2023-06-30,Western,Volta,691.05,Transfer,Vodafone,Success
+TXN-00168,2023-03-31,Brong-Ahafo,Upper East,1310.02,Transfer,AirtelTigo,Pending
+TXN-00169,2023-01-08,Volta,Ashanti,571.95,Transfer,MTN,Success
+TXN-00170,2023-03-15,Brong-Ahafo,Volta,876.74,Transfer,MTN,Success
+TXN-00171,2023-10-03,Eastern,Brong-Ahafo,1757.57,Transfer,MTN,Success
+TXN-00172,2023-09-16,Ashanti,Greater Accra,600.14,Cash In,Vodafone,Pending
+TXN-00173,2023-04-19,Volta,Volta,1972.32,Transfer,AirtelTigo,Pending
+TXN-00174,2023-05-07,Central,Brong-Ahafo,120.73,Transfer,MTN,Success
+TXN-00008,2023-07-07,Upper West,Brong-Ahafo,5.25,Airtime Top-up,MTN,Success
+TXN-00176,2023-10-26,Ashanti,Eastern,1078.97,Cash Out,Vodafone,Failed
+TXN-00177,2023-05-31,Eastern,Northern,229.81,Merchant Payment,Vodafone,Success
+TXN-00178,2023-02-22,Central,Volta,10.22,Airtime Top-up,MTN,Failed
+TXN-00179,2023-03-27,Northern,Volta,17.78,Airtime Top-up,MTN,Success
+TXN-00180,2023-03-13,Volta,Volta,111.56,bill payment,MTN,Success
+TXN-00181,2023-08-21,Western,Volta,820.34,Transfer,Vodafone,Success
+TXN-00182,2023-11-19,Volta,Upper West,48.97,Airtime Top-up,AirtelTigo,Success
+TXN-00183,2023-08-14,Upper West,Ashanti,48.36,Airtime top-up,Vodafone,Success
+TXN-00184,2023-12-01,Brong-Ahafo,Northern,705.22,Merchant Payment,MTN,Success
+TXN-00185,2023-12-05,Northern,Upper West,127.7,Cash Out,MTN,Success
+TXN-00186,2023-04-25,Upper West,Eastern,711.54,Cash In,MTN,Success
+TXN-00187,2023-04-06,Greater Accra,Central,1469.1,Transfer,Vodafone,Pending
+TXN-00188,2023-04-25,Upper East,Ashanti,690.22,Transfer,AirtelTigo,Success
+TXN-00189,2023-02-20,Eastern,Greater Accra,1440.03,Transfer,AirtelTigo,Success
+TXN-00190,2023-01-06,Brong-Ahafo,Volta,14.92,Airtime Top-up,MTN,Success
+TXN-00191,2023-05-13,Ashanti,Volta,1501.23,Transfer,Vodafone,Failed
+TXN-00192,2023-03-20,Western,Ashanti,256.8,Merchant Payment,MTN,Failed
+TXN-00193,2023-01-20,Ashanti,Eastern,404.07,Cash Out,Vodafone,Pending
+TXN-00194,2023-12-21,Ashanti,Upper East,241.53,Merchant Payment,Vodafone,Pending
+TXN-00195,2023-11-21,Ashanti,Brong-Ahafo,37.72,Airtime Top-up,MTN,Success
+TXN-00196,2023-12-28,Greater Accra,Upper West,1323.59,Transfer,AirtelTigo,Success
+TXN-00197,2023-08-05,Upper East,Eastern,504.93,Transfer,Vodafone,Success
+TXN-00198,2023-03-22,Upper West,Northern,103.78,Bill Payment,MTN,Failed
+TXN-00199,2023-03-05,Upper West,Brong-Ahafo,218.3,Bill Payment,MTN,Success
+TXN-00200,2023-10-22,Volta,Ashanti,222.58,Bill Payment,MTN,Success
+TXN-00201,2023-11-15,Upper West,Upper East,,Airtime Top-up,MTN,Success
+TXN-00202,2023-07-02,Greater Accra,Central,139.35,Transfer,Vodafone,Success
+TXN-00203,2023-12-11,Volta,Upper East,6.61,Airtime Top-up,Vodafone,Success
+TXN-00204,2023-01-08,Volta,Ashanti,1474.79,Transfer,MTN,Success
+TXN-00205,2023-12-22,Central,Ashanti,355.37,bill payment,MTN,Success
+TXN-00206,2023-04-01,Ashanti,Upper East,,Merchant Payment,MTN,Success
+TXN-00207,2023-05-28,Eastern,Brong-Ahafo,1923.65,Transfer,MTN,Success
+TXN-00208,2023-12-21,Eastern,Greater Accra,348.2,Bill Payment,MTN,Failed
+TXN-00209,2023-06-30,Northern,Central,1897.8,Transfer,MTN,Success
+TXN-00210,2023-06-25,Volta,Ashanti,99.75,Cash Out,MTN,Success
+TXN-00211,2023-09-29,Greater Accra,Upper East,256.29,Merchant Payment,Vodafone,Success
+TXN-00212,2023-08-06,Eastern,Western,784.57,Cash Out,MTN,Failed
+TXN-00213,2023-04-18,Eastern,Upper East,931.77,Cash In,AirtelTigo,Pending
+TXN-00214,2023-11-23,Volta,Greater Accra,836.31,Transfer,AirtelTigo,Success
+TXN-00215,2023-09-19,Western,Ashanti,1328.85,Cash In,MTN,Success
+TXN-00216,2023-12-27,Greater Accra,Upper East,1194.89,Cash Out,MTN,Pending
+TXN-00217,2023-01-17,Western,Northern,1896.1,Transfer,MTN,Success
+TXN-00218,2023-12-26,Upper East,Eastern,508.75,Cash Out,AirtelTigo,Failed
+TXN-00219,2023-12-21,Brong-Ahafo,Volta,559.44,Merchant Payment,AirtelTigo,Success
+TXN-00220,2023-09-09,Eastern,Western,1947.44,Transfer,AirtelTigo,Success
+TXN-00221,2023-05-09,Upper West,Central,1707.12,Transfer,Vodafone,Success
+TXN-00222,2023-12-11,Upper East,Eastern,795.11,Transfer,MTN,Success
+TXN-00223,2023-05-27,Volta,Greater Accra,760.5,Transfer,MTN,Failed
+TXN-00224,2023-06-06,Greater Accra,Ashanti,22.96,Airtime Top-up,Vodafone,Success
+TXN-00225,2023-01-31,Greater Accra,Brong-Ahafo,179.15,Bill Payment,MTN,Failed
+TXN-00226,2023-11-06,Eastern,Central,14.95,Airtime,MTN,Success
+TXN-00227,2023-06-26,Western,Central,18.18,Airtime Top-up,MTN,Success
+TXN-00228,2023-11-17,Western,Northern,1598.05,Transfer,MTN,Success
+TXN-00229,2023-10-01,Upper West,Upper East,17.35,Airtime Top-up,MTN,Success
+TXN-00230,2023-09-11,Volta,Western,629.91,transfer,MTN,Pending
+TXN-00231,2023-08-22,Greater Accra,Central,230.36,Merchant Payment,AirtelTigo,Success
+TXN-00232,2023-08-26,Central,Volta,249.24,Merchant payment,MTN,Success
+TXN-00233,2023-02-14,Western,Western,191.88,Transfer,Vodafone,Failed
+TXN-00234,2023-05-16,Western,Upper East,720.63,Transfer,Vodafone,Success
+TXN-00235,2023-03-17,Western,Western,405.96,Bill Payment,MTN,Success
+TXN-00236,2023-05-17,Upper East,Western,37.19,Bill Payment,AirtelTigo,Success
+TXN-00237,2023-09-24,Northern,Brong-Ahafo,51.06,Bill Payment,AirtelTigo,Success
+TXN-00238,2023-06-28,Ashanti,Brong-Ahafo,19.03,Airtime Top-up,MTN,Success
+TXN-00239,2023-07-12,Central,Upper East,236.85,Transfer,MTN,Success
+TXN-00240,2023-12-13,Upper East,Upper East,1296.24,Transfer,AirtelTigo,Success
+TXN-00241,2023-08-23,Brong-Ahafo,Brong-Ahafo,1444.03,Transfer,MTN,Success
+TXN-00242,2023-08-27,Brong-Ahafo,Central,32.91,Airtime Top-up,AirtelTigo,Success
+TXN-00243,2023-05-18,Greater Accra,Northern,24.87,Airtime Top-up,Vodafone,Failed
+TXN-00244,2023-05-23,Upper East,Upper West,400.25,Cash Out,Vodafone,Pending
+TXN-00245,2023-04-15,Ashanti,Northern,1056.11,Transfer,MTN,Successfull
+TXN-00246,2023-05-21,Ashanti,Eastern,1091.74,Transfer,MTN,Success
+TXN-00247,2023-10-26,Western,Greater Accra,681.67,Transfer,MTN,Success
+TXN-00248,2023-05-09,Eastern,Central,278.02,Bill Payment,MTN,Success
+TXN-00249,2023-04-07,Greater Accra,Greater Accra,536.89,Transfer,Vodafone,Success
+TXN-00250,2023-01-15,Upper West,Ashanti,1234.85,Transfer,MTN,Success
+TXN-00251,2023-02-05,Volta,Eastern,539.32,Merchant Payment,Vodafone,Successfull
+TXN-00252,2023-04-04,Volta,Brong-Ahafo,38.57,Airtime Top-up,MTN,Failed
+TXN-00253,2023-10-23,Ashanti,Greater Accra,1357.17,Cash Out,MTN,Success
+TXN-00254,2023-09-24,Eastern,Western,122.2,Merchant Payment,AirtelTigo,Success
+TXN-00255,2023-02-02,Brong-Ahafo,Greater Accra,232.59,Transfer,Vodafone,Success
+TXN-00256,2023-09-14,Western,Upper East,529.37,Transfer,AirtelTigo,Success
+TXN-00257,2023-01-21,Brong-Ahafo,Greater Accra,37.92,Airtime Top-up,MTN,Success
+TXN-00258,2023-01-19,Eastern,Volta,1513.82,Transfer,MTN,Success
+TXN-00259,2023-11-16,Brong-Ahafo,Western,200.92,Cash Out,AirtelTigo,Success
+TXN-00260,2023-06-17,Brong-Ahafo,Upper West,49.88,Airtime Top-up,MTN,Success
+TXN-00261,2023-11-06,Brong-Ahafo,Brong-Ahafo,767.27,Merchant Payment,Vodafone,Success
+TXN-00262,2023-04-15,Eastern,Northern,26.92,Airtime Top-up,MTN,Success
+TXN-00263,2023-02-17,Northern,Eastern,552.32,Merchant Payment,Vodafone,Success
+TXN-00264,2023-09-25,Greater Accra,Upper East,232.47,Cash In,MTN,Success
+TXN-00265,2023-05-09,Volta,Ashanti,751.89,Merchant Payment,AirtelTigo,Success
+TXN-00266,2023-09-23,Western,Western,185.71,Transfer,Vodafone,Success
+TXN-00267,2023-03-27,Western,Northern,,Airtime Top-up,MTN,Success
+TXN-00268,2023-07-06,Western,Brong-Ahafo,1520.5,Transfer,Vodafone,Success
+TXN-00269,2023-11-06,Upper East,Central,533.82,Merchant Payment,AirtelTigo,Success
+TXN-00270,2023-07-12,Northern,Central,313.29,Merchant Payment,MTN,Failed
+TXN-00271,2023-11-26,Ashanti,Eastern,282.19,Bill Payment,MTN,Success
+TXN-00272,2023-04-03,Eastern,Eastern,2.76,Airtime Top-up,MTN,Success
+TXN-00273,2023-06-13,Volta,Volta,26.16,Airtime Top-up,Vodafone,Success
+TXN-00274,2023-09-15,Western,Upper West,277.29,Bill Payment,MTN,Success
+TXN-00275,2023-01-19,Northern,Central,1077.57,Transfer,MTN,Pending
+TXN-00276,2023-01-19,Northern,Ashanti,201.16,Merchant Payment,Vodafone,Success
+TXN-00277,2023-09-07,Upper East,Central,47.53,Airtime Top-up,MTN,Success
+TXN-00278,2023-07-06,Upper West,Ashanti,1160.5,Cash Out,AirtelTigo,Success
+TXN-00279,2023-10-06,Brong-Ahafo,Volta,1992.15,Transfer,MTN,Success
+TXN-00280,2023-08-01,Volta,Upper East,22.5,Airtime Top-up,AirtelTigo,Success
+TXN-00281,2023-06-10,Brong-Ahafo,Upper East,207.68,Merchant Payment,AirtelTigo,Success
+TXN-00282,2023-11-16,Brong-Ahafo,Northern,279.63,Bill Payment,MTN,Success
+TXN-00283,2023-02-15,Volta,Upper West,382.09,Cash Out,AirtelTigo,Success
+TXN-00284,2023-08-23,Upper East,Northern,,Airtime Top-up,AirtelTigo,Success
+TXN-00285,2023-11-02,Brong-Ahafo,Upper East,9.0,Merchant Payment,AirtelTigo,Success
+TXN-00286,2023-06-26,Brong-Ahafo,Western,396.24,Bill Payment,Vodafone,Success
+TXN-00287,2023-12-11,Northern,Ashanti,590.77,Cash Out,Vodafone,Success
+TXN-00288,2023-05-28,Brong-Ahafo,Upper East,1290.43,Cash In,MTN,Success
+TXN-00289,2023-05-03,Western,Northern,36.68,Airtime Top-up,MTN,Success
+TXN-00290,2023-05-04,Western,Eastern,,Merchant Payment,Vodafone,Success
+TXN-00291,2023-01-20,Central,Greater Accra,4.62,Airtime Top-up,MTN,Success
+TXN-00292,2023-06-04,Western,Ashanti,15.15,Airtime Top-up,Vodafone,Success
+TXN-00293,2023-11-05,Ashanti,Upper West,235.72,Bill Payment,Vodafone,Success
+TXN-00294,2023-07-19,Eastern,Ashanti,1292.21,Cash Out,MTN,Success
+TXN-00295,2023-09-21,Brong-Ahafo,Northern,753.2,Cash Out,MTN,Success
+TXN-00296,2023-01-07,Central,Central,235.59,Cash In,MTN,Success
+TXN-00297,2023-10-11,Greater Accra,Northern,1611.91,Transfer,MTN,Failed
+TXN-00298,2023-03-28,Northern,Brong-Ahafo,1893.85,Transfer,MTN,Success
+TXN-00299,2023-02-17,Volta,Volta,485.7,Transfer,AirtelTigo,Success
+TXN-00300,2023-04-27,Eastern,Upper West,813.02,Transfer,MTN,Failed
+TXN-00301,2023-05-20,Central,Upper West,1418.12,Cash Out,Vodafone,Success
+TXN-00302,2023-12-03,Upper West,Ashanti,957.38,Cash Out,Vodafone,Success
+TXN-00303,2023-07-02,Ashanti,Upper East,29.51,Airtime Top-up,MTN,Success
+TXN-00304,2023-08-06,Northern,Volta,7.73,Airtime Top-up,MTN,Success
+TXN-00305,2023-06-14,Ashanti,Upper West,288.98,Bill Payment,MTN,Success
+TXN-00044,2023-10-02,Eastern,Volta,367.62,Cash Out,MTN,Success
+TXN-00307,2023-02-04,Northern,Brong-Ahafo,48.48,Airtime Top-up,MTN,Pending
+TXN-00308,2023-05-03,Ashanti,Brong-Ahafo,1451.86,Cash Out,AirtelTigo,Failed
+TXN-00309,2023-12-01,Upper East,Northern,380.11,Bill Payment,Vodafone,Success
+TXN-00310,2023-08-08,Northern,Ashanti,69.27,Merchant Payment,MTN,Success
+TXN-00311,2023-03-14,Brong-Ahafo,Upper East,817.35,Transfer,MTN,Success
+TXN-00312,2023-05-30,Central,Western,369.72,Merchant Payment,Vodafone,Success
+TXN-00313,2023-03-15,Northern,Volta,496.64,Bill Payment,MTN,Success
+TXN-00314,2023-11-24,Greater Accra,Volta,879.02,Transfer,MTN,Success
+TXN-00315,2023-05-04,Brong-Ahafo,Northern,40.14,Airtime Top-up,Vodafone,Failed
+TXN-00316,2023-04-07,Eastern,Eastern,924.56,Cash Out,MTN,Success
+TXN-00317,2023-08-28,Upper West,Upper West,1606.01,Transfer,AirtelTigo,Success
+TXN-00318,2023-12-08,Central,Central,1075.15,Transfer,MTN,Success
+TXN-00319,2023-10-29,Western,Western,1558.48,Transfer,AirtelTigo,Success
+TXN-00320,2023-08-18,Upper East,Greater Accra,385.23,Transfer,MTN,Success
+TXN-00321,2023-07-11,Upper East,Central,341.9,Transfer,Vodafone,Success
+TXN-00322,2023-01-14,Eastern,Volta,454.93,Bill Payment,MTN,Failed
+TXN-00323,2023-01-11,Volta,Eastern,489.04,Merchant Payment,Vodafone,Success
+TXN-00324,2023-06-10,Upper West,Greater Accra,42.64,Airtime Top-up,MTN,Success
+TXN-00325,2023-07-14,Upper West,Volta,1686.88,Transfer,Vodafone,Failed
+TXN-00326,2023-07-01,Ashanti,Western,417.82,Bill Payment,MTN,Success
+TXN-00327,2023-12-16,Volta,Volta,1791.45,Transfer,MTN,Success
+TXN-00328,2023-07-19,Northern,Brong-Ahafo,13.59,Airtime Top-up,MTN,Success
+TXN-00329,2023-03-31,Upper East,Brong-Ahafo,200.51,Bill Payment,Vodafone,Success
+TXN-00330,2023-12-16,Greater Accra,Upper West,769.3,Merchant Payment,MTN,Success
+TXN-00331,2023-11-28,Central,Brong-Ahafo,749.53,Merchant Payment,AirtelTigo,Success
+TXN-00332,2023-03-31,Northern,Upper West,1112.1,Cash Out,Vodafone,Success
+TXN-00333,2023-08-26,Eastern,Greater Accra,906.27,Transfer,MTN,Success
+TXN-00334,2023-07-07,Greater Accra,Brong-Ahafo,12.16,Airtime Top-up,MTN,Success
+TXN-00335,2023-08-12,Brong-Ahafo,Greater Accra,24.74,Airtime Top-up,AirtelTigo,Success
+TXN-00336,2023-02-19,Brong-Ahafo,Upper East,1127.81,Transfer,MTN,Failed
+TXN-00337,2023-07-03,Ashanti,Central,1108.31,Cash In,MTN,Success
+TXN-00338,2023-06-04,Eastern,Eastern,1442.76,Cash Out,Vodafone,Success
+TXN-00339,2023-07-04,Ashanti,Brong-Ahafo,35.84,Airtime Top-up,MTN,Success
+TXN-00340,2023-05-09,Western,Volta,914.83,Transfer,AirtelTigo,Success
+TXN-00341,2023-01-22,Northern,Ashanti,27.21,Airtime Top-up,AirtelTigo,Success
+TXN-00342,2023-02-28,Central,Volta,670.56,Cash Out,AirtelTigo,Success
+TXN-00343,2023-09-03,Western,Upper West,424.95,Merchant Payment,Vodafone,Success
+TXN-00344,2023-06-15,Central,Volta,146.1,Cash Out,Vodafone,Success
+TXN-00345,2023-09-07,Greater Accra,Volta,153.91,Bill Payment,AirtelTigo,Pending
+TXN-00346,2023-05-24,Upper West,Ashanti,429.57,Transfer,AirtelTigo,Success
+TXN-00347,2023-10-07,Upper West,Ashanti,1196.16,Transfer,MTN,Success
+TXN-00348,2023-09-16,Eastern,Volta,1421.63,Cash Out,MTN,Success
+TXN-00349,2023-02-07,Eastern,Volta,1431.64,Transfer,MTN,Success
+TXN-00350,2023-11-27,Upper West,Brong-Ahafo,43.35,Airtime Top-up,Vodafone,Success
+TXN-00351,2023-05-02,Upper West,Ashanti,168.75,Merchant Payment,MTN,Success
+TXN-00352,2023-06-13,Ashanti,Eastern,937.26,Cash Out,AirtelTigo,Success
+TXN-00353,2023-01-13,Volta,Upper East,184.5,Bill Payment,MTN,Success
+TXN-00354,2023-03-26,Ashanti,Volta,20.14,Airtime Top-up,Vodafone,Success
+TXN-00355,2023-02-13,Greater Accra,Volta,15.96,Airtime Top-up,MTN,Success
+TXN-00356,2023-12-26,Upper East,Ashanti,716.92,Transfer,MTN,Success
+TXN-00357,2023-10-25,Upper West,Western,39.92,Airtime Top-up,MTN,Success
+TXN-00358,2023-08-13,Northern,Upper West,290.52,Bill Payment,Vodafone,Success
+TXN-00359,2023-09-13,Eastern,Greater Accra,560.47,Merchant Payment,MTN,Success
+TXN-00360,2023-11-14,Greater Accra,Brong-Ahafo,424.24,Cash In,MTN,Failed
+TXN-00361,2023-11-18,Eastern,Upper West,487.52,Merchant Payment,MTN,Success
+TXN-00362,2023-06-14,Greater Accra,Upper West,1486.59,Transfer,MTN,Failed
+TXN-00363,2023-04-11,Greater Accra,Volta,,Airtime Top-up,Vodafone,Success
+TXN-00364,2023-08-09,Central,Greater Accra,,Transfer,MTN,Failed
+TXN-00365,2023-01-16,Eastern,Upper West,1180.64,Transfer,MTN,Success
+TXN-00366,2023-08-19,Volta,Volta,364.68,Merchant Payment,MTN,Success
+TXN-00367,2023-03-27,Greater Accra,Volta,1290.73,Cash Out,AirtelTigo,Success
+TXN-00368,2023-11-09,Ashanti,Greater Accra,3.39,Airtime Top-up,Vodafone,Success
+TXN-00369,2023-06-21,Central,Volta,206.63,Bill Payment,Vodafone,Success
+TXN-00370,2023-01-29,Northern,Volta,723.29,Merchant Payment,MTN,Success
+TXN-00371,2023-03-22,Brong-Ahafo,Greater Accra,1036.83,Cash In,MTN,Success
+TXN-00372,2023-06-13,Upper West,Volta,318.15,Cash In,AirtelTigo,Success
+TXN-00373,2023-11-25,Ashanti,Western,980.83,Cash Out,MTN,Success
+TXN-00374,2023-05-21,Eastern,Brong-Ahafo,1497.66,Cash Out,AirtelTigo,Success
+TXN-00375,2023-05-21,Upper East,Northern,184.58,Cash In,AirtelTigo,Success
+TXN-00376,2023-12-27,Upper West,Eastern,75.3,Merchant Payment,Vodafone,Success
+TXN-00377,2023-06-21,Eastern,Upper West,386.03,Merchant Payment,MTN,Success
+TXN-00378,2023-12-06,Greater Accra,Upper East,1538.46,Transfer,MTN,Success
+TXN-00379,2023-01-10,Brong-Ahafo,Upper West,1475.3,Transfer,AirtelTigo,Success
+TXN-00380,2023-07-02,Eastern,Upper West,560.05,Merchant Payment,MTN,Success
+TXN-00381,2023-10-22,Western,Brong-Ahafo,466.76,Merchant Payment,MTN,Success
+TXN-00382,2023-11-24,Northern,Ashanti,1940.42,Transfer,Vodafone,Success
+TXN-00383,2023-11-30,Central,Upper East,1970.9,Transfer,Vodafone,Failed
+TXN-00384,2023-04-23,Brong-Ahafo,Volta,45.68,Airtime Top-up,MTN,Success
+TXN-00385,2023-06-04,Western,Greater Accra,1229.42,Transfer,MTN,Success
+TXN-00386,2023-09-11,Brong-Ahafo,Brong-Ahafo,599.52,cash out,MTN,Success
+TXN-00387,2023-02-22,Northern,Central,132.9,Transfer,MTN,Success
+TXN-00388,2023-09-27,Upper West,Upper West,348.18,Bill Payment,Vodafone,Success
+TXN-00389,2023-06-15,Eastern,Greater Accra,1495.5,Cash Out,Vodafone,Success
+TXN-00390,2023-08-23,Central,Ashanti,726.4,Transfer,AirtelTigo,Pending
+TXN-00391,2023-02-14,Upper East,Upper East,5.16,Airtime,MTN,Success
+TXN-00392,2023-05-10,Eastern,Northern,134.24,Bill Payment,MTN,Pending
+TXN-00393,2023-01-06,Brong-Ahafo,Brong-Ahafo,958.07,Cash In,MTN,Success
+TXN-00394,2023-07-29,Brong-Ahafo,Eastern,1802.09,Transfer,AirtelTigo,Success
+TXN-00395,2023-01-10,Northern,Brong-Ahafo,1278.09,Transfer,MTN,Success
+TXN-00396,2023-03-21,Northern,Northern,1282.64,Cash Out,MTN,Success
+TXN-00397,2023-12-11,Ashanti,Greater Accra,16.22,Airtime Top-up,MTN,Success
+TXN-00398,2023-09-28,Greater Accra,Ashanti,365.09,Bill Payment,MTN,Success
+TXN-00399,2023-03-26,Eastern,Upper East,108.81,Bill Payment,Vodafone,Pending
+TXN-00400,2023-01-15,Central,Brong-Ahafo,441.51,Transfer,Vodafone,Success
+TXN-00196,2023-08-11,Volta,Eastern,30.92,Cash In,MTN,Success
+TXN-00402,2023-06-17,Eastern,Western,344.72,Bill Payment,Vodafone,Success
+TXN-00403,2023-05-05,Volta,Western,729.93,Merchant Payment,MTN,Success
+TXN-00404,2023-01-31,Volta,Upper East,13.88,Merchant Payment,MTN,Failed
+TXN-00405,2023-11-15,Western,Volta,277.53,Cash In,MTN,Success
+TXN-00406,2023-11-02,Ashanti,Northern,681.31,Merchant Payment,MTN,Success
+TXN-00407,2023-03-26,Central,Greater Accra,52.22,Bill Payment,AirtelTigo,Success
+TXN-00408,2023-02-21,Volta,Upper West,38.03,Airtime Top-up,MTN,Success
+TXN-00409,2023-11-15,Upper East,Volta,78.71,Merchant Payment,Vodafone,Success
+TXN-00410,2023-02-26,Greater Accra,Volta,1795.55,Transfer,Vodafone,Success
+TXN-00411,2023-10-10,Eastern,Upper East,67.51,Merchant Payment,MTN,Success
+TXN-00412,2023-10-23,Central,Central,518.55,Transfer,MTN,Failed
+TXN-00413,2023-05-27,Northern,Brong-Ahafo,838.57,Transfer,Vodafone,Success
+TXN-00414,2023-03-07,Central,Volta,1254.86,Transfer,MTN,Success
+TXN-00415,2023-05-06,Northern,Eastern,786.9,Transfer,MTN,Success
+TXN-00416,2023-06-04,Ashanti,Volta,346.95,Transfer,MTN,Failed
+TXN-00417,2023-02-03,Brong-Ahafo,Central,465.1,Merchant Payment,MTN,Success
+TXN-00418,2023-11-16,Upper West,Greater Accra,49.75,Airtime Top-up,MTN,Success
+TXN-00419,2023-07-18,Volta,Ashanti,376.27,Merchant Payment,AirtelTigo,Success
+TXN-00420,2023-04-15,Central,Western,22.07,Airtime Top-up,MTN,Success
+TXN-00421,2023-10-09,Northern,Volta,131.13,Transfer,AirtelTigo,Success
+TXN-00422,2023-05-11,Eastern,Volta,240.32,Bill Payment,MTN,Success
+TXN-00423,2023-02-14,Upper West,Greater Accra,,Cash Out,MTN,Success
+TXN-00424,2023-10-23,Eastern,Upper East,1043.94,Transfer,MTN,Success
+TXN-00425,2023-10-13,Volta,Eastern,1026.41,Transfer,MTN,Failed
+TXN-00426,2023-10-11,Upper East,Brong-Ahafo,1520.43,Transfer,Vodafone,Success
+TXN-00427,2023-10-10,Brong-Ahafo,Upper West,27.26,Airtime Top-up,MTN,Failed
+TXN-00428,2023-09-08,Upper East,Western,1168.44,Transfer,Vodafone,Success
+TXN-00429,2023-05-25,Western,Western,1792.65,Transfer,MTN,Success
+TXN-00430,2023-04-22,Brong-Ahafo,Western,1814.84,Transfer,MTN,Success
+TXN-00431,2023-09-02,Brong-Ahafo,Brong-Ahafo,655.2,Transfer,MTN,Success
+TXN-00432,2023-10-16,Upper East,Eastern,908.54,Cash In,MTN,Success
+TXN-00433,2023-03-19,Upper East,Greater Accra,28.52,Airtime Top-up,AirtelTigo,Success
+TXN-00434,2023-05-29,Western,Brong-Ahafo,390.57,Cash In,Vodafone,Success
+TXN-00435,2023-03-11,Ashanti,Ashanti,47.51,Airtime Top-up,MTN,Success
+TXN-00436,2023-01-04,Brong-Ahafo,Western,102.49,Bill Payment,MTN,Success
+TXN-00437,2023-07-24,Volta,Northern,1155.3,TRANSFER,AirtelTigo,Success
+TXN-00438,2023-08-01,Volta,Eastern,72.39,Bill Payment,MTN,Success
+TXN-00439,2023-08-08,Volta,Northern,574.83,TRANSFER,MTN,Success
+TXN-00440,2023-05-25,Eastern,Western,1511.26,transfer,Vodafone,Failed
+TXN-00441,2023-09-15,Northern,Central,27.09,Airtime Top-up,MTN,Success
+TXN-00442,2023-11-27,Upper West,Upper East,1567.41,Transfer,MTN,Success
+TXN-00443,2023-06-14,Central,Northern,195.16,Bill Payment,Vodafone,Success
+TXN-00444,2023-05-03,Volta,Upper East,1766.07,TRANSFER,MTN,Success
+TXN-00445,2023-01-09,Upper East,Greater Accra,82.82,Transfer,MTN,Success
+TXN-00446,2023-11-27,Northern,Volta,439.61,Bill Payment,MTN,Success
+TXN-00447,2023-01-11,Western,Western,356.21,Bill Payment,Vodafone,Failed
+TXN-00448,2023-02-23,Western,Western,1565.93,Transfer,MTN,Success
+TXN-00449,2023-09-05,Upper West,Central,25.91,Airtime top-up,AirtelTigo,Success
+TXN-00450,2023-12-31,Northern,Ashanti,104.74,Bill Payment,MTN,Success
+TXN-00451,2023-11-30,Central,Eastern,10.32,Merchant Payment,MTN,Success
+TXN-00452,2023-12-17,Eastern,Upper East,693.4,Transfer,AirtelTigo,Success
+TXN-00453,2023-06-20,Northern,Upper West,866.0,Transfer,MTN,Failed
+TXN-00454,2023-02-18,Eastern,Northern,1010.59,Cash In,Vodafone,Success
+TXN-00455,2023-09-21,Northern,Ashanti,511.52,Merchant Payment,AirtelTigo,Success
+TXN-00456,2023-05-04,Brong-Ahafo,Volta,22.9,Airtime Top-up,Vodafone,Success
+TXN-00457,2023-06-18,Northern,Upper West,426.99,Merchant Payment,MTN,Success
+TXN-00458,2023-08-21,Western,Greater Accra,514.25,Transfer,MTN,Success
+TXN-00459,2023-04-15,Eastern,Greater Accra,1944.51,Transfer,AirtelTigo,Failed
+TXN-00460,2023-09-13,Ashanti,Central,685.2,Transfer,Vodafone,Success
+TXN-00461,2023-07-29,Upper East,Ashanti,431.62,Bill Payment,MTN,Success
+TXN-00462,2023-07-27,Ashanti,Upper West,27.44,Airtime Top-up,MTN,Success
+TXN-00463,2023-04-30,Greater Accra,Western,331.33,Bill Payment,Vodafone,Success
+TXN-00464,2023-01-27,Volta,Volta,1321.51,Transfer,MTN,Failed
+TXN-00465,2023-08-02,Western,Brong-Ahafo,657.21,Transfer,MTN,Failed
+TXN-00466,2023-12-26,Eastern,Brong-Ahafo,1418.79,Transfer,AirtelTigo,Success
+TXN-00467,2023-04-28,Brong-Ahafo,Western,26.62,Airtime Top-up,Vodafone,Success
+TXN-00468,2023-10-02,Brong-Ahafo,Brong-Ahafo,78.09,Cash Out,Vodafone,Success
+TXN-00469,2023-11-21,Central,Upper East,274.61,Bill Payment,MTN,Success
+TXN-00470,2023-12-21,Western,Eastern,29.75,Cash Out,Vodafone,Success
+TXN-00471,2023-07-19,Volta,Volta,16.47,Airtime Top-up,MTN,Failed
+TXN-00472,2023-10-03,Ashanti,Brong-Ahafo,15.82,Airtime Top-up,MTN,Success
+TXN-00473,2023-07-30,Volta,Upper East,562.41,Transfer,MTN,Success
+TXN-00474,2023-11-07,Brong-Ahafo,Volta,175.09,Cash Out,Vodafone,Success
+TXN-00475,2023-01-23,Northern,Volta,474.43,Merchant Payment,MTN,Success
+TXN-00476,2023-08-23,Central,Ashanti,622.51,Transfer,AirtelTigo,Success
+TXN-00477,2023-09-19,Brong-Ahafo,Brong-Ahafo,1584.8,Transfer,AirtelTigo,Failed
+TXN-00478,2023-08-07,Volta,Central,5.92,Airtime Top-up,MTN,Failed
+TXN-00479,2023-09-04,Ashanti,Northern,202.72,Bill Payment,MTN,Success
+TXN-00480,2023-02-26,Greater Accra,Upper West,450.19,Bill Payment,MTN,Pending
+TXN-00481,2023-06-20,Ashanti,Ashanti,1880.48,Transfer,AirtelTigo,Success
+TXN-00482,2023-03-15,Greater Accra,Greater Accra,381.38,Bill payment,AirtelTigo,Success
+TXN-00483,2023-06-26,Central,Eastern,1474.39,Transfer,Vodafone,Success
+TXN-00484,2023-09-19,Central,Greater Accra,88.32,Cash Out,MTN,Success
+TXN-00485,2023-05-25,Central,Brong-Ahafo,289.83,Merchant Payment,MTN,Success
+TXN-00486,2023-04-01,Brong-Ahafo,Upper West,1215.73,Transfer,Vodafone,Success
+TXN-00487,2023-03-27,Volta,Volta,32.37,Airtime Top-up,MTN,Success
+TXN-00488,2023-10-30,Upper West,Volta,1171.99,Transfer,Vodafone,Success
+TXN-00489,2023-08-17,Greater Accra,Eastern,1764.73,Transfer,MTN,Success
+TXN-00490,2023-05-11,Volta,Central,107.84,Bill Payment,MTN,Success
+TXN-00491,2023-08-09,Upper East,Upper West,26.04,Airtime Top-up,MTN,Success
+TXN-00492,2023-09-29,Volta,Central,474.21,Bill Payment,MTN,Success
+TXN-00493,2023-12-02,Greater Accra,Upper West,19.26,Airtime Top-up,MTN,Success
+TXN-00494,2023-06-29,Greater Accra,Western,404.4,Bill Payment,MTN,Failed
+TXN-00495,2023-08-19,Upper East,Volta,750.66,Transfer,Vodafone,Success
+TXN-00496,2023-07-31,Upper West,Volta,578.44,Cash In,MTN,Success
+TXN-00497,2023-11-16,Western,Volta,43.23,Airtime Top-up,AirtelTigo,Success
+TXN-00498,2023-08-10,Central,Western,1129.55,Cash In,MTN,Success
+TXN-00499,2023-07-07,Brong-Ahafo,Northern,39.9,Airtime Top-up,MTN,Success
+TXN-00500,2023-01-28,Western,Central,309.38,Transfer,MTN,Success

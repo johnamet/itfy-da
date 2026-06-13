@@ -1,0 +1,501 @@
+trader_name,market,region,product_category,daily_revenue_ghs,years_trading,accepts_momo,stall_size
+Nana Ankrah,Takoradi Market Circle,Western,Tools & Hardware,107.74,19,True,Small
+Kobina Adu,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,312.14,21,True,Small
+Kwesi Asiedu,Kumasi Central Market,Ashanti,Tools & Hardware,175.38,11,True,Large
+Veronica Darko,Kumasi Central Market,Ashanti,Fabric & Clothing,347.63,16,False,Small
+Boateng Gyasi,Cape Coast Market,Central,Tools & Hardware,213.39,24,True,Large
+Kwesi Asare,Kumasi Central Market,Ashanti,Food & Produce,81.36,9,True,Small
+Abena Alhassan,Kejetia Market,Ashanti,Food & Produce,101.93,25,True,Medium
+Ofori Asare,Kumasi Central Market,Ashanti,Fabric & Clothing,289.31,15,True,Medium
+Adwoa Abubakari,Cape Coast Market,Central,Food & Produce,84.38,3,False,Large
+Ofori Boateng,Bolgatanga Market,Upper East,Mobile Phones & Accessories,1020.81,9,True,Medium
+Yaw Sulemana,Bolgatanga Market,Upper East,Electronics,,6,True,Small
+Afia Quansah,Makola Market,Greater Accra,Household Goods,336.89,5,True,Small
+Abena Dankwa,Takoradi Market Circle,Western,Food & Produce,98.9,22,False,Medium
+Adwoa Quartey,Kumasi Central Market,Ashanti,Household Goods,79.11,16,True,Small
+Esi Nkrumah,Bolgatanga Market,Upper East,Mobile Phones & Accessories,924.55,13,False,Large
+Akua Quartey,Takoradi Market Circle,Western,Household Goods,307.01,12,True,Large
+Efua Bonsu,Takoradi Market Circle,Western,Electronics,373.49,11,True,Large
+Ama Mahama,Kejetia Market,Ashanti,Food & Produce,250.84,6,True,Medium
+Abiba Antwi,Tamale Central Market,Northern,Cosmetics & Beauty,56.64,19,True,Medium
+Mensah Nartey,Makola Market,Greater Accra,Household Goods,258.99,7,True,Medium
+Adwoa Gyasi,Makola Market,Greater Accra,Cosmetics & Beauty,71.32,16,True,Medium
+Addo Yakubu,Takoradi Market Circle,Western,Tools & Hardware,387.79,11,True,Small
+Afia Amoah,Takoradi Market Circle,Western,Tools & Hardware,166.56,16,False,LARGE
+Asante Mahama,Kumasi Central Market,Ashanti,Fabric & Clothing,447.95,21,True,Small
+Ofori Antwi,Kumasi Central Market,Ashanti,Cosmetics & Beauty,176.71,1,True,Small
+Nana Osei,Takoradi Market Circle,Western,Tools & Hardware,181.29,4,True,Small
+  Adwoa Sarpong,Kejetia Market,Ashanti,Household Goods,163.47,22,True,Small
+Efua Asare,Bolgatanga Market,Upper East,Household Goods,174.94,3,False,Medium
+Mensah Abubakari,Tamale Central Market,Northern,Electronics,602.69,8,True,Medium
+Rejoice Owusu,Kumasi Central Market,Ashanti,Cosmetics & Beauty,122.43,3,True,Medium
+Akua Boateng,Bolgatanga Market,Upper East,Cosmetics & Beauty,141.43,25,True,Medium
+Nana Kyei,Makola Market,Greater Accra,Household Goods,301.52,21,False,Small
+Kobina Frimpong,Bolgatanga Market,Upper East,Fabric & Clothing,199.35,6,True,Medium
+Mensah Gyasi,Kumasi Central Market,Ashanti,Fabric & Clothing,276.5,25,True,Large
+Asante Sulemana,Tamale Central Market,Northern,Electronics,832.24,18,True,Small
+  Abiba Nkrumah,Kejetia Market,Ashanti,Tools & Hardware,440.17,4,False,Small
+Perpetua Nkrumah,Takoradi Market Circle,Western,Tools & Hardware,158.12,14,True,Small
+Nana Tetteh,Makola Market,Greater Accra,Mobile Phones & Accessories,940.98,5,True,Small
+Addo Boateng,Takoradi Market Circle,Western,Household Goods,112.77,21,True,Small
+Veronica Gyasi,Cape Coast Market,Central,Food & Produce,160.76,5,True,Medium
+Darko Nartey,Kumasi Central Market,Ashanti,Cosmetics & Beauty,271.74,20,False,Small
+Comfort Poku,Cape Coast Market,Central,Food & Produce,112.72,5,False,Medium
+Celestine Yakubu,Kumasi Central Market,Ashanti,Cosmetics & Beauty,57.54,25,True,Small
+Patience Peprah,Cape Coast Market,Central,Food & Produce,161.42,22,True,Small
+Alberta Issahaku,Kejetia Market,Ashanti,Cosmetics & Beauty,75.31,2,True,Small
+Adwoa Quansah,Kejetia Market,Ashanti,Cosmetics & Beauty,188.31,2,False,Small
+Alberta Owusu,Makola Market,Greater Accra,Tools & Hardware,347.59,15,True,Small
+Rejoice Bonsu,Cape Coast Market,Central,Mobile Phones & Accessories,505.05,18,True,Small
+Priscilla Asare,Cape Coast Market,Central,Cosmetics & Beauty,147.2,7,False,Medium
+Kojo Asamoah,Takoradi Market Circle,Western,Electronics,318.03,17,True,Small
+Ama Alhassan,Bolgatanga Market,Upper East,Household Goods,90.35,2,True,Small
+Emmanuel Gyasi,Kejetia Market,Ashanti,Food & Produce,250.29,4,True,Medium
+Ama Owusu,Cape Coast Market,Central,Cosmetics & Beauty,208.8,14,True,Large
+Ama Acheampong,Cape Coast Market,Central,Fabric & Clothing,213.03,24,True,Small
+Celestine Quartey,Tamale Central Market,Northern,Household Goods,333.41,26,False,Small
+  Ibrahim Nkrumah,Makola Market,Greater Accra,Mobile Phones & Accessories,918.67,13,False,Large
+Asante Yakubu,Tamale Central Market,Northern,Tools & Hardware,398.86,26,False,Small
+Ibrahim Ankrah,Cape Coast Market,Central,Electronics,631.7,24,True,Medium
+Gifty Bonsu,Cape Coast Market,Central,Electronics,124.54,17,True,Small
+Nana Kyei,Kejetia Market,Ashanti,Electronics,405.2,23,False,Medium
+Kobina Danso,Makola Market,Greater Accra,Household Goods,202.05,21,True,Small
+  Kobina Frimpong,Bolgatanga Market,Upper East,Tools & Hardware,307.08,24,True,Medium
+Blessing Quartey,Kumasi Central Market,Ashanti,Tools & Hardware,297.79,24,True,Medium
+Ofori Bonsu,Tamale Central Market,Northern,Cosmetics & Beauty,57.54,9,True,Medium
+Alhassan Mensah,Cape Coast Market,Central,Electronics,835.33,7,True,Small
+Priscilla Quansah,Tamale Central Market,Northern,Food & Produce,269.05,26,False,Small
+Alhassan Owusu,Makola Market,Greater Accra,Household Goods,293.67,1,True,Small
+Celestine Peprah,Tamale Central Market,Northern,Electronics,760.85,2,True,Small
+Comfort Agyei,Kumasi Central Market,Ashanti,Electronics,170.09,13,True,Small
+Alberta Bonsu,Makola Market,Greater Accra,Food & Produce,212.95,17,True,Small
+Asante Poku,Takoradi Market Circle,Western,Electronics,421.69,13,False,Small
+Kwesi Asare,Takoradi Market Circle,Western,Fabric & Clothing,396.78,11,False,Large
+Comfort Ofori,Makola Market,Greater Accra,Tools & Hardware,416.81,25,False,Medium
+Kofi Mensah,Makola Market,Greater Accra,Tools & Hardware,448.25,22,True,Medium
+Efua Agyei,Makola Market,Greater Accra,Food & Produce,131.8,28,True,Small
+Nana Asante,Kumasi Central Market,Ashanti,Fabric & Clothing,394.6,12,True,Small
+Patience Quartey,Cape Coast Market,Central,Household Goods,258.37,6,True,Medium
+Alhassan Boateng,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,351.37,27,False,Medium
+Addo Danso,Tamale Central Market,Northern,Cosmetics & Beauty,211.64,10,False,Small
+Ibrahim Bonsu,Bolgatanga Market,Upper East,Household Goods,155.81,27,False,Medium
+Kwesi Peprah,Tamale Central Market,Northern,Household Goods,89.08,25,False,Medium
+Abena Amoah,Bolgatanga Market,Upper East,Mobile Phones & Accessories,368.48,2,True,Small
+Kwame Tetteh,Kumasi Central Market,Ashanti,Cosmetics & Beauty,267.02,19,True,Medium
+Patience Nartey,Bolgatanga Market,Upper East,Household Goods,132.06,21,False,Small
+Rejoice Adu,Makola Market,Greater Accra,Household Goods,247.51,15,False,Small
+Nana Asante,Tamale Central Market,Northern,Household Goods,321.13,17,True,Large
+Efua Boateng,Kejetia Market,Ashanti,Mobile Phones & Accessories,770.66,15,True,Large
+Mohammed Asiedu,Kumasi Central Market,Ashanti,Food & Produce,99.07,1,True,Small
+Kwesi Adu,Makola Market,Greater Accra,Mobile Phones & Accessories,216.17,9,False,Large
+Celestine Frimpong,Kejetia Market,Ashanti,Fabric & Clothing,489.47,9,True,Large
+Afia Quansah,Bolgatanga Market,Upper East,Fabric & Clothing,388.85,26,False,Small
+Yaw Asamoah,Bolgatanga Market,Upper East,Fabric & Clothing,350.74,27,False,Medium
+Asante Gyasi,Takoradi Market Circle,Western,Mobile Phones & Accessories,205.61,15,True,Small
+Fatima Twum,Takoradi Market Circle,Western,Household Goods,155.98,25,True,Medium
+Perpetua Acheampong,Makola Market,Greater Accra,Cosmetics & Beauty,272.8,23,True,Medium
+Perpetua Nartey,Takoradi Market Circle,Western,Food & Produce,235.18,7,True,Medium
+Priscilla Quansah,Makola Market,Greater Accra,Household Goods,245.52,19,True,Medium
+Rejoice Poku,Kumasi Central Market,Ashanti,Food & Produce,102.93,14,True,Medium
+Priscilla Danso,Cape Coast Market,Central,Tools & Hardware,145.09,16,True,Large
+Comfort Ofori,Makola Market,Greater Accra,Cosmetics & Beauty,64.96,19,True,Small
+Mohammed Asante,Tamale Central Market,Northern,Cosmetics & Beauty,244.18,3,True,Medium
+Rejoice Lartey,Cape Coast Market,Central,Cosmetics & Beauty,117.88,15,True,Small
+Darko Tetteh,Tamale Central Market,Northern,Electronics,326.56,21,True,Large
+Veronica Antwi,Tamale Central Market,Northern,Tools & Hardware,173.08,11,True,Small
+Ofori Poku,Tamale Central Market,Northern,Household Goods,77.6,27,True,Small
+Adwoa Osei,Takoradi Market Circle,Western,Cosmetics & Beauty,161.15,4,True,Medium
+Celestine Quansah,Makola Market,Greater Accra,Electronics,505.72,14,True,Small
+Esi Owusu,Makola Market,Greater Accra,Cosmetics & Beauty,234.56,1,False,Large
+Adwoa Peprah,Takoradi Market Circle,Western,Tools & Hardware,272.79,17,True,Medium
+Akua Osei,Tamale Central Market,Northern,Fabric & Clothing,512.03,14,True,Small
+Kweku Abubakari,Makola Market,Greater Accra,Food & Produce,121.39,17,True,Medium
+Asante Asamoah,Bolgatanga Market,Upper East,Household Goods,170.88,7,True,Medium
+Celestine Adu,Cape Coast Market,Central,Tools & Hardware,166.15,21,False,Small
+Mensah Frimpong,Bolgatanga Market,Upper East,Household Goods,223.62,26,False,Small
+Mensah Baah,Takoradi Market Circle,Western,Fabric & Clothing,212.47,15,False,Medium
+Kojo Dankwa,Takoradi Market Circle,Western,Fabric & Clothing,205.69,4,True,Small
+Kobina Danso,Makola Market,Greater Accra,Tools & Hardware,326.62,5,True,Small
+Esi Laryea,Tamale Central Market,Northern,Cosmetics & Beauty,123.67,8,True,Medium
+Ama Kyei,Makola Market,Greater Accra,Mobile Phones & Accessories,516.15,20,True,Small
+Appiah Adu,Takoradi Market Circle,Western,Fabric & Clothing,115.13,21,True,Small
+Veronica Laryea,Makola Market,Greater Accra,Electronics,597.58,21,True,Large
+Afia Yakubu,Takoradi Market Circle,Western,Electronics,448.21,23,True,Large
+Esi Bonsu,Kejetia Market,Ashanti,Fabric & Clothing,329.75,1,True,Medium
+Fatima Kyei,Kejetia Market,Ashanti,Tools & Hardware,426.43,11,True,Small
+Adwoa Agyei,Cape Coast Market,Central,Tools & Hardware,115.8,13,True,Medium
+Abiba Bonsu,Makola Market,Greater Accra,Electronics,,11,False,Medium
+Abena Abubakari,Tamale Central Market,Northern,Household Goods,86.7,9,False,Small
+Celestine Appiah,Cape Coast Market,Central,Food & Produce,,8,True,Medium
+Comfort Ankrah,Cape Coast Market,Central,Mobile Phones & Accessories,699.55,8,True,Medium
+Efua Sulemana,Kejetia Market,Ashanti,Mobile Phones & Accessories,431.13,5,True,Small
+Kobina Frimpong,Cape Coast Market,Central,Cosmetics & Beauty,89.38,25,False,Medium
+Emmanuel Laryea,Kejetia Market,Ashanti,Mobile Phones & Accessories,721.26,7,True,Large
+Celestine Boateng,Bolgatanga Market,Upper East,Tools & Hardware,108.24,18,True,Medium
+Kobina Adu,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,652.5,14,True,Medium
+Akosua Owusu,Cape Coast Market,Central,Mobile Phones & Accessories,319.12,21,False,Small
+Ibrahim Alhassan,Takoradi Market Circle,Western,Household Goods,268.5,18,True,Small
+Gifty Frimpong,Makola Market,Greater Accra,Cosmetics & Beauty,141.82,9,False,Medium
+Priscilla Osei,Makola Market,Greater Accra,Cosmetics & Beauty,65.31,18,True,Large
+Blessing Ofori,Takoradi Market Circle,Western,Electronics,276.92,27,False,Small
+Kobina Dankwa,Tamale Central Market,Northern,Fabric & Clothing,262.25,6,True,Small
+Appiah Asare,Takoradi Market Circle,Western,Cosmetics & Beauty,167.09,14,True,Large
+Kweku Lartey,Makola Market,Greater Accra,Tools & Hardware,360.49,6,True,Medium
+Kweku Asiedu,Tamale Central Market,Northern,Household Goods,172.73,2,True,Medium
+Appiah Antwi,Kejetia Market,Ashanti,Cosmetics & Beauty,61.44,8,False,Small
+Mensah Baah,Kumasi Central Market,Ashanti,Food & Produce,76.33,16,True,Medium
+Darko Nartey,Kejetia Market,Ashanti,Fabric & Clothing,174.7,12,True,Small
+Alhassan Nartey,Cape Coast Market,Central,Cosmetics & Beauty,67.87,4,True,Small
+Mohammed Mahama,Kumasi Central Market,Ashanti,Electronics,328.68,10,True,Large
+Blessing Ofori,Makola Market,Greater Accra,Cosmetics & Beauty,87.23,25,True,Small
+Patience Appiah,Kejetia Market,Ashanti,Household Goods,207.25,26,False,Small
+Akosua Yakubu,Kumasi Central Market,Ashanti,Fabric & Clothing,284.95,8,False,Small
+Yaw Abubakari,Kejetia Market,Ashanti,Household Goods,221.37,3,True,Small
+Priscilla Peprah,Takoradi Market Circle,Western,Cosmetics & Beauty,229.4,13,True,Small
+Kobina Issahaku,Bolgatanga Market,Upper East,Cosmetics & Beauty,98.52,17,False,Medium
+Boateng Asante,Tamale Central Market,Northern,Mobile Phones & Accessories,351.37,8,False,Small
+Ofori Tetteh,Takoradi Market Circle,Western,Household Goods,154.06,28,True,Medium
+Abena Dankwa,Cape Coast Market,Central,Fabric & Clothing,342.76,27,True,Medium
+Esi Poku,Bolgatanga Market,Upper East,Tools & Hardware,209.76,9,False,Large
+Rashida Adu,Takoradi Market Circle,Western,Household Goods,347.75,7,False,Small
+Alberta Agyei,Makola Market,Greater Accra,Cosmetics & Beauty,165.28,20,True,Large
+Kojo Alhassan,Makola Market,Greater Accra,Electronics,164.52,26,False,Small
+  Alhassan Nkrumah,Bolgatanga Market,Upper East,Food & Produce,217.48,19,True,Large
+Alhassan Quartey,Kumasi Central Market,Ashanti,Food & Produce,179.9,11,False,Small
+Veronica Darko,Cape Coast Market,Central,Tools & Hardware,352.41,1,True,Small
+Yaw Mensah,Tamale Central Market,Northern,Cosmetics & Beauty,235.23,14,True,Small
+Akua Danso,Takoradi Market Circle,Western,Cosmetics & Beauty,76.87,8,False,Medium
+Comfort Asiedu,Kumasi Central Market,Ashanti,Cosmetics & Beauty,270.07,3,False,Small
+Addo Asante,Tamale Central Market,Northern,Mobile Phones & Accessories,944.39,7,True,Medium
+Gifty Acheampong,Tamale Central Market,Northern,Cosmetics & Beauty,169.96,15,False,Small
+Ofori Abubakari,Kejetia Market,Ashanti,Household Goods,129.07,27,True,Medium
+Perpetua Frimpong,Bolgatanga Market,Upper East,Tools & Hardware,366.41,4,True,Medium
+  Abiba Darko,Makola Market,Greater Accra,Tools & Hardware,,28,False,Medium
+Kwesi Amoah,Tamale Central Market,Northern,Electronics,330.37,6,True,Small
+Fatima Laryea,Bolgatanga Market,Upper East,Food & Produce,227.37,18,True,Medium
+Ofori Issahaku,Kumasi Central Market,Ashanti,Tools & Hardware,,28,False,Small
+Akosua Owusu,Kumasi Central Market,Ashanti,Fabric & Clothing,166.99,24,True,Medium
+Patience Alhassan,Tamale Central Market,Northern,Tools & Hardware,83.63,17,True,Small
+  Ibrahim Mahama,Kumasi Central Market,Ashanti,Household Goods,300.07,8,True,Small
+Mohammed Yakubu,Takoradi Market Circle,Western,Household Goods,144.99,16,True,Medium
+Boateng Asante,Tamale Central Market,Northern,Food & Produce,268.46,10,True,Large
+Abena Twum,Kumasi Central Market,Ashanti,Fabric & Clothing,325.84,22,False,Medium
+Abena Acheampong,Bolgatanga Market,Upper East,Electronics,671.0,28,True,Large
+Gifty Tetteh,Cape Coast Market,Central,Cosmetics & Beauty,285.22,19,True,Small
+Darko Baah,Kumasi Central Market,Ashanti,Food & Produce,98.43,24,False,Medium
+Darko Agyei,Kejetia Market,Ashanti,Tools & Hardware,231.31,2,False,Small
+Mensah Antwi,Takoradi Market Circle,Western,Tools & Hardware,73.98,3,True,Medium
+Esi Yakubu,Makola Market,Greater Accra,Tools & Hardware,355.44,7,True,Medium
+Perpetua Yakubu,Tamale Central Market,Northern,Tools & Hardware,141.8,23,True,Medium
+Afia Amoah,Makola Market,Greater Accra,Electronics,421.42,15,False,Small
+Mensah Sarpong,Tamale Central Market,Northern,Electronics,783.3,21,True,Small
+Comfort Acheampong,Cape Coast Market,Central,Tools & Hardware,364.95,16,True,Large
+  Mensah Appiah,Makola Market,Greater Accra,Fabric & Clothing,255.76,17,False,Small
+Veronica Dankwa,Cape Coast Market,Central,Fabric & Clothing,209.45,5,False,Small
+Efua Dankwa,Makola Market,Greater Accra,Fabric & Clothing,469.19,26,False,Small
+Ofori Tetteh,Bolgatanga Market,Upper East,Household Goods,86.82,4,False,Small
+Boateng Danso,Kumasi Central Market,Ashanti,Cosmetics & Beauty,119.99,4,False,Medium
+Kobina Antwi,Tamale Central Market,Northern,Fabric & Clothing,479.43,23,True,Small
+Afia Owusu,Tamale Central Market,Northern,Cosmetics & Beauty,127.77,7,True,Small
+Abena Quartey,Kejetia Market,Ashanti,Fabric & Clothing,377.57,27,True,Medium
+Veronica Asare,Kejetia Market,Ashanti,Mobile Phones & Accessories,271.37,16,False,Small
+Gifty Acheampong,Cape Coast Market,Central,Cosmetics & Beauty,210.67,1,True,Large
+Nana Sulemana,Bolgatanga Market,Upper East,Cosmetics & Beauty,112.9,14,False,Medium
+Blessing Bonsu,Kejetia Market,Ashanti,Fabric & Clothing,422.49,19,True,Small
+Kwesi Sulemana,Kejetia Market,Ashanti,Cosmetics & Beauty,204.14,16,True,Small
+Veronica Asare,Bolgatanga Market,Upper East,Cosmetics & Beauty,123.7,22,True,Medium
+Efua Bonsu,Takoradi Market Circle,Western,Tools & Hardware,357.16,18,True,Medium
+Perpetua Danso,Kejetia Market,Ashanti,Household Goods,261.57,15,True,Medium
+Priscilla Ofori,Makola Market,Greater Accra,Food & Produce,79.33,20,False,medium
+Kweku Issahaku,Cape Coast Market,Central,Electronics,792.5,25,True,Medium
+Kofi Bonsu,Tamale Central Market,Northern,Mobile Phones & Accessories,1022.5,5,False,Small
+Afia Yakubu,Cape Coast Market,Central,Food & Produce,210.89,24,True,Medium
+  Nana Mahama,Kumasi Central Market,Ashanti,Cosmetics & Beauty,181.83,17,True,Small
+Ibrahim Tetteh,Kejetia Market,Ashanti,Food & Produce,252.21,20,False,Small
+Abiba Mahama,Kumasi Central Market,Ashanti,Household Goods,286.79,1,True,small
+  Darko Quansah,Kejetia Market,Ashanti,Tools & Hardware,216.97,23,True,Medium
+  Afia Kyei,Kumasi Central Market,Ashanti,Household Goods,80.32,6,True,Small
+Appiah Amoah,Kejetia Market,Ashanti,Household Goods,303.66,13,False,Small
+Perpetua Asante,Kumasi Central Market,Ashanti,Tools & Hardware,448.24,24,True,Small
+Boateng Appiah,Cape Coast Market,Central,Cosmetics & Beauty,190.26,1,True,Small
+Abiba Sulemana,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,801.39,26,True,Small
+Blessing Osei,Bolgatanga Market,Upper East,Tools & Hardware,318.41,18,True,Large
+Emmanuel Osei,Tamale Central Market,Northern,Tools & Hardware,427.79,12,True,Medium
+Efua Amoah,Bolgatanga Market,Upper East,Fabric & Clothing,233.09,6,True,Small
+Kofi Ankrah,Tamale Central Market,Northern,Mobile Phones & Accessories,,3,False,Medium
+Akosua Twum,Makola Market,Greater Accra,Household Goods,348.21,13,True,Small
+Ama Mahama,Cape Coast Market,Central,Electronics,497.62,19,True,Medium
+  Nana Poku,Kumasi Central Market,Ashanti,Household Goods,210.25,1,True,Small
+Comfort Danso,Makola Market,Greater Accra,Tools & Hardware,291.36,27,True,Medium
+Mensah Bonsu,Cape Coast Market,Central,Tools & Hardware,359.7,9,True,Small
+Ibrahim Asiedu,Bolgatanga Market,Upper East,Cosmetics & Beauty,168.61,19,False,Medium
+Comfort Poku,Kumasi Central Market,Ashanti,Electronics,321.79,11,True,medium
+Celestine Kyei,Tamale Central Market,Northern,Cosmetics & Beauty,113.54,12,False,Medium
+Abiba Quartey,Tamale Central Market,Northern,Cosmetics & Beauty,109.61,23,True,Small
+Gifty Alhassan,Bolgatanga Market,Upper East,Mobile Phones & Accessories,277.79,1,True,Medium
+Kobina Adu,Makola Market,Greater Accra,Electronics,306.98,9,False,medium
+Kobina Twum,Tamale Central Market,Northern,Mobile Phones & Accessories,557.56,7,True,Large
+Akua Asante,Takoradi Market Circle,Western,Electronics,881.45,19,True,Large
+Rashida Asante,Cape Coast Market,Central,Mobile Phones & Accessories,785.33,15,False,Small
+Mohammed Darko,Kumasi Central Market,Ashanti,Food & Produce,66.07,3,False,Medium
+Asante Frimpong,Makola Market,Greater Accra,Mobile Phones & Accessories,645.76,5,True,Small
+Appiah Peprah,Kumasi Central Market,Ashanti,Tools & Hardware,193.48,23,True,Small
+Celestine Frimpong,Cape Coast Market,Central,Electronics,561.93,6,True,Small
+Alberta Lartey,Kumasi Central Market,Ashanti,Electronics,335.07,21,True,Medium
+Alberta Frimpong,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,376.03,5,True,Medium
+  Ama Ankrah,Cape Coast Market,Central,Electronics,779.32,26,True,Large
+Perpetua Mahama,Kumasi Central Market,Ashanti,Tools & Hardware,119.02,9,True,Small
+Ibrahim Bonsu,Bolgatanga Market,Upper East,Food & Produce,60.42,9,True,Small
+Ama Ofori,Tamale Central Market,Northern,Electronics,756.34,27,False,Large
+  Yaw Danso,Tamale Central Market,Northern,Household Goods,194.04,12,True,Large
+Gifty Yakubu,Bolgatanga Market,Upper East,Food & Produce,228.37,20,False,Medium
+Nana Adu,Takoradi Market Circle,Western,Household Goods,93.87,15,False,Small
+Adwoa Poku,Makola Market,Greater Accra,Tools & Hardware,103.58,3,True,Medium
+Akosua Bonsu,Takoradi Market Circle,Western,Electronics,253.61,10,True,Medium
+Celestine Ofori,Cape Coast Market,Central,Electronics,282.77,8,False,Large
+Veronica Poku,Tamale Central Market,Northern,Food & Produce,108.34,17,False,Large
+Darko Tetteh,Kejetia Market,Ashanti,Tools & Hardware,298.68,4,True,Small
+  Ofori Antwi,Kejetia Market,Ashanti,Food & Produce,167.76,8,True,Large
+Ofori Osei,Takoradi Market Circle,Western,Fabric & Clothing,471.13,1,True,small
+Mensah Dankwa,Kejetia Market,Ashanti,Electronics,545.23,5,True,Small
+Fatima Quansah,Bolgatanga Market,Upper East,Electronics,797.28,14,True,Large
+Ibrahim Owusu,Kejetia Market,Ashanti,Tools & Hardware,171.03,17,True,Medium
+Comfort Yakubu,Kejetia Market,Ashanti,Cosmetics & Beauty,300.88,14,True,Small
+Akua Sarpong,Cape Coast Market,Central,Fabric & Clothing,134.6,28,True,Small
+Ofori Laryea,Takoradi Market Circle,Western,Household Goods,271.7,8,False,Medium
+Kofi Kyei,Kejetia Market,Ashanti,Mobile Phones & Accessories,719.31,7,True,Large
+Akosua Yakubu,Makola Market,Greater Accra,Electronics,253.84,6,True,Medium
+Patience Mahama,Tamale Central Market,Northern,Food & Produce,170.78,1,True,Medium
+Boateng Kyei,Kumasi Central Market,Ashanti,Fabric & Clothing,215.51,3,True,Small
+Priscilla Ankrah,Makola Market,Greater Accra,Electronics,614.89,26,False,Large
+Kweku Dankwa,Kejetia Market,Ashanti,Fabric & Clothing,290.29,6,False,LARGE
+Celestine Twum,Takoradi Market Circle,Western,Household Goods,189.94,16,False,Small
+Blessing Ofori,Kumasi Central Market,Ashanti,Cosmetics & Beauty,65.02,7,True,Small
+Rashida Sarpong,Makola Market,Greater Accra,Tools & Hardware,421.73,7,False,Small
+Kwame Twum,Cape Coast Market,Central,Electronics,134.89,20,True,Small
+Gifty Antwi,Bolgatanga Market,Upper East,Cosmetics & Beauty,234.58,12,True,Small
+Kwame Bonsu,Makola Market,Greater Accra,Electronics,270.14,10,True,Small
+Perpetua Ankrah,Cape Coast Market,Central,Electronics,283.24,19,True,Medium
+Ama Peprah,Cape Coast Market,Central,Tools & Hardware,71.08,22,True,Small
+Esi Nartey,Makola Market,Greater Accra,Electronics,405.73,25,False,Small
+Abiba Mensah,Takoradi Market Circle,Western,Food & Produce,81.33,3,True,Large
+Yaw Peprah,Kumasi Central Market,Ashanti,Food & Produce,137.96,15,False,Small
+Ibrahim Peprah,Kejetia Market,Ashanti,Fabric & Clothing,379.32,27,True,Small
+  Patience Bonsu,Makola Market,Greater Accra,Food & Produce,161.73,26,False,Small
+Afia Acheampong,Tamale Central Market,Northern,Fabric & Clothing,261.1,25,True,Large
+Akosua Agyei,Kumasi Central Market,Ashanti,Tools & Hardware,210.52,5,False,Medium
+Patience Alhassan,Tamale Central Market,Northern,Mobile Phones & Accessories,344.87,4,True,Small
+Kwesi Appiah,Cape Coast Market,Central,Fabric & Clothing,491.18,9,True,Large
+Kweku Asante,Cape Coast Market,Central,Tools & Hardware,108.2,19,True,Small
+Kwesi Boateng,Tamale Central Market,Northern,Food & Produce,234.58,13,True,Medium
+Blessing Owusu,Makola Market,Greater Accra,Household Goods,222.81,23,True,Small
+Ibrahim Asante,Kumasi Central Market,Ashanti,Household Goods,253.13,23,False,Small
+Gifty Alhassan,Kejetia Market,Ashanti,Mobile Phones & Accessories,612.76,17,True,Small
+Efua Adu,Kejetia Market,Ashanti,Food & Produce,231.37,26,False,Small
+Abena Tetteh,Makola Market,Greater Accra,Mobile Phones & Accessories,525.39,10,True,Large
+Kweku Alhassan,Cape Coast Market,Central,Mobile Phones & Accessories,369.44,19,True,Small
+Rejoice Sarpong,Cape Coast Market,Central,Food & Produce,,15,True,Medium
+  Mensah Asamoah,Bolgatanga Market,Upper East,Food & Produce,158.65,21,True,Large
+Gifty Antwi,Kumasi Central Market,Ashanti,Electronics,151.31,23,True,Large
+  Comfort Quansah,Takoradi Market Circle,Western,Tools & Hardware,323.37,18,True,Medium
+Alhassan Sulemana,Makola Market,Greater Accra,Mobile Phones & Accessories,298.92,24,True,Medium
+Perpetua Agyei,Bolgatanga Market,Upper East,Electronics,274.16,16,True,Small
+  Asante Asiedu,Kejetia Market,Ashanti,Cosmetics & Beauty,217.01,3,True,Small
+Mohammed Mahama,Tamale Central Market,Northern,Food & Produce,158.09,1,False,Medium
+Addo Asare,Kejetia Market,Ashanti,Cosmetics & Beauty,62.13,17,False,Medium
+Asante Ofori,Makola Market,Greater Accra,Electronics,426.04,23,False,Medium
+Emmanuel Baah,Makola Market,Greater Accra,Tools & Hardware,295.36,1,True,Medium
+Mohammed Nkrumah,Makola Market,Greater Accra,Tools & Hardware,258.02,3,False,Medium
+Ibrahim Owusu,Takoradi Market Circle,Western,Mobile Phones & Accessories,164.21,8,True,Medium
+Kobina Lartey,Tamale Central Market,Northern,Electronics,546.9,18,True,Small
+Kwesi Frimpong,Kumasi Central Market,Ashanti,Electronics,262.57,8,False,Small
+Appiah Antwi,Kejetia Market,Ashanti,Cosmetics & Beauty,317.33,18,True,Medium
+Kwame Asare,Takoradi Market Circle,Western,Fabric & Clothing,372.46,28,True,Large
+Fatima Baah,Makola Market,Greater Accra,Food & Produce,149.46,5,False,Med
+Kobina Mahama,Cape Coast Market,Central,Cosmetics & Beauty,143.92,10,True,Small
+Ofori Tetteh,Kumasi Central Market,Ashanti,Fabric & Clothing,428.43,18,False,Small
+Abena Sulemana,Takoradi Market Circle,Western,Electronics,187.27,22,True,Medium
+Rejoice Nartey,Tamale Central Market,Northern,Mobile Phones & Accessories,620.35,20,True,Medium
+Alhassan Asiedu,Takoradi Market Circle,Western,Food & Produce,259.15,13,True,Medium
+Ama Appiah,Tamale Central Market,Northern,Electronics,259.1,25,False,medium
+Fatima Asiedu,Kumasi Central Market,Ashanti,Tools & Hardware,,10,True,Medium
+Kweku Darko,Bolgatanga Market,Upper East,Household Goods,110.55,9,False,Large
+Boateng Baah,Kejetia Market,Ashanti,Mobile Phones & Accessories,186.13,25,True,Medium
+Abiba Gyasi,Kejetia Market,Ashanti,Electronics,704.93,18,False,Small
+Fatima Ankrah,Kejetia Market,Ashanti,Fabric & Clothing,158.85,25,False,Medium
+Abena Sarpong,Kumasi Central Market,Ashanti,Electronics,632.89,14,True,Small
+Darko Ankrah,Makola Market,Greater Accra,Fabric & Clothing,297.58,17,True,Small
+Appiah Mahama,Kejetia Market,Ashanti,Tools & Hardware,121.08,6,False,Medium
+Appiah Gyasi,Bolgatanga Market,Upper East,Household Goods,65.33,18,False,Med
+Akosua Mahama,Kejetia Market,Ashanti,Cosmetics & Beauty,183.97,11,False,Small
+Rashida Bonsu,Bolgatanga Market,Upper East,Fabric & Clothing,500.0,23,True,Small
+Alhassan Peprah,Bolgatanga Market,Upper East,Food & Produce,201.22,7,True,Medium
+Perpetua Asamoah,Kumasi Central Market,Ashanti,Fabric & Clothing,326.58,1,True,Medium
+Efua Adu,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,263.18,26,True,Small
+Fatima Osei,Kejetia Market,Ashanti,Household Goods,128.58,2,False,Medium
+Kwesi Frimpong,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,313.77,22,True,Small
+Fatima Osei,Tamale Central Market,Northern,Cosmetics & Beauty,150.66,9,True,Large
+Kwesi Acheampong,Kejetia Market,Ashanti,Electronics,703.55,1,True,Small
+Adwoa Asamoah,Makola Market,Greater Accra,Mobile Phones & Accessories,579.98,8,True,Small
+Abena Quansah,Tamale Central Market,Northern,Cosmetics & Beauty,240.94,7,False,Small
+Mohammed Osei,Tamale Central Market,Northern,Mobile Phones & Accessories,232.12,12,True,Small
+Kweku Quansah,Takoradi Market Circle,Western,Food & Produce,128.67,6,True,Large
+Ama Nartey,Takoradi Market Circle,Western,Fabric & Clothing,465.22,12,True,Medium
+Akosua Baah,Tamale Central Market,Northern,Household Goods,,15,False,Small
+Perpetua Nartey,Cape Coast Market,Central,Fabric & Clothing,85.09,16,True,Medium
+Blessing Abubakari,Takoradi Market Circle,Western,Tools & Hardware,445.02,17,False,Small
+Priscilla Poku,Makola Market,Greater Accra,Cosmetics & Beauty,286.15,11,True,Medium
+Efua Sarpong,Makola Market,Greater Accra,Cosmetics & Beauty,302.51,14,True,Small
+  Afia Lartey,Takoradi Market Circle,Western,Tools & Hardware,187.3,9,True,Small
+Alberta Owusu,Kumasi Central Market,Ashanti,Cosmetics & Beauty,,18,False,Small
+Yaw Mensah,Cape Coast Market,Central,Fabric & Clothing,246.16,17,True,Medium
+Mensah Sulemana,Bolgatanga Market,Upper East,Household Goods,95.0,7,True,Small
+Veronica Tetteh,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,594.8,22,False,Small
+Alhassan Asare,Takoradi Market Circle,Western,Cosmetics & Beauty,285.41,1,True,Medium
+Kwame Twum,Takoradi Market Circle,Western,Electronics,532.93,22,True,Small
+Asante Laryea,Cape Coast Market,Central,Household Goods,95.82,21,False,Medium
+Kobina Issahaku,Kejetia Market,Ashanti,Food & Produce,261.95,7,True,Small
+Alhassan Sarpong,Kumasi Central Market,Ashanti,Household Goods,105.12,20,True,Medium
+Addo Gyasi,Makola Market,Greater Accra,Food & Produce,200.38,27,False,Small
+Kofi Darko,Makola Market,Greater Accra,Tools & Hardware,186.14,8,True,Small
+Kojo Abubakari,Cape Coast Market,Central,Food & Produce,91.09,14,True,Medium
+Mohammed Ofori,Kejetia Market,Ashanti,Electronics,417.64,16,True,Small
+Blessing Sulemana,Cape Coast Market,Central,Fabric & Clothing,365.89,11,False,Small
+Appiah Nartey,Makola Market,Greater Accra,Tools & Hardware,178.72,21,True,Small
+Fatima Abubakari,Bolgatanga Market,Upper East,Household Goods,141.59,9,False,Med
+Akua Ofori,Makola Market,Greater Accra,Electronics,533.35,22,True,Medium
+Nana Yakubu,Takoradi Market Circle,Western,Household Goods,341.26,7,True,Small
+Yaw Asante,Makola Market,Greater Accra,Food & Produce,228.83,23,False,medium
+Yaw Gyasi,Takoradi Market Circle,Western,Mobile Phones & Accessories,1006.01,21,True,Medium
+Kofi Amoah,Kejetia Market,Ashanti,Household Goods,257.55,1,True,Medium
+Boateng Dankwa,Takoradi Market Circle,Western,Food & Produce,74.49,28,True,Large
+  Abiba Nkrumah,Kumasi Central Market,Ashanti,Household Goods,69.71,27,True,Small
+Abena Sarpong,Takoradi Market Circle,Western,Food & Produce,238.12,24,False,Small
+Abena Baah,Makola Market,Greater Accra,Cosmetics & Beauty,153.89,6,True,Small
+Mensah Asante,Tamale Central Market,Northern,Food & Produce,213.22,12,True,Medium
+Blessing Tetteh,Cape Coast Market,Central,Tools & Hardware,312.87,12,True,Small
+Afia Laryea,Makola Market,Greater Accra,Fabric & Clothing,442.4,6,True,Medium
+Ama Danso,Tamale Central Market,Northern,Household Goods,204.16,9,True,Small
+  Asante Lartey,Takoradi Market Circle,Western,Cosmetics & Beauty,81.44,1,True,Small
+Asante Ankrah,Cape Coast Market,Central,Mobile Phones & Accessories,647.21,6,False,Small
+Comfort Bonsu,Tamale Central Market,Northern,Fabric & Clothing,239.86,15,True,Large
+Abena Ofori,Makola Market,Greater Accra,Household Goods,83.18,14,True,Medium
+  Boateng Asamoah,Makola Market,Greater Accra,Cosmetics & Beauty,173.06,25,True,Small
+Kweku Mensah,Makola Market,Greater Accra,Fabric & Clothing,299.54,22,False,medium
+Alhassan Nartey,Cape Coast Market,Central,Fabric & Clothing,140.53,1,True,Small
+Rejoice Quansah,Bolgatanga Market,Upper East,Mobile Phones & Accessories,308.67,15,True,Medium
+Rashida Ankrah,Bolgatanga Market,Upper East,Electronics,131.03,17,True,Small
+Kwesi Issahaku,Cape Coast Market,Central,Cosmetics & Beauty,208.52,7,True,Medium
+Emmanuel Twum,Kejetia Market,Ashanti,Food & Produce,134.34,5,False,Medium
+Gifty Darko,Kejetia Market,Ashanti,Food & Produce,100.17,3,True,Medium
+Adwoa Adu,Kumasi Central Market,Ashanti,Household Goods,307.92,13,True,Medium
+Kojo Boateng,Kumasi Central Market,Ashanti,Household Goods,214.52,5,True,Large
+Rashida Twum,Makola Market,Greater Accra,Household Goods,275.41,11,True,Small
+Adwoa Danso,Makola Market,Greater Accra,Tools & Hardware,173.88,27,True,Small
+Abena Tetteh,Takoradi Market Circle,Western,Electronics,303.34,13,False,Medium
+Celestine Nkrumah,Makola Market,Greater Accra,Mobile Phones & Accessories,714.19,23,True,Small
+  Kwame Nartey,Cape Coast Market,Central,Food & Produce,124.89,24,True,Medium
+Alberta Osei,Cape Coast Market,Central,Mobile Phones & Accessories,627.89,3,True,Small
+Kweku Asare,Kumasi Central Market,Ashanti,Electronics,222.13,26,False,Medium
+Adwoa Issahaku,Makola Market,Greater Accra,Electronics,127.24,10,False,Small
+Emmanuel Baah,Bolgatanga Market,Upper East,Food & Produce,,25,True,Small
+Fatima Alhassan,Kejetia Market,Ashanti,Household Goods,252.7,22,True,Medium
+Perpetua Adu,Kejetia Market,Ashanti,Tools & Hardware,405.48,6,True,Large
+Kweku Issahaku,Kumasi Central Market,Ashanti,Tools & Hardware,260.44,27,True,Small
+Abiba Mahama,Takoradi Market Circle,Western,Fabric & Clothing,196.42,22,True,Small
+Kwesi Agyei,Kejetia Market,Ashanti,Cosmetics & Beauty,171.93,23,True,Medium
+Abena Quansah,Kumasi Central Market,Ashanti,Fabric & Clothing,218.55,24,True,Small
+Akua Sulemana,Cape Coast Market,Central,Tools & Hardware,79.04,16,True,Small
+Akua Bonsu,Cape Coast Market,Central,Tools & Hardware,195.09,10,True,Small
+Darko Danso,Takoradi Market Circle,Western,Food & Produce,268.33,1,True,Small
+Perpetua Sulemana,Cape Coast Market,Central,Mobile Phones & Accessories,,3,False,Small
+Perpetua Poku,Takoradi Market Circle,Western,Cosmetics & Beauty,127.74,13,True,Small
+Adwoa Sarpong,Bolgatanga Market,Upper East,Household Goods,343.38,10,False,Large
+Akua Asare,Bolgatanga Market,Upper East,Electronics,664.22,2,True,Medium
+Emmanuel Nkrumah,Tamale Central Market,Northern,Electronics,588.28,14,True,Medium
+  Fatima Mahama,Cape Coast Market,Central,Food & Produce,227.82,23,True,Small
+Kwesi Agyei,Makola Market,Greater Accra,Food & Produce,255.05,12,True,Large
+Comfort Peprah,Takoradi Market Circle,Western,Tools & Hardware,155.21,11,False,Medium
+Kojo Tetteh,Cape Coast Market,Central,Electronics,323.94,7,True,Small
+Ofori Owusu,Kumasi Central Market,Ashanti,Fabric & Clothing,426.49,2,True,Small
+Nana Agyei,Kejetia Market,Ashanti,Food & Produce,168.72,9,False,Medium
+Kweku Darko,Kejetia Market,Ashanti,Fabric & Clothing,130.27,23,False,Small
+Alberta Darko,Kumasi Central Market,Ashanti,Food & Produce,279.67,12,True,Small
+Kweku Kyei,Kumasi Central Market,Ashanti,Food & Produce,92.03,19,False,Small
+Patience Yakubu,Tamale Central Market,Northern,Fabric & Clothing,123.45,4,False,Medium
+Kofi Mahama,Tamale Central Market,Northern,Mobile Phones & Accessories,598.79,3,True,Small
+Boateng Alhassan,Takoradi Market Circle,Western,Mobile Phones & Accessories,459.32,24,True,Medium
+Akosua Asante,Tamale Central Market,Northern,Fabric & Clothing,134.67,17,False,Small
+Akosua Twum,Bolgatanga Market,Upper East,Mobile Phones & Accessories,595.25,14,False,Large
+Comfort Nkrumah,Kumasi Central Market,Ashanti,Household Goods,115.15,16,True,Small
+Emmanuel Abubakari,Makola Market,Greater Accra,Food & Produce,130.48,8,True,Small
+Abiba Frimpong,Cape Coast Market,Central,Tools & Hardware,305.78,10,True,Medium
+Blessing Adu,Takoradi Market Circle,Western,Mobile Phones & Accessories,437.29,21,True,Small
+Veronica Abubakari,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,1045.59,2,True,Large
+Abena Twum,Kumasi Central Market,Ashanti,Electronics,416.49,7,True,Medium
+Yaw Gyasi,Tamale Central Market,Northern,Tools & Hardware,145.65,7,False,Small
+Perpetua Dankwa,Tamale Central Market,Northern,Cosmetics & Beauty,176.89,4,True,Small
+Comfort Adu,Makola Market,Greater Accra,Household Goods,343.97,23,False,Small
+Efua Boateng,Makola Market,Greater Accra,Household Goods,345.8,20,True,Large
+Emmanuel Asante,Takoradi Market Circle,Western,Electronics,484.41,1,False,small
+Mohammed Sarpong,Bolgatanga Market,Upper East,Mobile Phones & Accessories,830.37,10,True,Small
+Kwesi Nartey,Kumasi Central Market,Ashanti,Tools & Hardware,198.39,3,True,Small
+Ama Gyasi,Bolgatanga Market,Upper East,Household Goods,230.35,23,True,Medium
+Alhassan Issahaku,Tamale Central Market,Northern,Food & Produce,155.9,26,True,Small
+Kobina Asamoah,Kumasi Central Market,Ashanti,Food & Produce,228.56,14,False,Medium
+Veronica Darko,Kejetia Market,Ashanti,Food & Produce,113.61,5,True,Small
+Alberta Amoah,Tamale Central Market,Northern,Tools & Hardware,264.08,21,True,Medium
+Abena Quartey,Makola Market,Greater Accra,Fabric & Clothing,302.65,26,True,Small
+  Mohammed Osei,Bolgatanga Market,Upper East,Cosmetics & Beauty,115.91,21,False,Medium
+Nana Alhassan,Kejetia Market,Ashanti,Food & Produce,177.69,5,True,Small
+Efua Mahama,Kumasi Central Market,Ashanti,Electronics,191.32,11,True,Medium
+Gifty Nartey,Makola Market,Greater Accra,Tools & Hardware,211.61,19,True,Small
+Nana Asante,Makola Market,Greater Accra,Electronics,835.93,24,True,Small
+Patience Sarpong,Bolgatanga Market,Upper East,Food & Produce,179.45,13,False,LARGE
+Kweku Danso,Takoradi Market Circle,Western,Fabric & Clothing,126.24,23,True,Medium
+  Addo Kyei,Bolgatanga Market,Upper East,Cosmetics & Beauty,189.45,14,True,Large
+Mensah Asare,Kumasi Central Market,Ashanti,Mobile Phones & Accessories,184.53,17,True,Medium
+Kobina Laryea,Tamale Central Market,Northern,Cosmetics & Beauty,117.54,12,True,Small
+Appiah Appiah,Tamale Central Market,Northern,Household Goods,227.79,23,False,Medium
+Alberta Abubakari,Takoradi Market Circle,Western,Household Goods,222.86,26,True,Small
+Alhassan Antwi,Kejetia Market,Ashanti,Fabric & Clothing,229.33,2,False,Small
+Ibrahim Mensah,Kejetia Market,Ashanti,Food & Produce,121.79,26,True,Small
+Celestine Asamoah,Kejetia Market,Ashanti,Mobile Phones & Accessories,1004.71,26,False,Medium
+Efua Boateng,Takoradi Market Circle,Western,Cosmetics & Beauty,296.82,11,True,Large
+Yaw Alhassan,Bolgatanga Market,Upper East,Electronics,339.34,14,True,Small
+Mensah Lartey,Tamale Central Market,Northern,Electronics,758.55,25,True,Small
+Mensah Dankwa,Takoradi Market Circle,Western,Mobile Phones & Accessories,412.04,22,False,Small
+Fatima Mahama,Tamale Central Market,Northern,Electronics,208.8,23,True,Small
+Fatima Tetteh,Cape Coast Market,Central,Fabric & Clothing,166.74,2,True,Small
+  Veronica Agyei,Tamale Central Market,Northern,Mobile Phones & Accessories,362.58,26,True,Small
+Alhassan Nkrumah,Bolgatanga Market,Upper East,Food & Produce,136.7,16,True,Small
+Kofi Nkrumah,Tamale Central Market,Northern,Fabric & Clothing,519.36,21,True,Small
+Ama Quartey,Takoradi Market Circle,Western,Tools & Hardware,,11,True,Medium
+Kojo Agyei,Kumasi Central Market,Ashanti,Household Goods,139.76,1,False,Small
+Emmanuel Antwi,Tamale Central Market,Northern,Electronics,508.57,22,True,Medium
+Gifty Boateng,Makola Market,Greater Accra,Electronics,151.37,18,False,Small
+Appiah Appiah,Bolgatanga Market,Upper East,Fabric & Clothing,321.28,2,True,Small
+Efua Asamoah,Makola Market,Greater Accra,Mobile Phones & Accessories,500.4,2,True,Small
+Asante Peprah,Tamale Central Market,Northern,Tools & Hardware,315.67,25,True,Small
+Ibrahim Nkrumah,Bolgatanga Market,Upper East,Electronics,523.57,5,False,Medium
+Celestine Issahaku,Cape Coast Market,Central,Mobile Phones & Accessories,332.99,10,True,Medium
+Abena Asiedu,Kejetia Market,Ashanti,Food & Produce,130.83,19,True,Small
+Nana Bonsu,Cape Coast Market,Central,Mobile Phones & Accessories,218.33,23,True,Large
+Alberta Amoah,Cape Coast Market,Central,Mobile Phones & Accessories,,11,True,SMALL
+Rashida Lartey,Makola Market,Greater Accra,Cosmetics & Beauty,95.97,10,False,Medium
+Alberta Laryea,Cape Coast Market,Central,Mobile Phones & Accessories,1048.58,5,False,Small
+Akosua Osei,Kejetia Market,Ashanti,Household Goods,264.17,22,False,Small
+Comfort Osei,Makola Market,Greater Accra,Food & Produce,189.4,3,True,Medium
+Kweku Baah,Tamale Central Market,Northern,Food & Produce,233.55,27,False,Medium
+Ibrahim Gyasi,Cape Coast Market,Central,Food & Produce,174.64,28,True,Small
+Darko Quartey,Kumasi Central Market,Ashanti,Electronics,603.64,17,True,Medium
+Mensah Amoah,Kejetia Market,Ashanti,Fabric & Clothing,235.87,27,True,Small
+Kweku Nartey,Takoradi Market Circle,Western,Fabric & Clothing,347.11,12,True,Small
+Abiba Antwi,Makola Market,Greater Accra,Fabric & Clothing,409.1,13,True,Small
+Darko Ofori,Kumasi Central Market,Ashanti,Tools & Hardware,375.52,7,True,Medium
+Comfort Appiah,Bolgatanga Market,Upper East,Food & Produce,216.63,17,True,Small
+Ibrahim Gyasi,Kumasi Central Market,Ashanti,Cosmetics & Beauty,175.08,2,False,Small
+Adwoa Lartey,Bolgatanga Market,Upper East,Cosmetics & Beauty,180.85,22,True,Medium
+Veronica Owusu,Makola Market,Greater Accra,Electronics,448.61,25,True,Small
+Darko Baah,Tamale Central Market,Northern,Fabric & Clothing,,21,False,Small
+Blessing Darko,Tamale Central Market,Northern,Food & Produce,203.49,27,True,Small
