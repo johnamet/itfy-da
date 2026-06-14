@@ -1,0 +1,1001 @@
+sale_id,date,region,district,product_category,product_name,units_sold,unit_price_ghs,total_revenue_ghs,sales_rep,quarter,channel
+TXN-00001,2023-06-25,Greater Accra,Ga West,Building Materials,Iron Rods (bundle),10,354.0,3540.0,Akosua Darko,Q2,Online
+TXN-00002,2023-04-21,Greater Accra,Ga West,Food & Beverages,Tomato Paste (carton),4,232.88,931.52,Kojo Sarpong,Q2,Online
+TXN-00003,2023-06-13,Eastern,Fanteakwa,Building Materials,Cement (bag),48,390.37,18737.76,Adwoa Osei,Q2,Wholesale
+TXN-00004,2023-12-31,Greater Accra,Ga West,Electronics,Power Bank,6,228.09,1368.54,Gifty Gyasi,Q4,Online
+TXN-00005,2023-12-09,Greater Accra,Ashaiman,Electronics,Power Bank,2,1241.86,2483.72,Abena Owusu,Q4,Online
+TXN-00006,2023-01-06,Ashanti,Kwabre East,Electronics,Wireless Earbuds,2,2708.48,5416.96,Patience Dankwa,Q1,Wholesale
+TXN-00007,2023-03-22,Ashanti,Oforikrom,Agriculture,Maize Seeds (5kg),5,111.25,556.25,Kofi Asante,Q1,In-Store
+TXN-00008,2023-08-31,Ashanti,Ejisu,Agriculture,Maize Seeds (5kg),19,149.21,2834.99,Kwame Boateng,Q3,Online
+TXN-00009,2023-05-06,Ashanti,Kumasi Metro,Electronics,Power Bank,7,1180.03,8260.21,Gifty Gyasi,Q2,Online
+TXN-00010,2023-05-01,Greater Accra,Ashaiman,Building Materials,Tiles (box),23,417.94,9612.62,Akua Agyei,Q2,In-Store
+TXN-00011,2023-06-06,Volta,Ho Municipal,Clothing & Textiles,Ladies Dress,4,60.62,242.48,Adwoa Osei,Q2,In-Store
+TXN-00012,2023-07-13,Central,Mfantsiman,Food & Beverages,Packaged Rice (25kg),9,39.89,359.01,Kofi Asante,Q3,Online
+TXN-00013,2023-10-30,Ashanti,Ejisu,Clothing & Textiles,Ankara Fabric (6yds),8,204.73,1637.84,Yaw Appiah,Q4,Online
+TXN-00014,2023-08-26,Volta,Keta,Food & Beverages,Biscuits (carton),26,199.93,5198.18,Kofi Asante,Q3,Online
+TXN-00015,2023-07-15,Eastern,Fanteakwa,Electronics,Smartphone,6,2094.69,12568.14,Ama Mensah,Q3,In-Store
+TXN-00016,2023-08-18,Central,Cape Coast Metro,Electronics,Power Bank,8,222.17,1777.36,Kojo Sarpong,Q3,In-Store
+TXN-00017,2023-02-19,Eastern,Fanteakwa,Agriculture,Fertiliser (50kg),6,314.05,1884.3,Patience Dankwa,Q1,In-Store
+TXN-00018,2023-09-07,Western,Ahanta West,Food & Beverages,Milo (tin),13,238.43,3099.59,Akosua Darko,Q3,Wholesale
+TXN-00019,2023-08-11,Central,Cape Coast Metro,Building Materials,Cement (bag),34,899.68,30589.12,Akua Agyei,Q3,In-Store
+TXN-00020,2023-12-05,Central,Cape Coast Metro,Building Materials,Paint (20L),23,1093.1,25141.3,Yaw Appiah,Q4,Online
+TXN-00021,2023-01-02,Central,Cape Coast Metro,Agriculture,Farm Tools Set,15,150.04,2250.6,Akosua Darko,Q1,Wholesale
+TXN-00022,2023-06-27,Central,Cape Coast Metro,Agriculture,Fertiliser (50kg),13,229.7,2986.1,Akua Agyei,Q2,In-Store
+TXN-00023,2023-06-28,Greater Accra,Tema Metro,Agriculture,Yam (bag),17,134.8,2291.6,Kweku Frimpong,Q2,Wholesale
+TXN-00024,2023-01-24,Greater Accra,Accra Metro,Food & Beverages,Biscuits (carton),26,192.81,5013.06,Kweku Frimpong,Q1,In-Store
+TXN-00025,2023-04-20,Eastern,New Juaben North,Building Materials,Cement (bag),34,1040.64,35381.76,Kojo Sarpong,Q2,Wholesale
+TXN-00026,2023-02-23,Ashanti,Ejisu,Clothing & Textiles,Kente Cloth,3,333.55,1000.65,Kwame Boateng,Q1,Wholesale
+TXN-00027,2023-09-26,Greater Accra,Tema Metro,Health & Beauty,Diapers (carton),15,220.03,3300.45,Ibrahim Alhassan,Q3,Wholesale
+TXN-00028,2023-12-09,Volta,Hohoe,Building Materials,Roofing Sheets,49,269.93,13226.57,Abena Owusu,Q4,Online
+TXN-00029,2023-10-30,Eastern,New Juaben North,Clothing & Textiles,Kente Cloth,11,273.27,3005.97,Kojo Sarpong,Q4,In-Store
+TXN-00030,2023-09-13,Greater Accra,Tema Metro,Health & Beauty,Diapers (carton),13,184.72,2401.36,Ibrahim Alhassan,Q3,Online
+TXN-00031,2023-09-12,Ashanti,Kumasi Metro,Food & Beverages,Cooking Oil (5L),25,41.99,1049.75,Kojo Sarpong,Q3,In-Store
+TXN-00032,2023-07-06,Volta,Hohoe,Health & Beauty,Diapers (carton),5,245.98,1229.9,Gifty Gyasi,Q3,Online
+TXN-00033,2023-10-17,Volta,Ho Municipal,Food & Beverages,Milo (tin),29,222.47,6451.63,Patience Dankwa,Q4,Online
+TXN-00034,2023-06-02,Ashanti,Ejisu,Health & Beauty,Diapers (carton),15,134.13,2011.95,Abena Owusu,Q2,In-Store
+TXN-00035,2023-02-14,Volta,Ho Municipal,Food & Beverages,Milo (tin),10,58.6,586.0,Kojo Sarpong,Q1,Online
+TXN-00036,2023-06-24,Greater Accra,Tema Metro,Agriculture,Irrigation Hose,15,216.34,3245.1,Ibrahim Alhassan,Q2,In-Store
+TXN-00037,2023-01-19,Volta,Ho Municipal,Electronics,Smartphone,5,2306.73,11533.65,Akua Agyei,Q1,In-Store
+TXN-00038,2023-11-27,Ashanti,Kumasi Metro,Health & Beauty,Hand Sanitiser (carton),8,45.51,364.08,Kweku Frimpong,Q4,Online
+TXN-00039,2023-07-27,Central,Effutu,Food & Beverages,Packaged Rice (25kg),21,199.32,4185.72,Kojo Sarpong,Q3,In-Store
+TXN-00040,2023-10-06,Western,Sekondi-Takoradi Metro,Clothing & Textiles,Batakari,1,567.8,567.8,Kofi Asante,Q4,Online
+TXN-00041,2023-02-20,Western,Tarkwa-Nsuaem,Health & Beauty,Sunscreen (bulk),5,255.76,1278.8,Akua Agyei,Q1,In-Store
+TXN-00042,2023-11-03,Central,Cape Coast Metro,Food & Beverages,Packaged Rice (25kg),19,218.15,4144.85,Gifty Gyasi,Q4,In-Store
+TXN-00043,2023-01-28,Central,Cape Coast Metro,Health & Beauty,Sunscreen (bulk),5,113.11,565.55,Adwoa Osei,Q1,In-Store
+TXN-00044,2023-02-15,Western,Tarkwa-Nsuaem,Food & Beverages,Bottled Water (crate),3,199.78,599.34,Akosua Darko,Q1,In-Store
+TXN-00045,2023-09-18,Western,Ahanta West,Agriculture,Fertiliser (50kg),17,344.65,5859.05,Akosua Darko,Q3,In-Store
+TXN-00046,2023-07-30,Central,Effutu,Health & Beauty,Hand Sanitiser (carton),8,236.54,1892.32,Kojo Sarpong,Q3,Online
+TXN-00047,2023-02-20,Ashanti,Ejisu,Electronics,Tablet,5,1044.07,5220.35,Yaw Appiah,Q1,In-Store
+TXN-00048,2023-01-15,Western,Ahanta West,Agriculture,Fertiliser (50kg),17,223.15,3793.55,Gifty Gyasi,Q1,Online
+TXN-00049,2023-07-14,Western,Tarkwa-Nsuaem,Clothing & Textiles,Batakari,9,409.77,3687.93,Gifty Gyasi,Q3,Wholesale
+TXN-00050,2023-08-13,Volta,Ho Municipal,Clothing & Textiles,Men's Suit,6,50.72,304.32,Fatima Mahama,Q3,Wholesale
+TXN-00051,2023-05-08,Greater Accra,Ashaiman,Health & Beauty,Soap (carton),15,185.83,2787.45,Ibrahim Alhassan,Q2,In-Store
+TXN-00052,2023-07-25,Eastern,Birim Central,Clothing & Textiles,School Uniform Set,6,175.9,1055.4,Fatima Mahama,Q3,Online
+TXN-00053,2023-06-28,Greater Accra,Accra Metro,Clothing & Textiles,Batakari,11,317.18,3488.98,Kweku Frimpong,Q2,Online
+TXN-00054,2023-07-10,Eastern,New Juaben North,Agriculture,Maize Seeds (5kg),12,339.34,4072.08,Adwoa Osei,Q3,Wholesale
+TXN-00055,2023-05-21,Volta,Hohoe,Health & Beauty,Multivitamins,7,230.18,1611.26,Akosua Darko,Q2,Online
+TXN-00056,2023-03-08,Volta,Ho Municipal,Agriculture,Pesticide (5L),2,272.64,545.28,Patience Dankwa,Q1,Online
+TXN-00057,2023-02-23,Volta,Hohoe,Electronics,Smart TV,6,1321.78,7930.68,Kwame Boateng,Q1,In-Store
+TXN-00058,2023-11-20,Eastern,New Juaben North,Clothing & Textiles,Batakari,5,636.67,3183.35,Abena Owusu,Q4,Online
+TXN-00059,2023-10-27,Ashanti,Kumasi Metro,Clothing & Textiles,Kente Cloth,6,647.57,3885.42,Kofi Asante,Q4,In-Store
+TXN-00060,2023-02-26,Volta,Hohoe,Clothing & Textiles,Men's Suit,10,530.89,5308.9,Abena Owusu,Q1,Online
+TXN-00061,2023-12-08,Ashanti,Kumasi Metro,Agriculture,Fertiliser (50kg),7,43.17,302.19,Kofi Asante,Q4,In-Store
+TXN-00062,2023-09-10,Ashanti,Kumasi Metro,Electronics,Laptop,2,1435.0,2870.0,Ama Mensah,Q3,Wholesale
+TXN-00063,2023-10-08,Central,Cape Coast Metro,Health & Beauty,Sunscreen (bulk),13,192.37,2500.81,Ama Mensah,Q4,In-Store
+TXN-00064,2023-07-05,Volta,Keta,Food & Beverages,Bottled Water (crate),23,125.95,2896.85,Kojo Sarpong,Q3,Wholesale
+TXN-00065,2023-12-24,Volta,Ho Municipal,Electronics,Smartphone,3,794.34,2383.02,Fatima Mahama,Q4,In-Store
+TXN-00066,2023-04-16,Volta,Ho Municipal,Food & Beverages,Tomato Paste (carton),11,256.21,2818.31,Fatima Mahama,Q2,Wholesale
+TXN-00067,2023-08-29,Western,Tarkwa-Nsuaem,Building Materials,Iron Rods (bundle),30,86.1,2583.0,Emmanuel Antwi,Q3,In-Store
+TXN-00068,2023-11-20,Volta,Keta,Health & Beauty,Hand Sanitiser (carton),1,204.51,204.51,Akua Agyei,Q4,In-Store
+TXN-00069,2023-11-15,Eastern,Fanteakwa,Food & Beverages,Tomato Paste (carton),12,174.7,2096.4,Fatima Mahama,Q4,Wholesale
+TXN-00070,2023-05-10,Volta,Ho Municipal,Clothing & Textiles,School Uniform Set,10,348.65,3486.5,Emmanuel Antwi,Q2,Online
+TXN-00071,2023-03-24,Volta,Keta,Electronics,Smartphone,1,2278.23,2278.23,Ibrahim Alhassan,Q1,In-Store
+TXN-00072,2023-04-19,Greater Accra,Ga West,Building Materials,Iron Rods (bundle),31,641.89,19898.59,Ibrahim Alhassan,Q2,Wholesale
+TXN-00073,2023-08-03,Ashanti,Ejisu,Building Materials,Cement (bag),11,209.34,2302.74,Yaw Appiah,Q3,Online
+TXN-00074,2023-02-18,Volta,Hohoe,Health & Beauty,Sunscreen (bulk),14,125.2,1752.8,Kojo Sarpong,Q1,In-Store
+TXN-00075,2023-01-26,Greater Accra,Accra Metro,Clothing & Textiles,Ladies Dress,5,582.01,2910.05,Gifty Gyasi,Q1,In-Store
+TXN-00076,2023-11-17,Eastern,Birim Central,Building Materials,Tiles (box),43,113.75,4891.25,Emmanuel Antwi,Q4,In-Store
+TXN-00077,2023-06-07,Western,Ahanta West,Food & Beverages,Biscuits (carton),27,91.07,2458.89,Kofi Asante,Q2,In-Store
+TXN-00078,2023-09-26,Central,Mfantsiman,Health & Beauty,Diapers (carton),12,33.59,403.08,Kweku Frimpong,Q3,In-Store
+TXN-00079,2023-09-26,Eastern,Birim Central,Health & Beauty,Multivitamins,2,108.3,216.6,Kweku Frimpong,Q3,In-Store
+TXN-00080,2023-04-24,Greater Accra,Ashaiman,Electronics,Smartphone,4,1923.51,7694.04,Fatima Mahama,Q2,In-Store
+TXN-00081,2023-04-13,Western,Sekondi-Takoradi Metro,Building Materials,Cement (bag),26,489.17,12718.42,Akua Agyei,Q2,In-Store
+TXN-00082,2023-09-14,Central,Cape Coast Metro,Electronics,Smartphone,3,274.19,822.57,Yaw Appiah,Q3,Wholesale
+TXN-00083,2023-10-26,Eastern,Birim Central,Clothing & Textiles,School Uniform Set,6,352.74,2116.44,Ibrahim Alhassan,Q4,In-Store
+TXN-00084,2023-05-19,Eastern,Birim Central,Food & Beverages,Cooking Oil (5L),16,252.67,4042.72,Ibrahim Alhassan,Q2,In-Store
+TXN-00085,2023-06-25,Greater Accra,Ashaiman,Electronics,Smartphone,2,2042.6,4085.2,Akua Agyei,Q2,In-Store
+TXN-00086,2023-05-19,Volta,Hohoe,Food & Beverages,Biscuits (carton),28,40.64,1137.92,Adwoa Osei,Q2,In-Store
+TXN-00087,2023-12-13,Volta,Keta,Food & Beverages,Bottled Water (crate),13,91.6,1190.8,Kwame Boateng,Q4,Online
+TXN-00088,2023-03-30,Western,Ahanta West,Food & Beverages,Tomato Paste (carton),14,28.58,400.12,Emmanuel Antwi,Q1,Wholesale
+TXN-00089,2023-10-15,Volta,Hohoe,Building Materials,Iron Rods (bundle),17,249.44,4240.48,Kofi Asante,Q4,In-Store
+TXN-00090,2023-05-02,Central,Cape Coast Metro,Food & Beverages,Biscuits (carton),2,195.05,390.1,Gifty Gyasi,Q2,Online
+TXN-00091,2023-04-09,Ashanti,Kumasi Metro,Food & Beverages,Milo (tin),17,215.06,3656.02,Emmanuel Antwi,Q2,Online
+TXN-00092,2023-05-27,Eastern,Fanteakwa,Food & Beverages,Bottled Water (crate),15,191.45,2871.75,Akua Agyei,Q2,In-Store
+TXN-00093,2023-05-14,Eastern,Fanteakwa,Building Materials,Iron Rods (bundle),2,1146.19,2292.38,Kofi Asante,Q2,In-Store
+TXN-00094,2023-01-31,Greater Accra,Accra Metro,Clothing & Textiles,Kente Cloth,8,344.0,2752.0,Kweku Frimpong,Q1,Wholesale
+TXN-00095,2023-06-05,Eastern,Fanteakwa,Food & Beverages,Packaged Rice (25kg),29,149.45,4334.05,Kweku Frimpong,Q2,Wholesale
+TXN-00096,2023-08-06,Eastern,Birim Central,Clothing & Textiles,School Uniform Set,7,292.11,2044.77,Kwame Boateng,Q3,In-Store
+TXN-00097,2023-11-14,Central,Cape Coast Metro,Clothing & Textiles,Men's Suit,7,176.89,1238.23,Adwoa Osei,Q4,Online
+TXN-00098,2023-02-05,Eastern,Birim Central,Building Materials,Tiles (box),41,338.36,13872.76,Emmanuel Antwi,Q1,In-Store
+TXN-00099,2023-02-03,Eastern,New Juaben North,Agriculture,Pesticide (5L),9,254.19,2287.71,Yaw Appiah,Q1,In-Store
+TXN-00100,2023-05-28,Ashanti,Kwabre East,Food & Beverages,Cooking Oil (5L),14,229.04,3206.56,Akosua Darko,Q2,In-Store
+TXN-00101,2023-04-11,Volta,Hohoe,Clothing & Textiles,Ankara Fabric (6yds),8,146.42,1171.36,Fatima Mahama,Q2,In-Store
+TXN-00102,2023-10-23,Ashanti,Ejisu,Clothing & Textiles,Ladies Dress,3,111.31,333.93,Fatima Mahama,Q4,In-Store
+TXN-00103,2023-12-01,Greater Accra,Ga West,Electronics,Smartphone,7,1617.75,11324.25,Kwame Boateng,Q4,Wholesale
+TXN-00104,2023-04-24,Ashanti,Oforikrom,Health & Beauty,Multivitamins,9,29.41,264.69,Adwoa Osei,Q2,Wholesale
+TXN-00105,2023-01-19,Central,Cape Coast Metro,Clothing & Textiles,Batakari,1,599.04,599.04,Ibrahim Alhassan,Q1,In-Store
+TXN-00106,2023-12-01,Western,Sekondi-Takoradi Metro,Clothing & Textiles,Ankara Fabric (6yds),5,264.04,1320.2,Kojo Sarpong,Q4,In-Store
+TXN-00107,2023-04-02,Eastern,New Juaben North,Electronics,Laptop,5,807.8,4039.0,Ibrahim Alhassan,Q2,Wholesale
+TXN-00108,2023-08-21,Western,Ahanta West,Agriculture,Farm Tools Set,1,34.33,34.33,Akua Agyei,Q3,Online
+TXN-00109,2023-07-17,Ashanti,Kumasi Metro,Food & Beverages,Tomato Paste (carton),10,219.79,2197.9,Kwame Boateng,Q3,Wholesale
+TXN-00110,2023-05-18,Ashanti,Oforikrom,Agriculture,Farm Tools Set,1,85.55,85.55,Yaw Appiah,Q2,Online
+TXN-00111,2023-06-10,Western,Sekondi-Takoradi Metro,Food & Beverages,Milo (tin),8,166.82,1334.56,Abena Owusu,Q2,Wholesale
+TXN-00112,2023-01-22,Central,Mfantsiman,Food & Beverages,Milo (tin),22,57.19,1258.18,Patience Dankwa,Q1,In-Store
+TXN-00113,2023-12-03,Greater Accra,Ga West,Building Materials,Iron Rods (bundle),37,190.29,7040.73,Gifty Gyasi,Q4,In-Store
+TXN-00114,2023-08-15,Western,Tarkwa-Nsuaem,Electronics,Smartphone,4,1212.25,4849.0,Kojo Sarpong,Q3,In-Store
+TXN-00115,2023-03-28,Volta,Hohoe,Building Materials,Paint (20L),17,618.73,10518.41,Patience Dankwa,Q1,In-Store
+TXN-00116,2023-03-22,Eastern,Birim Central,Clothing & Textiles,Men's Suit,3,475.68,1427.04,Ibrahim Alhassan,Q1,In-Store
+TXN-00117,2023-03-28,Eastern,New Juaben North,Food & Beverages,Biscuits (carton),24,205.93,4942.32,Kweku Frimpong,Q1,In-Store
+TXN-00118,2023-09-01,Greater Accra,Tema Metro,Health & Beauty,Hand Sanitiser (carton),4,21.29,85.16,Ibrahim Alhassan,Q3,Online
+TXN-00119,2023-12-03,Volta,Ho Municipal,Food & Beverages,Biscuits (carton),16,180.79,2892.64,Yaw Appiah,Q4,Online
+TXN-00120,2023-02-16,Central,Cape Coast Metro,Electronics,Tablet,7,2328.82,16301.74,Adwoa Osei,Q1,In-Store
+TXN-00121,2023-01-28,Ashanti,Ejisu,Health & Beauty,Sunscreen (bulk),7,86.46,605.22,Akua Agyei,Q1,Online
+TXN-00122,2023-12-29,Central,Mfantsiman,Health & Beauty,Multivitamins,8,252.63,2021.04,Kofi Asante,Q4,In-Store
+TXN-00123,2023-05-06,Eastern,Birim Central,Food & Beverages,Tomato Paste (carton),15,78.91,1183.65,Abena Owusu,Q2,In-Store
+TXN-00124,2023-06-26,Volta,Hohoe,Building Materials,Tiles (box),31,1068.95,33137.45,Gifty Gyasi,Q2,Wholesale
+TXN-00125,2023-05-27,Greater Accra,Accra Metro,Building Materials,Iron Rods (bundle),48,305.78,14677.44,Ama Mensah,Q2,Online
+TXN-00126,2023-02-05,Eastern,Fanteakwa,Clothing & Textiles,Batakari,12,116.56,1398.72,Abena Owusu,Q1,Online
+TXN-00127,2023-08-24,Ashanti,Ejisu,Clothing & Textiles,Kente Cloth,10,431.75,4317.5,Kweku Frimpong,Q3,In-Store
+TXN-00128,2023-12-19,Greater Accra,Ashaiman,Food & Beverages,Bottled Water (crate),13,104.46,1357.98,Gifty Gyasi,Q4,In-Store
+TXN-00129,2023-04-20,Western,Ahanta West,Health & Beauty,Multivitamins,14,109.19,1528.66,Patience Dankwa,Q2,In-Store
+TXN-00130,2023-03-12,Greater Accra,Accra Metro,Building Materials,Tiles (box),47,161.05,7569.35,Kojo Sarpong,Q1,Online
+TXN-00131,2023-09-06,Volta,Hohoe,Health & Beauty,Multivitamins,9,26.21,235.89,Kojo Sarpong,Q3,In-Store
+TXN-00132,2023-09-07,Western,Tarkwa-Nsuaem,Agriculture,Maize Seeds (5kg),20,346.11,6922.2,Ibrahim Alhassan,Q3,In-Store
+TXN-00133,2023-05-09,Volta,Ho Municipal,Building Materials,Cement (bag),15,794.96,11924.4,Patience Dankwa,Q2,Online
+TXN-00134,2023-11-18,Ashanti,Ejisu,Clothing & Textiles,School Uniform Set,8,390.39,3123.12,Kweku Frimpong,Q4,In-Store
+TXN-00135,2023-03-23,Greater Accra,Tema Metro,Food & Beverages,Tomato Paste (carton),24,141.0,3384.0,Akosua Darko,Q1,In-Store
+TXN-00136,2023-05-30,Greater Accra,Ashaiman,Clothing & Textiles,School Uniform Set,6,333.65,2001.9,Gifty Gyasi,Q2,Online
+TXN-00137,2023-09-18,Ashanti,Oforikrom,Food & Beverages,Milo (tin),22,261.19,5746.18,Fatima Mahama,Q3,In-Store
+TXN-00138,2023-02-27,Volta,Keta,Agriculture,Pesticide (5L),2,108.91,217.82,Emmanuel Antwi,Q1,In-Store
+TXN-00139,2023-04-02,Western,Sekondi-Takoradi Metro,Agriculture,Farm Tools Set,4,258.65,1034.6,Gifty Gyasi,Q2,Wholesale
+TXN-00140,2023-05-29,Central,Mfantsiman,Clothing & Textiles,Ankara Fabric (6yds),7,494.93,3464.51,Abena Owusu,Q2,Wholesale
+TXN-00141,2023-01-13,Western,Ahanta West,Clothing & Textiles,Men's Suit,3,328.12,984.36,Akosua Darko,Q1,In-Store
+TXN-00142,2023-07-11,Central,Effutu,Building Materials,Paint (20L),42,418.05,17558.1,Fatima Mahama,Q3,Wholesale
+TXN-00143,2023-01-26,Western,Tarkwa-Nsuaem,Agriculture,Farm Tools Set,20,361.26,7225.2,Gifty Gyasi,Q1,Online
+TXN-00144,2023-05-09,Western,Ahanta West,Building Materials,Paint (20L),35,119.34,4176.9,Kwame Boateng,Q2,Online
+TXN-00145,2023-04-27,Ashanti,Kumasi Metro,Agriculture,Pesticide (5L),8,71.68,573.44,Abena Owusu,Q2,Online
+TXN-00146,2023-03-16,Central,Effutu,Clothing & Textiles,Kente Cloth,3,274.85,824.55,Akosua Darko,Q1,In-Store
+TXN-00147,2023-12-27,Central,Cape Coast Metro,Clothing & Textiles,Kente Cloth,5,633.39,3166.95,Gifty Gyasi,Q4,Online
+TXN-00148,2023-10-08,Central,Cape Coast Metro,Building Materials,Iron Rods (bundle),10,708.85,7088.5,Ibrahim Alhassan,Q4,Online
+TXN-00149,2023-11-20,Greater Accra,Tema Metro,Food & Beverages,Biscuits (carton),22,230.17,5063.74,Kofi Asante,Q4,In-Store
+TXN-00150,2023-10-16,Volta,Hohoe,Electronics,Tablet,1,2732.74,2732.74,Kwame Boateng,Q4,In-Store
+TXN-00151,2023-09-24,Central,Effutu,Agriculture,Yam (bag),5,336.97,1684.85,Gifty Gyasi,Q3,In-Store
+TXN-00152,2023-08-09,Volta,Hohoe,Clothing & Textiles,School Uniform Set,9,257.88,2320.92,Fatima Mahama,Q3,In-Store
+TXN-00153,2023-10-09,Western,Sekondi-Takoradi Metro,Food & Beverages,Biscuits (carton),5,101.5,507.5,Kwame Boateng,Q4,Online
+TXN-00154,2023-02-19,Ashanti,Kumasi Metro,Clothing & Textiles,Men's Suit,10,624.85,6248.5,Ibrahim Alhassan,Q1,In-Store
+TXN-00155,2023-02-11,Central,Cape Coast Metro,Agriculture,Maize Seeds (5kg),10,173.6,1736.0,Kweku Frimpong,Q1,Wholesale
+TXN-00156,2023-01-15,Volta,Hohoe,Food & Beverages,Biscuits (carton),6,194.62,1167.72,Ibrahim Alhassan,Q1,In-Store
+TXN-00157,2023-01-10,Central,Effutu,Electronics,Smart TV,4,2190.24,8760.96,Kwame Boateng,Q1,Online
+TXN-00158,2023-05-21,Central,Mfantsiman,Electronics,Smart TV,8,1683.1,13464.8,Adwoa Osei,Q2,In-Store
+TXN-00159,2023-09-21,Volta,Keta,Health & Beauty,Sunscreen (bulk),6,160.24,961.44,Fatima Mahama,Q3,In-Store
+TXN-00160,2023-05-02,Central,Mfantsiman,Health & Beauty,Hand Sanitiser (carton),14,37.06,518.84,Ama Mensah,Q2,Online
+TXN-00161,2023-01-26,Eastern,Fanteakwa,Electronics,Power Bank,1,1005.25,1005.25,Fatima Mahama,Q1,In-Store
+TXN-00162,2023-03-20,Central,Cape Coast Metro,Agriculture,Maize Seeds (5kg),3,331.21,993.63,Gifty Gyasi,Q1,In-Store
+TXN-00163,2023-06-14,Eastern,Birim Central,Health & Beauty,Shampoo (carton),1,226.79,226.79,Fatima Mahama,Q2,In-Store
+TXN-00164,2023-02-16,Central,Effutu,Clothing & Textiles,Ankara Fabric (6yds),6,139.68,838.08,Patience Dankwa,Q1,In-Store
+TXN-00165,2023-06-05,Volta,Hohoe,Food & Beverages,Cooking Oil (5L),14,112.09,1569.26,Emmanuel Antwi,Q2,Online
+TXN-00166,2023-05-23,Western,Ahanta West,Agriculture,Irrigation Hose,4,280.4,1121.6,Ama Mensah,Q2,In-Store
+TXN-00167,2023-11-24,Ashanti,Kwabre East,Food & Beverages,Bottled Water (crate),26,173.67,4515.42,Kwame Boateng,Q4,Online
+TXN-00168,2023-01-06,Central,Effutu,Food & Beverages,Packaged Rice (25kg),26,129.84,3375.84,Kofi Asante,Q1,Online
+TXN-00169,2023-05-29,Eastern,New Juaben North,Agriculture,Farm Tools Set,14,229.69,3215.66,Emmanuel Antwi,Q2,In-Store
+TXN-00170,2023-09-02,Volta,Keta,Food & Beverages,Tomato Paste (carton),8,74.88,599.04,Kwame Boateng,Q3,Online
+TXN-00171,2023-05-12,Ashanti,Kumasi Metro,Building Materials,Roofing Sheets,1,824.22,824.22,Yaw Appiah,Q2,Online
+TXN-00172,2023-02-27,Western,Sekondi-Takoradi Metro,Health & Beauty,Soap (carton),15,248.2,3723.0,Abena Owusu,Q1,In-Store
+TXN-00173,2023-04-19,Ashanti,Kumasi Metro,Electronics,Power Bank,1,287.15,287.15,Yaw Appiah,Q2,In-Store
+TXN-00174,2023-11-29,Ashanti,Kwabre East,Agriculture,Fertiliser (50kg),3,57.28,171.84,Ibrahim Alhassan,Q4,In-Store
+TXN-00175,2023-05-12,Western,Tarkwa-Nsuaem,Food & Beverages,Cooking Oil (5L),14,180.13,2521.82,Ama Mensah,Q2,In-Store
+TXN-00176,2023-11-16,Central,Mfantsiman,Agriculture,Yam (bag),8,357.4,2859.2,Ama Mensah,Q4,Online
+TXN-00177,2023-05-03,Ashanti,Ejisu,Clothing & Textiles,Kente Cloth,1,141.69,141.69,Emmanuel Antwi,Q2,In-Store
+TXN-00178,2023-11-10,Volta,Ho Municipal,Electronics,Power Bank,3,2694.84,8084.52,Kwame Boateng,Q4,In-Store
+TXN-00179,2023-04-14,Ashanti,Ejisu,Food & Beverages,Packaged Rice (25kg),10,260.52,2605.2,Kweku Frimpong,Q2,In-Store
+TXN-00180,2023-07-26,Central,Cape Coast Metro,Building Materials,Tiles (box),3,582.93,1748.79,Ibrahim Alhassan,Q3,Wholesale
+TXN-00181,2023-12-25,Volta,Ho Municipal,Clothing & Textiles,Men's Suit,11,563.48,6198.28,Emmanuel Antwi,Q4,Online
+TXN-00182,2023-06-26,Eastern,New Juaben North,Building Materials,Cement (bag),7,553.74,3876.18,Fatima Mahama,Q2,Online
+TXN-00183,2023-09-06,Eastern,New Juaben North,Clothing & Textiles,Ladies Dress,10,344.02,3440.2,Abena Owusu,Q3,Online
+TXN-00184,2023-10-23,Eastern,New Juaben North,Clothing & Textiles,School Uniform Set,6,534.94,3209.64,Abena Owusu,Q4,Wholesale
+TXN-00185,2023-05-11,Western,Sekondi-Takoradi Metro,Building Materials,Roofing Sheets,34,945.28,32139.52,Yaw Appiah,Q2,In-Store
+TXN-00186,2023-03-26,Eastern,Birim Central,Building Materials,Cement (bag),31,249.85,7745.35,Ibrahim Alhassan,Q1,In-Store
+TXN-00187,2023-10-02,Western,Sekondi-Takoradi Metro,Building Materials,Tiles (box),34,957.04,32539.36,Gifty Gyasi,Q4,Online
+TXN-00188,2023-10-17,Greater Accra,Accra Metro,Food & Beverages,Tomato Paste (carton),29,170.69,4950.01,Abena Owusu,Q4,Online
+TXN-00189,2023-10-31,Ashanti,Ejisu,Health & Beauty,Multivitamins,14,120.27,1683.78,Fatima Mahama,Q4,In-Store
+TXN-00190,2023-11-01,Ashanti,Oforikrom,Building Materials,Cement (bag),41,503.83,20657.03,Abena Owusu,Q4,Wholesale
+TXN-00191,2023-09-14,Eastern,New Juaben North,Health & Beauty,Hand Sanitiser (carton),14,69.84,977.76,Kweku Frimpong,Q3,Wholesale
+TXN-00192,2023-12-02,Greater Accra,Accra Metro,Health & Beauty,Diapers (carton),7,275.93,1931.51,Adwoa Osei,Q4,In-Store
+TXN-00193,2023-01-03,Central,Mfantsiman,Clothing & Textiles,Batakari,7,374.96,2624.72,Akosua Darko,Q1,Wholesale
+TXN-00194,2023-05-27,Eastern,New Juaben North,Agriculture,Yam (bag),5,139.65,698.25,Ama Mensah,Q2,Wholesale
+TXN-00195,2023-01-26,Greater Accra,Tema Metro,Clothing & Textiles,Batakari,9,129.11,1161.99,Ibrahim Alhassan,Q1,Online
+TXN-00196,2023-03-17,Ashanti,Oforikrom,Electronics,Power Bank,8,2446.57,19572.56,Ibrahim Alhassan,Q1,Wholesale
+TXN-00197,2023-10-20,Eastern,Birim Central,Food & Beverages,Biscuits (carton),15,136.15,2042.25,Patience Dankwa,Q4,Online
+TXN-00198,2023-05-01,Central,Cape Coast Metro,Electronics,Laptop,7,620.07,4340.49,Fatima Mahama,Q2,In-Store
+TXN-00199,2023-06-27,Eastern,Birim Central,Building Materials,Roofing Sheets,28,215.61,6037.08,Adwoa Osei,Q2,In-Store
+TXN-00200,2023-11-22,Greater Accra,Ashaiman,Building Materials,PVC Pipes (bundle),34,970.14,32984.76,Ibrahim Alhassan,Q4,In-Store
+TXN-00201,2023-10-19,Greater Accra,Ashaiman,Clothing & Textiles,Kente Cloth,2,589.45,1178.9,Akosua Darko,Q4,In-Store
+TXN-00202,2023-10-24,Volta,Hohoe,Building Materials,Tiles (box),40,1144.05,45762.0,Kofi Asante,Q4,Online
+TXN-00203,2023-06-18,Ashanti,Kumasi Metro,Clothing & Textiles,Ladies Dress,10,219.73,2197.3,Ibrahim Alhassan,Q2,Online
+TXN-00204,2023-10-31,Ashanti,Kwabre East,Agriculture,Fertiliser (50kg),15,193.01,2895.15,Ama Mensah,Q4,In-Store
+TXN-00205,2023-12-24,Greater Accra,Tema Metro,Building Materials,Iron Rods (bundle),3,351.1,1053.3,Kojo Sarpong,Q4,In-Store
+TXN-00206,2023-08-01,Central,Mfantsiman,Agriculture,Pesticide (5L),2,104.53,209.06,Emmanuel Antwi,Q3,In-Store
+TXN-00207,2023-08-21,Western,Sekondi-Takoradi Metro,Food & Beverages,Bottled Water (crate),28,276.77,7749.56,Kojo Sarpong,Q3,Online
+TXN-00208,2023-01-06,Central,Mfantsiman,Building Materials,Roofing Sheets,35,431.88,15115.8,Emmanuel Antwi,Q1,Online
+TXN-00209,2023-04-22,Eastern,Birim Central,Food & Beverages,Milo (tin),10,80.85,808.5,Kweku Frimpong,Q2,In-Store
+TXN-00210,2023-05-18,Greater Accra,Ashaiman,Food & Beverages,Packaged Rice (25kg),5,120.98,604.9,Adwoa Osei,Q2,In-Store
+TXN-00211,2023-09-13,Western,Ahanta West,Building Materials,Cement (bag),22,614.04,13508.88,Abena Owusu,Q3,In-Store
+TXN-00212,2023-04-14,Western,Sekondi-Takoradi Metro,Health & Beauty,Shampoo (carton),6,262.84,1577.04,Gifty Gyasi,Q2,Online
+TXN-00213,2023-09-03,Western,Tarkwa-Nsuaem,Agriculture,Pesticide (5L),4,155.34,621.36,Akua Agyei,Q3,Online
+TXN-00214,2023-12-26,Eastern,New Juaben North,Clothing & Textiles,Men's Suit,1,207.91,207.91,Fatima Mahama,Q4,Online
+TXN-00215,2023-09-13,Ashanti,Kumasi Metro,Building Materials,PVC Pipes (bundle),26,880.58,22895.08,Kwame Boateng,Q3,In-Store
+TXN-00216,2023-04-05,Central,Cape Coast Metro,Health & Beauty,Soap (carton),7,174.41,1220.87,Kofi Asante,Q2,Online
+TXN-00217,2023-11-29,Western,Sekondi-Takoradi Metro,Building Materials,Roofing Sheets,49,831.77,40756.73,Emmanuel Antwi,Q4,Wholesale
+TXN-00218,2023-03-26,Greater Accra,Accra Metro,Food & Beverages,Bottled Water (crate),30,30.64,919.2,Kwame Boateng,Q1,Wholesale
+TXN-00219,2023-01-09,Central,Effutu,Health & Beauty,Sunscreen (bulk),13,284.22,3694.86,Patience Dankwa,Q1,Online
+TXN-00220,2023-11-29,Eastern,Birim Central,Agriculture,Yam (bag),4,270.81,1083.24,Ama Mensah,Q4,Online
+TXN-00221,2023-02-20,Greater Accra,Accra Metro,Health & Beauty,Hand Sanitiser (carton),5,96.46,482.3,Kweku Frimpong,Q1,Wholesale
+TXN-00222,2023-07-13,Eastern,Birim Central,Food & Beverages,Cooking Oil (5L),10,186.09,1860.9,Ama Mensah,Q3,Online
+TXN-00223,2023-03-21,Ashanti,Kwabre East,Agriculture,Pesticide (5L),8,141.34,1130.72,Gifty Gyasi,Q1,Online
+TXN-00224,2023-04-08,Eastern,Fanteakwa,Food & Beverages,Packaged Rice (25kg),29,192.93,5594.97,Kweku Frimpong,Q2,Online
+TXN-00225,2023-10-11,Eastern,Fanteakwa,Clothing & Textiles,Ankara Fabric (6yds),7,636.81,4457.67,Ama Mensah,Q4,Online
+TXN-00226,2023-02-08,Eastern,Birim Central,Health & Beauty,Diapers (carton),9,109.97,989.73,Kojo Sarpong,Q1,In-Store
+TXN-00227,2023-01-08,Eastern,Fanteakwa,Clothing & Textiles,Kente Cloth,12,457.43,5489.16,Kweku Frimpong,Q1,In-Store
+TXN-00228,2023-07-19,Ashanti,Kwabre East,Clothing & Textiles,Kente Cloth,11,576.04,6336.44,Ibrahim Alhassan,Q3,In-Store
+TXN-00229,2023-06-06,Volta,Ho Municipal,Agriculture,Maize Seeds (5kg),17,342.89,5829.13,Kweku Frimpong,Q2,Online
+TXN-00230,2023-02-24,Volta,Hohoe,Clothing & Textiles,Ankara Fabric (6yds),7,230.3,1612.1,Abena Owusu,Q1,In-Store
+TXN-00231,2023-05-19,Western,Sekondi-Takoradi Metro,Agriculture,Maize Seeds (5kg),12,89.03,1068.36,Kweku Frimpong,Q2,Online
+TXN-00232,2023-08-12,Western,Ahanta West,Clothing & Textiles,Batakari,5,453.93,2269.65,Abena Owusu,Q3,Online
+TXN-00233,2023-09-07,Greater Accra,Ashaiman,Building Materials,Iron Rods (bundle),42,72.82,3058.44,Fatima Mahama,Q3,In-Store
+TXN-00234,2023-02-14,Greater Accra,Tema Metro,Electronics,Laptop,7,2000.07,14000.49,Ama Mensah,Q1,In-Store
+TXN-00235,2023-09-24,Western,Sekondi-Takoradi Metro,Agriculture,Yam (bag),15,352.28,5284.2,Fatima Mahama,Q3,In-Store
+TXN-00236,2023-12-02,Western,Tarkwa-Nsuaem,Health & Beauty,Shampoo (carton),2,94.51,189.02,Abena Owusu,Q4,In-Store
+TXN-00237,2023-02-21,Eastern,Birim Central,Food & Beverages,Bottled Water (crate),25,236.26,5906.5,Kofi Asante,Q1,Wholesale
+TXN-00238,2023-10-14,Eastern,Fanteakwa,Building Materials,Roofing Sheets,5,126.83,634.15,Akosua Darko,Q4,In-Store
+TXN-00239,2023-02-02,Ashanti,Kumasi Metro,Clothing & Textiles,Men's Suit,12,66.72,800.64,Kojo Sarpong,Q1,In-Store
+TXN-00240,2023-07-03,Central,Cape Coast Metro,Food & Beverages,Tomato Paste (carton),5,276.83,1384.15,Gifty Gyasi,Q3,In-Store
+TXN-00241,2023-10-03,Western,Sekondi-Takoradi Metro,Health & Beauty,Diapers (carton),5,124.52,622.6,Akosua Darko,Q4,Wholesale
+TXN-00242,2023-05-05,Ashanti,Oforikrom,Agriculture,Fertiliser (50kg),1,190.57,190.57,Kojo Sarpong,Q2,In-Store
+TXN-00243,2023-06-13,Ashanti,Ejisu,Building Materials,Cement (bag),22,151.75,3338.5,Gifty Gyasi,Q2,Online
+TXN-00244,2023-12-10,Eastern,Birim Central,Food & Beverages,Cooking Oil (5L),15,90.82,1362.3,Fatima Mahama,Q4,In-Store
+TXN-00245,2023-09-11,Eastern,Birim Central,Agriculture,Fertiliser (50kg),5,343.12,1715.6,Patience Dankwa,Q3,In-Store
+TXN-00246,2023-06-16,Central,Mfantsiman,Electronics,Tablet,8,542.55,4340.4,Adwoa Osei,Q2,In-Store
+TXN-00247,2023-11-05,Central,Mfantsiman,Agriculture,Yam (bag),9,342.95,3086.55,Yaw Appiah,Q4,In-Store
+TXN-00248,2023-12-08,Eastern,New Juaben North,Food & Beverages,Bottled Water (crate),30,109.83,3294.9,Ama Mensah,Q4,In-Store
+TXN-00249,2023-06-15,Greater Accra,Accra Metro,Electronics,Wireless Earbuds,1,2601.71,2601.71,Yaw Appiah,Q2,In-Store
+TXN-00250,2023-07-12,Eastern,Birim Central,Food & Beverages,Tomato Paste (carton),21,78.05,1639.05,Adwoa Osei,Q3,Wholesale
+TXN-00251,2023-01-21,Western,Tarkwa-Nsuaem,Food & Beverages,Milo (tin),7,253.11,1771.77,Kwame Boateng,Q1,In-Store
+TXN-00252,2023-08-16,Greater Accra,Tema Metro,Health & Beauty,Multivitamins,3,242.34,727.02,Akua Agyei,Q3,In-Store
+TXN-00253,2023-02-12,Western,Sekondi-Takoradi Metro,Health & Beauty,Hand Sanitiser (carton),9,164.48,1480.32,Akua Agyei,Q1,Online
+TXN-00254,2023-09-17,Western,Tarkwa-Nsuaem,Electronics,Smart TV,8,1230.91,9847.28,Kweku Frimpong,Q3,In-Store
+TXN-00255,2023-06-26,Greater Accra,Ga West,Electronics,Smart TV,3,2109.03,6327.09,Kofi Asante,Q2,Wholesale
+TXN-00256,2023-04-03,Volta,Ho Municipal,Electronics,Wireless Earbuds,7,2229.37,15605.59,Emmanuel Antwi,Q2,In-Store
+TXN-00257,2023-04-18,Eastern,New Juaben North,Clothing & Textiles,Men's Suit,11,72.9,801.9,Abena Owusu,Q2,Online
+TXN-00258,2023-11-13,Volta,Ho Municipal,Agriculture,Pesticide (5L),2,126.75,253.5,Patience Dankwa,Q4,In-Store
+TXN-00259,2023-01-26,Western,Tarkwa-Nsuaem,Clothing & Textiles,School Uniform Set,2,352.66,705.32,Kojo Sarpong,Q1,In-Store
+TXN-00260,2023-12-25,Volta,Ho Municipal,Building Materials,Tiles (box),1,1110.46,1110.46,Gifty Gyasi,Q4,Online
+TXN-00261,2023-07-31,Eastern,Birim Central,Health & Beauty,Diapers (carton),9,119.06,1071.54,Patience Dankwa,Q3,In-Store
+TXN-00262,2023-06-30,Ashanti,Kwabre East,Clothing & Textiles,Ankara Fabric (6yds),10,98.87,988.7,Adwoa Osei,Q2,Online
+TXN-00263,2023-04-21,Volta,Keta,Building Materials,Paint (20L),8,1151.85,9214.8,Fatima Mahama,Q2,Wholesale
+TXN-00264,2023-11-20,Volta,Hohoe,Clothing & Textiles,Kente Cloth,8,327.64,2621.12,Akosua Darko,Q4,Online
+TXN-00265,2023-01-22,Eastern,New Juaben North,Clothing & Textiles,Ladies Dress,6,591.86,3551.16,Akua Agyei,Q1,In-Store
+TXN-00266,2023-01-23,Ashanti,Oforikrom,Agriculture,Irrigation Hose,9,76.56,689.04,Kojo Sarpong,Q1,In-Store
+TXN-00267,2023-05-10,Greater Accra,Ga West,Health & Beauty,Hand Sanitiser (carton),13,247.35,3215.55,Kojo Sarpong,Q2,Online
+TXN-00268,2023-05-19,Western,Sekondi-Takoradi Metro,Electronics,Tablet,6,611.76,3670.56,Kojo Sarpong,Q2,Online
+TXN-00269,2023-08-05,Volta,Ho Municipal,Building Materials,Cement (bag),12,1067.05,12804.6,Kwame Boateng,Q3,Online
+TXN-00270,2023-06-06,Greater Accra,Ashaiman,Food & Beverages,Cooking Oil (5L),6,108.26,649.56,Kwame Boateng,Q2,Online
+TXN-00271,2023-07-05,Eastern,New Juaben North,Clothing & Textiles,Ankara Fabric (6yds),12,560.06,6720.72,Emmanuel Antwi,Q3,Online
+TXN-00272,2023-08-06,Central,Cape Coast Metro,Agriculture,Yam (bag),12,158.4,1900.8,Kofi Asante,Q3,Online
+TXN-00273,2023-06-14,Ashanti,Ejisu,Agriculture,Maize Seeds (5kg),18,189.16,3404.88,Abena Owusu,Q2,Online
+TXN-00274,2023-08-07,Western,Tarkwa-Nsuaem,Clothing & Textiles,Ankara Fabric (6yds),4,369.93,1479.72,Kojo Sarpong,Q3,In-Store
+TXN-00275,2023-06-28,Central,Effutu,Health & Beauty,Hand Sanitiser (carton),11,23.94,263.34,Ibrahim Alhassan,Q2,In-Store
+TXN-00276,2023-08-16,Central,Effutu,Clothing & Textiles,Batakari,2,443.25,886.5,Yaw Appiah,Q3,Wholesale
+TXN-00277,2023-07-20,Central,Cape Coast Metro,Building Materials,PVC Pipes (bundle),15,581.69,8725.35,Adwoa Osei,Q3,Wholesale
+TXN-00278,2023-05-29,Western,Ahanta West,Electronics,Wireless Earbuds,1,2738.85,2738.85,Kwame Boateng,Q2,In-Store
+TXN-00279,2023-11-29,Central,Cape Coast Metro,Building Materials,Iron Rods (bundle),37,753.01,27861.37,Abena Owusu,Q4,Online
+TXN-00280,2023-11-19,Central,Cape Coast Metro,Clothing & Textiles,School Uniform Set,2,587.05,1174.1,Akua Agyei,Q4,Online
+TXN-00281,2023-05-20,Volta,Ho Municipal,Health & Beauty,Soap (carton),6,210.85,1265.1,Akosua Darko,Q2,In-Store
+TXN-00282,2023-02-25,Ashanti,Kwabre East,Health & Beauty,Shampoo (carton),13,196.46,2553.98,Fatima Mahama,Q1,In-Store
+TXN-00283,2023-08-22,Central,Cape Coast Metro,Clothing & Textiles,Ankara Fabric (6yds),3,335.89,1007.67,Ibrahim Alhassan,Q3,Online
+TXN-00284,2023-11-07,Central,Mfantsiman,Food & Beverages,Cooking Oil (5L),3,237.16,711.48,Kwame Boateng,Q4,Wholesale
+TXN-00285,2023-01-19,Ashanti,Kwabre East,Clothing & Textiles,Men's Suit,3,335.11,1005.33,Kofi Asante,Q1,Wholesale
+TXN-00286,2023-02-12,Volta,Keta,Clothing & Textiles,School Uniform Set,3,598.75,1796.25,Kweku Frimpong,Q1,Wholesale
+TXN-00287,2023-03-18,Volta,Ho Municipal,Agriculture,Farm Tools Set,15,248.74,3731.1,Adwoa Osei,Q1,In-Store
+TXN-00288,2023-02-25,Western,Tarkwa-Nsuaem,Food & Beverages,Cooking Oil (5L),30,217.15,6514.5,Emmanuel Antwi,Q1,In-Store
+TXN-00289,2023-06-21,Ashanti,Ejisu,Clothing & Textiles,Men's Suit,12,337.98,4055.76,Akosua Darko,Q2,Wholesale
+TXN-00290,2023-10-21,Eastern,Birim Central,Electronics,Smart TV,1,2416.2,2416.2,Fatima Mahama,Q4,Online
+TXN-00291,2023-03-30,Volta,Keta,Building Materials,Tiles (box),13,585.58,7612.54,Adwoa Osei,Q1,In-Store
+TXN-00292,2023-08-18,Volta,Hohoe,Agriculture,Fertiliser (50kg),12,279.33,3351.96,Gifty Gyasi,Q3,In-Store
+TXN-00293,2023-07-10,Volta,Hohoe,Agriculture,Yam (bag),20,338.99,6779.8,Abena Owusu,Q3,In-Store
+TXN-00294,2023-12-19,Greater Accra,Accra Metro,Agriculture,Pesticide (5L),9,195.53,1759.77,Fatima Mahama,Q4,Wholesale
+TXN-00295,2023-05-04,Volta,Keta,Agriculture,Fertiliser (50kg),8,370.61,2964.88,Kofi Asante,Q2,Wholesale
+TXN-00296,2023-06-24,Eastern,Birim Central,Electronics,Wireless Earbuds,6,2449.64,14697.84,Patience Dankwa,Q2,Wholesale
+TXN-00297,2023-05-21,Eastern,Fanteakwa,Food & Beverages,Cooking Oil (5L),27,184.47,4980.69,Kojo Sarpong,Q2,Wholesale
+TXN-00298,2023-10-13,Ashanti,Kumasi Metro,Clothing & Textiles,Batakari,2,410.92,821.84,Adwoa Osei,Q4,Wholesale
+TXN-00299,2023-09-02,Central,Cape Coast Metro,Agriculture,Farm Tools Set,3,120.08,360.24,Gifty Gyasi,Q3,In-Store
+TXN-00300,2023-11-27,Eastern,Fanteakwa,Building Materials,PVC Pipes (bundle),24,214.79,5154.96,Patience Dankwa,Q4,Wholesale
+TXN-00301,2023-01-12,Volta,Ho Municipal,Agriculture,Farm Tools Set,4,289.03,1156.12,Ibrahim Alhassan,Q1,Online
+TXN-00302,2023-03-21,Central,Effutu,Agriculture,Pesticide (5L),14,75.38,1055.32,Kwame Boateng,Q1,In-Store
+TXN-00303,2023-12-31,Central,Effutu,Health & Beauty,Diapers (carton),10,170.95,1709.5,Gifty Gyasi,Q4,In-Store
+TXN-00304,2023-01-23,Central,Mfantsiman,Building Materials,Tiles (box),17,1045.77,17778.09,Patience Dankwa,Q1,In-Store
+TXN-00305,2023-06-13,Eastern,Birim Central,Electronics,Wireless Earbuds,7,1425.52,9978.64,Kojo Sarpong,Q2,In-Store
+TXN-00306,2023-12-06,Ashanti,Kumasi Metro,Building Materials,PVC Pipes (bundle),42,1182.37,49659.54,Kojo Sarpong,Q4,Online
+TXN-00307,2023-02-07,Eastern,Birim Central,Food & Beverages,Bottled Water (crate),15,244.64,3669.6,Kojo Sarpong,Q1,Online
+TXN-00308,2023-06-22,Ashanti,Kwabre East,Electronics,Smartphone,8,890.92,7127.36,Kojo Sarpong,Q2,In-Store
+TXN-00309,2023-01-08,Western,Ahanta West,Clothing & Textiles,Men's Suit,11,333.46,3668.06,Kofi Asante,Q1,In-Store
+TXN-00310,2023-11-25,Western,Sekondi-Takoradi Metro,Health & Beauty,Hand Sanitiser (carton),5,246.3,1231.5,Ama Mensah,Q4,In-Store
+TXN-00311,2023-11-13,Ashanti,Kwabre East,Food & Beverages,Biscuits (carton),15,76.34,1145.1,Kojo Sarpong,Q4,In-Store
+TXN-00312,2023-10-07,Western,Tarkwa-Nsuaem,Food & Beverages,Tomato Paste (carton),22,77.14,1697.08,Ibrahim Alhassan,Q4,In-Store
+TXN-00313,2023-04-06,Central,Mfantsiman,Clothing & Textiles,Ladies Dress,8,142.37,1138.96,Adwoa Osei,Q2,Online
+TXN-00314,2023-08-15,Eastern,New Juaben North,Electronics,Laptop,8,713.28,5706.24,Kweku Frimpong,Q3,Online
+TXN-00315,2023-01-10,Central,Cape Coast Metro,Food & Beverages,Milo (tin),25,104.72,2618.0,Akua Agyei,Q1,In-Store
+TXN-00316,2023-06-26,Volta,Keta,Clothing & Textiles,School Uniform Set,11,388.99,4278.89,Abena Owusu,Q2,In-Store
+TXN-00317,2023-08-03,Eastern,New Juaben North,Electronics,Smart TV,4,2179.27,8717.08,Gifty Gyasi,Q3,In-Store
+TXN-00318,2023-12-13,Western,Sekondi-Takoradi Metro,Building Materials,Cement (bag),36,945.18,34026.48,Akua Agyei,Q4,In-Store
+TXN-00319,2023-11-02,Western,Tarkwa-Nsuaem,Food & Beverages,Biscuits (carton),17,78.91,1341.47,Kweku Frimpong,Q4,In-Store
+TXN-00320,2023-08-29,Eastern,New Juaben North,Agriculture,Yam (bag),11,173.37,1907.07,Emmanuel Antwi,Q3,Online
+TXN-00321,2023-02-12,Central,Cape Coast Metro,Electronics,Power Bank,6,2412.67,14476.02,Fatima Mahama,Q1,In-Store
+TXN-00322,2023-09-29,Ashanti,Kumasi Metro,Clothing & Textiles,Ankara Fabric (6yds),1,236.47,236.47,Ibrahim Alhassan,Q3,In-Store
+TXN-00323,2023-12-24,Ashanti,Kwabre East,Food & Beverages,Biscuits (carton),11,189.9,2088.9,Patience Dankwa,Q4,Online
+TXN-00324,2023-03-27,Greater Accra,Tema Metro,Clothing & Textiles,Men's Suit,4,451.68,1806.72,Yaw Appiah,Q1,Wholesale
+TXN-00325,2023-10-06,Western,Tarkwa-Nsuaem,Electronics,Wireless Earbuds,2,1700.84,3401.68,Akua Agyei,Q4,Online
+TXN-00326,2023-11-14,Central,Mfantsiman,Clothing & Textiles,Kente Cloth,4,61.95,247.8,Emmanuel Antwi,Q4,Wholesale
+TXN-00327,2023-10-09,Volta,Keta,Food & Beverages,Milo (tin),28,224.39,6282.92,Kofi Asante,Q4,In-Store
+TXN-00328,2023-05-02,Volta,Ho Municipal,Health & Beauty,Diapers (carton),11,281.99,3101.89,Adwoa Osei,Q2,In-Store
+TXN-00329,2023-10-19,Central,Cape Coast Metro,Agriculture,Irrigation Hose,7,160.92,1126.44,Ibrahim Alhassan,Q4,In-Store
+TXN-00330,2023-02-07,Ashanti,Kwabre East,Building Materials,Paint (20L),23,138.15,3177.45,Kofi Asante,Q1,Online
+TXN-00331,2023-06-11,Central,Mfantsiman,Food & Beverages,Tomato Paste (carton),16,90.12,1441.92,Abena Owusu,Q2,In-Store
+TXN-00332,2023-03-26,Central,Cape Coast Metro,Health & Beauty,Multivitamins,1,40.09,40.09,Fatima Mahama,Q1,Online
+TXN-00333,2023-07-29,Greater Accra,Accra Metro,Building Materials,Iron Rods (bundle),26,473.81,12319.06,Fatima Mahama,Q3,In-Store
+TXN-00334,2023-04-21,Central,Mfantsiman,Electronics,Tablet,1,386.97,386.97,Ibrahim Alhassan,Q2,Online
+TXN-00335,2023-09-26,Greater Accra,Ga West,Food & Beverages,Biscuits (carton),11,88.54,973.94,Akua Agyei,Q3,In-Store
+TXN-00336,2023-10-30,Volta,Keta,Health & Beauty,Multivitamins,3,36.0,108.0,Akua Agyei,Q4,In-Store
+TXN-00337,2023-02-08,Eastern,Fanteakwa,Health & Beauty,Diapers (carton),6,42.7,256.2,Abena Owusu,Q1,Online
+TXN-00338,2023-08-01,Central,Cape Coast Metro,Clothing & Textiles,School Uniform Set,2,467.57,935.14,Gifty Gyasi,Q3,In-Store
+TXN-00339,2023-06-28,Ashanti,Oforikrom,Clothing & Textiles,Men's Suit,11,526.04,5786.44,Ibrahim Alhassan,Q2,In-Store
+TXN-00340,2023-01-31,Central,Mfantsiman,Health & Beauty,Diapers (carton),3,117.61,352.83,Kojo Sarpong,Q1,Wholesale
+TXN-00341,2023-05-03,Ashanti,Kumasi Metro,Electronics,Power Bank,2,204.44,408.88,Adwoa Osei,Q2,Wholesale
+TXN-00342,2023-03-24,Ashanti,Oforikrom,Building Materials,Iron Rods (bundle),23,1089.24,25052.52,Ibrahim Alhassan,Q1,Online
+TXN-00343,2023-09-24,Central,Effutu,Building Materials,PVC Pipes (bundle),39,138.55,5403.45,Kofi Asante,Q3,In-Store
+TXN-00344,2023-01-10,Central,Effutu,Agriculture,Farm Tools Set,10,222.5,2225.0,Kojo Sarpong,Q1,In-Store
+TXN-00345,2023-03-08,Eastern,New Juaben North,Agriculture,Maize Seeds (5kg),3,95.33,285.99,Yaw Appiah,Q1,In-Store
+TXN-00346,2023-09-06,Eastern,Birim Central,Health & Beauty,Sunscreen (bulk),3,47.52,142.56,Adwoa Osei,Q3,Wholesale
+TXN-00347,2023-07-07,Eastern,Birim Central,Clothing & Textiles,Ankara Fabric (6yds),7,301.61,2111.27,Akosua Darko,Q3,Online
+TXN-00348,2023-09-08,Central,Cape Coast Metro,Electronics,Wireless Earbuds,2,2531.66,5063.32,Kojo Sarpong,Q3,In-Store
+TXN-00349,2023-12-29,Eastern,New Juaben North,Food & Beverages,Biscuits (carton),24,47.33,1135.92,Ama Mensah,Q4,In-Store
+TXN-00350,2023-08-04,Western,Ahanta West,Health & Beauty,Diapers (carton),12,229.42,2753.04,Kojo Sarpong,Q3,Online
+TXN-00351,2023-06-02,Eastern,Fanteakwa,Agriculture,Yam (bag),13,138.67,1802.71,Fatima Mahama,Q2,Wholesale
+TXN-00352,2023-12-12,Central,Effutu,Electronics,Smart TV,2,1654.17,3308.34,Gifty Gyasi,Q4,Online
+TXN-00353,2023-01-12,Greater Accra,Ashaiman,Electronics,Tablet,2,2503.18,5006.36,Adwoa Osei,Q1,In-Store
+TXN-00354,2023-10-22,Central,Effutu,Health & Beauty,Sunscreen (bulk),11,158.55,1744.05,Kwame Boateng,Q4,In-Store
+TXN-00355,2023-03-01,Volta,Ho Municipal,Agriculture,Yam (bag),14,348.98,4885.72,Akua Agyei,Q1,Online
+TXN-00356,2023-03-15,Western,Tarkwa-Nsuaem,Food & Beverages,Cooking Oil (5L),27,42.96,1159.92,Adwoa Osei,Q1,In-Store
+TXN-00357,2023-03-15,Eastern,Fanteakwa,Building Materials,Tiles (box),39,443.42,17293.38,Ama Mensah,Q1,Online
+TXN-00358,2023-03-20,Eastern,New Juaben North,Building Materials,PVC Pipes (bundle),4,898.98,3595.92,Ama Mensah,Q1,Online
+TXN-00359,2023-02-23,Greater Accra,Ashaiman,Electronics,Tablet,5,438.49,2192.45,Kweku Frimpong,Q1,In-Store
+TXN-00360,2023-07-30,Volta,Hohoe,Building Materials,Roofing Sheets,15,1040.34,15605.1,Ibrahim Alhassan,Q3,In-Store
+TXN-00361,2023-02-25,Eastern,Birim Central,Food & Beverages,Bottled Water (crate),19,85.03,1615.57,Patience Dankwa,Q1,In-Store
+TXN-00362,2023-07-02,Eastern,Fanteakwa,Health & Beauty,Multivitamins,10,288.38,2883.8,Gifty Gyasi,Q3,Online
+TXN-00363,2023-01-18,Greater Accra,Ashaiman,Agriculture,Fertiliser (50kg),11,319.7,3516.7,Yaw Appiah,Q1,In-Store
+TXN-00364,2023-05-27,Greater Accra,Accra Metro,Health & Beauty,Diapers (carton),3,113.79,341.37,Kweku Frimpong,Q2,In-Store
+TXN-00365,2023-02-23,Central,Mfantsiman,Food & Beverages,Tomato Paste (carton),9,212.06,1908.54,Ama Mensah,Q1,Online
+TXN-00366,2023-02-08,Eastern,New Juaben North,Food & Beverages,Tomato Paste (carton),29,108.98,3160.42,Kweku Frimpong,Q1,Online
+TXN-00367,2023-08-24,Ashanti,Oforikrom,Electronics,Power Bank,3,370.96,1112.88,Ibrahim Alhassan,Q3,In-Store
+TXN-00368,2023-04-11,Ashanti,Oforikrom,Food & Beverages,Tomato Paste (carton),22,159.71,3513.62,Adwoa Osei,Q2,In-Store
+TXN-00369,2023-05-12,Eastern,Fanteakwa,Food & Beverages,Cooking Oil (5L),4,172.97,691.88,Ibrahim Alhassan,Q2,Online
+TXN-00370,2023-08-24,Western,Sekondi-Takoradi Metro,Health & Beauty,Soap (carton),7,96.31,674.17,Adwoa Osei,Q3,In-Store
+TXN-00371,2023-12-11,Volta,Hohoe,Agriculture,Irrigation Hose,12,69.76,837.12,Abena Owusu,Q4,In-Store
+TXN-00372,2023-11-23,Greater Accra,Ga West,Health & Beauty,Shampoo (carton),14,147.06,2058.84,Kweku Frimpong,Q4,Online
+TXN-00373,2023-04-19,Central,Mfantsiman,Building Materials,Iron Rods (bundle),7,136.45,955.15,Emmanuel Antwi,Q2,Wholesale
+TXN-00374,2023-07-05,Ashanti,Ejisu,Electronics,Wireless Earbuds,8,279.59,2236.72,Emmanuel Antwi,Q3,In-Store
+TXN-00375,2023-08-04,Eastern,Fanteakwa,Building Materials,Iron Rods (bundle),49,693.15,33964.35,Emmanuel Antwi,Q3,Online
+TXN-00376,2023-04-15,Eastern,Fanteakwa,Building Materials,Paint (20L),34,852.7,28991.8,Yaw Appiah,Q2,In-Store
+TXN-00377,2023-12-01,Volta,Ho Municipal,Food & Beverages,Tomato Paste (carton),20,207.57,4151.4,Patience Dankwa,Q4,Online
+TXN-00378,2023-09-16,Volta,Hohoe,Agriculture,Maize Seeds (5kg),3,261.32,783.96,Kwame Boateng,Q3,Online
+TXN-00379,2023-10-30,Greater Accra,Ashaiman,Food & Beverages,Biscuits (carton),15,129.69,1945.35,Adwoa Osei,Q4,In-Store
+TXN-00380,2023-02-01,Greater Accra,Accra Metro,Clothing & Textiles,Batakari,2,379.0,758.0,Ibrahim Alhassan,Q1,In-Store
+TXN-00381,2023-09-26,Greater Accra,Accra Metro,Clothing & Textiles,School Uniform Set,10,205.69,2056.9,Yaw Appiah,Q3,Wholesale
+TXN-00382,2023-07-27,Central,Mfantsiman,Clothing & Textiles,Kente Cloth,11,309.64,3406.04,Fatima Mahama,Q3,Wholesale
+TXN-00383,2023-04-21,Western,Ahanta West,Clothing & Textiles,Batakari,5,333.46,1667.3,Akua Agyei,Q2,In-Store
+TXN-00384,2023-07-26,Volta,Keta,Electronics,Smartphone,6,1696.68,10180.08,Kwame Boateng,Q3,In-Store
+TXN-00385,2023-06-03,Central,Effutu,Health & Beauty,Sunscreen (bulk),14,199.24,2789.36,Abena Owusu,Q2,In-Store
+TXN-00386,2023-01-12,Greater Accra,Accra Metro,Electronics,Wireless Earbuds,8,2118.41,16947.28,Fatima Mahama,Q1,Wholesale
+TXN-00387,2023-12-04,Ashanti,Kwabre East,Agriculture,Farm Tools Set,19,255.18,4848.42,Kofi Asante,Q4,In-Store
+TXN-00388,2023-05-22,Volta,Hohoe,Agriculture,Yam (bag),19,213.38,4054.22,Abena Owusu,Q2,Online
+TXN-00389,2023-04-25,Greater Accra,Ga West,Building Materials,Iron Rods (bundle),6,1078.87,6473.22,Kojo Sarpong,Q2,In-Store
+TXN-00390,2023-11-21,Greater Accra,Accra Metro,Building Materials,Tiles (box),32,630.44,20174.08,Abena Owusu,Q4,Online
+TXN-00391,2023-10-18,Ashanti,Kumasi Metro,Agriculture,Pesticide (5L),3,36.46,109.38,Ibrahim Alhassan,Q4,Online
+TXN-00392,2023-03-05,Eastern,New Juaben North,Health & Beauty,Sunscreen (bulk),10,170.63,1706.3,Emmanuel Antwi,Q1,Wholesale
+TXN-00393,2023-11-26,Eastern,New Juaben North,Food & Beverages,Packaged Rice (25kg),14,222.47,3114.58,Kweku Frimpong,Q4,Online
+TXN-00394,2023-12-10,Eastern,New Juaben North,Food & Beverages,Packaged Rice (25kg),22,92.96,2045.12,Ibrahim Alhassan,Q4,In-Store
+TXN-00395,2023-12-14,Volta,Keta,Clothing & Textiles,Ladies Dress,2,292.53,585.06,Fatima Mahama,Q4,In-Store
+TXN-00396,2023-10-06,Western,Tarkwa-Nsuaem,Building Materials,Roofing Sheets,22,773.82,17024.04,Gifty Gyasi,Q4,In-Store
+TXN-00397,2023-09-23,Eastern,New Juaben North,Agriculture,Pesticide (5L),2,307.68,615.36,Gifty Gyasi,Q3,In-Store
+TXN-00398,2023-08-05,Eastern,Fanteakwa,Agriculture,Yam (bag),4,41.92,167.68,Ibrahim Alhassan,Q3,Online
+TXN-00399,2023-10-19,Western,Sekondi-Takoradi Metro,Electronics,Laptop,3,2448.57,7345.71,Kwame Boateng,Q4,In-Store
+TXN-00400,2023-10-19,Greater Accra,Ashaiman,Building Materials,Paint (20L),41,540.35,22154.35,Gifty Gyasi,Q4,In-Store
+TXN-00401,2023-06-24,Volta,Hohoe,Food & Beverages,Packaged Rice (25kg),8,166.02,1328.16,Ibrahim Alhassan,Q2,Online
+TXN-00402,2023-10-25,Eastern,Fanteakwa,Food & Beverages,Packaged Rice (25kg),25,119.14,2978.5,Gifty Gyasi,Q4,In-Store
+TXN-00403,2023-09-18,Ashanti,Oforikrom,Food & Beverages,Tomato Paste (carton),27,67.56,1824.12,Fatima Mahama,Q3,In-Store
+TXN-00404,2023-02-16,Western,Ahanta West,Clothing & Textiles,Ankara Fabric (6yds),11,240.5,2645.5,Ama Mensah,Q1,In-Store
+TXN-00405,2023-03-11,Eastern,Fanteakwa,Food & Beverages,Packaged Rice (25kg),4,222.6,890.4,Fatima Mahama,Q1,In-Store
+TXN-00406,2023-03-08,Western,Sekondi-Takoradi Metro,Food & Beverages,Biscuits (carton),28,127.16,3560.48,Emmanuel Antwi,Q1,In-Store
+TXN-00407,2023-03-27,Eastern,Fanteakwa,Food & Beverages,Cooking Oil (5L),8,147.04,1176.32,Abena Owusu,Q1,Online
+TXN-00408,2023-07-02,Central,Mfantsiman,Electronics,Power Bank,6,1372.83,8236.98,Patience Dankwa,Q3,In-Store
+TXN-00409,2023-02-07,Eastern,New Juaben North,Health & Beauty,Soap (carton),3,319.29,957.87,Ibrahim Alhassan,Q1,In-Store
+TXN-00410,2023-03-05,Eastern,New Juaben North,Agriculture,Pesticide (5L),3,99.11,297.33,Adwoa Osei,Q1,Wholesale
+TXN-00411,2023-07-12,Ashanti,Ejisu,Health & Beauty,Shampoo (carton),2,307.92,615.84,Gifty Gyasi,Q3,In-Store
+TXN-00412,2023-05-23,Ashanti,Kwabre East,Agriculture,Fertiliser (50kg),20,374.58,7491.6,Gifty Gyasi,Q2,Online
+TXN-00413,2023-09-18,Greater Accra,Accra Metro,Building Materials,Roofing Sheets,45,741.74,33378.3,Gifty Gyasi,Q3,In-Store
+TXN-00414,2023-08-23,Eastern,Fanteakwa,Electronics,Tablet,2,924.36,1848.72,Kweku Frimpong,Q3,In-Store
+TXN-00415,2023-02-09,Eastern,New Juaben North,Building Materials,Roofing Sheets,31,273.14,8467.34,Yaw Appiah,Q1,In-Store
+TXN-00416,2023-04-12,Ashanti,Kumasi Metro,Food & Beverages,Packaged Rice (25kg),6,73.82,442.92,Kwame Boateng,Q2,Online
+TXN-00417,2023-10-16,Eastern,Birim Central,Electronics,Power Bank,5,482.28,2411.4,Ama Mensah,Q4,Online
+TXN-00418,2023-07-30,Ashanti,Kwabre East,Building Materials,Paint (20L),4,552.51,2210.04,Ama Mensah,Q3,In-Store
+TXN-00419,2023-01-30,Volta,Keta,Clothing & Textiles,Ankara Fabric (6yds),4,360.74,1442.96,Yaw Appiah,Q1,Wholesale
+TXN-00420,2023-10-06,Ashanti,Oforikrom,Building Materials,PVC Pipes (bundle),49,1025.1,50229.9,Adwoa Osei,Q4,Wholesale
+TXN-00421,2023-04-16,Volta,Ho Municipal,Agriculture,Irrigation Hose,11,75.68,832.48,Akua Agyei,Q2,In-Store
+TXN-00422,2023-07-21,Eastern,Fanteakwa,Health & Beauty,Sunscreen (bulk),2,178.08,356.16,Kofi Asante,Q3,In-Store
+TXN-00423,2023-11-15,Volta,Hohoe,Electronics,Smartphone,2,449.17,898.34,Kweku Frimpong,Q4,In-Store
+TXN-00424,2023-01-05,Greater Accra,Ashaiman,Electronics,Smart TV,2,2037.06,4074.12,Fatima Mahama,Q1,Wholesale
+TXN-00425,2023-02-25,Eastern,New Juaben North,Electronics,Wireless Earbuds,7,1987.27,13910.89,Kojo Sarpong,Q1,In-Store
+TXN-00426,2023-03-23,Eastern,Birim Central,Clothing & Textiles,Ladies Dress,1,610.37,610.37,Kweku Frimpong,Q1,Wholesale
+TXN-00427,2023-12-26,Western,Tarkwa-Nsuaem,Building Materials,PVC Pipes (bundle),48,118.74,5699.52,Kojo Sarpong,Q4,In-Store
+TXN-00428,2023-07-29,Greater Accra,Tema Metro,Electronics,Smartphone,7,2639.23,18474.61,Kofi Asante,Q3,Online
+TXN-00429,2023-05-15,Volta,Keta,Health & Beauty,Soap (carton),11,178.16,1959.76,Yaw Appiah,Q2,Online
+TXN-00430,2023-12-02,Ashanti,Oforikrom,Food & Beverages,Bottled Water (crate),8,201.8,1614.4,Akosua Darko,Q4,In-Store
+TXN-00431,2023-04-10,Western,Sekondi-Takoradi Metro,Clothing & Textiles,Batakari,9,459.31,4133.79,Adwoa Osei,Q2,In-Store
+TXN-00432,2023-10-19,Volta,Ho Municipal,Health & Beauty,Hand Sanitiser (carton),1,201.36,201.36,Emmanuel Antwi,Q4,In-Store
+TXN-00433,2023-08-08,Eastern,Fanteakwa,Building Materials,Cement (bag),1,824.03,824.03,Kweku Frimpong,Q3,Online
+TXN-00434,2023-12-02,Ashanti,Kwabre East,Food & Beverages,Packaged Rice (25kg),9,140.06,1260.54,Ama Mensah,Q4,In-Store
+TXN-00435,2023-12-09,Ashanti,Kumasi Metro,Health & Beauty,Hand Sanitiser (carton),2,131.8,263.6,Adwoa Osei,Q4,In-Store
+TXN-00436,2023-09-30,Central,Mfantsiman,Building Materials,PVC Pipes (bundle),47,583.22,27411.34,Patience Dankwa,Q3,Online
+TXN-00437,2023-08-22,Ashanti,Ejisu,Food & Beverages,Cooking Oil (5L),9,105.06,945.54,Akosua Darko,Q3,In-Store
+TXN-00438,2023-06-12,Greater Accra,Accra Metro,Electronics,Smart TV,8,2757.18,22057.44,Ibrahim Alhassan,Q2,In-Store
+TXN-00439,2023-12-18,Eastern,Birim Central,Health & Beauty,Shampoo (carton),11,161.16,1772.76,Ama Mensah,Q4,Wholesale
+TXN-00440,2023-07-05,Eastern,Fanteakwa,Health & Beauty,Multivitamins,1,281.16,281.16,Akosua Darko,Q3,Wholesale
+TXN-00441,2023-11-26,Greater Accra,Ashaiman,Health & Beauty,Sunscreen (bulk),13,145.77,1895.01,Ama Mensah,Q4,In-Store
+TXN-00442,2023-09-25,Eastern,Birim Central,Agriculture,Maize Seeds (5kg),17,275.3,4680.1,Patience Dankwa,Q3,In-Store
+TXN-00443,2023-05-02,Central,Mfantsiman,Health & Beauty,Diapers (carton),15,282.97,4244.55,Adwoa Osei,Q2,Wholesale
+TXN-00444,2023-10-11,Greater Accra,Ga West,Food & Beverages,Tomato Paste (carton),3,86.57,259.71,Akosua Darko,Q4,Online
+TXN-00445,2023-06-17,Ashanti,Kumasi Metro,Clothing & Textiles,Batakari,2,411.25,822.5,Abena Owusu,Q2,In-Store
+TXN-00446,2023-09-24,Volta,Ho Municipal,Electronics,Laptop,4,1549.6,6198.4,Kweku Frimpong,Q3,In-Store
+TXN-00447,2023-04-21,Greater Accra,Tema Metro,Clothing & Textiles,School Uniform Set,6,398.28,2389.68,Akua Agyei,Q2,Online
+TXN-00448,2023-07-19,Greater Accra,Accra Metro,Agriculture,Pesticide (5L),5,131.16,655.8,Akosua Darko,Q3,Online
+TXN-00449,2023-01-31,Western,Sekondi-Takoradi Metro,Building Materials,Roofing Sheets,10,809.54,8095.4,Akua Agyei,Q1,In-Store
+TXN-00450,2023-03-28,Eastern,New Juaben North,Clothing & Textiles,Men's Suit,3,383.65,1150.95,Ama Mensah,Q1,Online
+TXN-00451,2023-08-20,Ashanti,Ejisu,Health & Beauty,Sunscreen (bulk),2,98.57,197.14,Fatima Mahama,Q3,Wholesale
+TXN-00452,2023-06-13,Central,Mfantsiman,Food & Beverages,Packaged Rice (25kg),17,86.75,1474.75,Akosua Darko,Q2,Online
+TXN-00453,2023-03-16,Central,Mfantsiman,Food & Beverages,Tomato Paste (carton),19,130.17,2473.23,Kojo Sarpong,Q1,In-Store
+TXN-00454,2023-07-02,Central,Cape Coast Metro,Clothing & Textiles,Kente Cloth,12,175.16,2101.92,Akosua Darko,Q3,In-Store
+TXN-00455,2023-01-24,Eastern,New Juaben North,Food & Beverages,Biscuits (carton),27,141.76,3827.52,Yaw Appiah,Q1,Online
+TXN-00456,2023-10-28,Eastern,New Juaben North,Clothing & Textiles,Men's Suit,6,157.5,945.0,Emmanuel Antwi,Q4,In-Store
+TXN-00457,2023-06-06,Volta,Keta,Agriculture,Maize Seeds (5kg),13,116.32,1512.16,Kojo Sarpong,Q2,In-Store
+TXN-00458,2023-06-02,Eastern,Birim Central,Electronics,Wireless Earbuds,6,2482.02,14892.12,Kweku Frimpong,Q2,Online
+TXN-00459,2023-04-21,Western,Sekondi-Takoradi Metro,Building Materials,Roofing Sheets,50,382.82,19141.0,Akosua Darko,Q2,In-Store
+TXN-00460,2023-12-23,Western,Tarkwa-Nsuaem,Health & Beauty,Multivitamins,4,294.05,1176.2,Abena Owusu,Q4,Online
+TXN-00461,2023-03-07,Greater Accra,Ga West,Agriculture,Irrigation Hose,18,158.12,2846.16,Emmanuel Antwi,Q1,Wholesale
+TXN-00462,2023-08-26,Western,Sekondi-Takoradi Metro,Food & Beverages,Milo (tin),6,26.67,160.02,Kwame Boateng,Q3,Online
+TXN-00463,2023-01-25,Volta,Hohoe,Food & Beverages,Cooking Oil (5L),24,246.06,5905.44,Akosua Darko,Q1,In-Store
+TXN-00464,2023-01-26,Volta,Ho Municipal,Agriculture,Maize Seeds (5kg),16,252.96,4047.36,Kofi Asante,Q1,Wholesale
+TXN-00465,2023-02-08,Western,Ahanta West,Agriculture,Irrigation Hose,3,84.57,253.71,Gifty Gyasi,Q1,Online
+TXN-00466,2023-01-28,Central,Effutu,Clothing & Textiles,Ladies Dress,6,515.33,3091.98,Adwoa Osei,Q1,Online
+TXN-00467,2023-07-27,Western,Ahanta West,Food & Beverages,Milo (tin),4,202.5,810.0,Emmanuel Antwi,Q3,Online
+TXN-00468,2023-02-06,Volta,Ho Municipal,Electronics,Tablet,7,2347.68,16433.76,Kofi Asante,Q1,In-Store
+TXN-00469,2023-10-05,Greater Accra,Ashaiman,Food & Beverages,Bottled Water (crate),25,69.32,1733.0,Emmanuel Antwi,Q4,Online
+TXN-00470,2023-03-14,Greater Accra,Tema Metro,Building Materials,Cement (bag),45,1044.77,47014.65,Adwoa Osei,Q1,Wholesale
+TXN-00471,2023-08-18,Eastern,Birim Central,Clothing & Textiles,Batakari,6,563.99,3383.94,Ibrahim Alhassan,Q3,Wholesale
+TXN-00472,2023-10-16,Greater Accra,Tema Metro,Clothing & Textiles,Ladies Dress,5,93.86,469.3,Fatima Mahama,Q4,Wholesale
+TXN-00473,2023-08-18,Ashanti,Ejisu,Agriculture,Yam (bag),9,215.87,1942.83,Kweku Frimpong,Q3,Online
+TXN-00474,2023-02-18,Ashanti,Kwabre East,Food & Beverages,Packaged Rice (25kg),10,117.9,1179.0,Kwame Boateng,Q1,Wholesale
+TXN-00475,2023-03-29,Volta,Keta,Agriculture,Irrigation Hose,7,73.23,512.61,Kojo Sarpong,Q1,Online
+TXN-00476,2023-06-15,Western,Ahanta West,Health & Beauty,Diapers (carton),1,100.49,100.49,Akua Agyei,Q2,Online
+TXN-00477,2023-11-02,Volta,Keta,Electronics,Power Bank,4,1130.25,4521.0,Kojo Sarpong,Q4,Online
+TXN-00478,2023-01-02,Ashanti,Ejisu,Agriculture,Maize Seeds (5kg),4,285.9,1143.6,Gifty Gyasi,Q1,Online
+TXN-00479,2023-03-15,Ashanti,Ejisu,Building Materials,Iron Rods (bundle),34,1182.79,40214.86,Kofi Asante,Q1,Online
+TXN-00480,2023-03-24,Western,Sekondi-Takoradi Metro,Agriculture,Pesticide (5L),9,102.3,920.7,Kweku Frimpong,Q1,In-Store
+TXN-00481,2023-12-21,Central,Mfantsiman,Food & Beverages,Bottled Water (crate),27,102.62,2770.74,Kofi Asante,Q4,In-Store
+TXN-00482,2023-09-27,Western,Ahanta West,Clothing & Textiles,Men's Suit,7,389.33,2725.31,Fatima Mahama,Q3,Wholesale
+TXN-00483,2023-05-10,Greater Accra,Tema Metro,Building Materials,Cement (bag),36,406.99,14651.64,Kofi Asante,Q2,In-Store
+TXN-00484,2023-01-14,Ashanti,Ejisu,Health & Beauty,Shampoo (carton),12,94.99,1139.88,Yaw Appiah,Q1,Online
+TXN-00485,2023-01-27,Central,Cape Coast Metro,Building Materials,Iron Rods (bundle),33,116.95,3859.35,Kofi Asante,Q1,In-Store
+TXN-00486,2023-07-18,Western,Tarkwa-Nsuaem,Clothing & Textiles,Ankara Fabric (6yds),2,324.14,648.28,Kofi Asante,Q3,In-Store
+TXN-00487,2023-04-21,Western,Ahanta West,Electronics,Power Bank,1,793.54,793.54,Kojo Sarpong,Q2,Online
+TXN-00488,2023-12-17,Western,Sekondi-Takoradi Metro,Health & Beauty,Diapers (carton),7,315.91,2211.37,Patience Dankwa,Q4,In-Store
+TXN-00489,2023-12-15,Western,Tarkwa-Nsuaem,Clothing & Textiles,Ladies Dress,5,425.99,2129.95,Ibrahim Alhassan,Q4,Online
+TXN-00490,2023-10-12,Central,Mfantsiman,Agriculture,Farm Tools Set,12,304.09,3649.08,Yaw Appiah,Q4,In-Store
+TXN-00491,2023-07-13,Volta,Keta,Building Materials,Paint (20L),10,414.95,4149.5,Adwoa Osei,Q3,Online
+TXN-00492,2023-07-18,Volta,Keta,Building Materials,Tiles (box),44,233.17,10259.48,Akua Agyei,Q3,In-Store
+TXN-00493,2023-08-27,Greater Accra,Ashaiman,Food & Beverages,Milo (tin),12,275.84,3310.08,Akosua Darko,Q3,Wholesale
+TXN-00494,2023-12-25,Eastern,Fanteakwa,Building Materials,Cement (bag),50,418.6,20930.0,Emmanuel Antwi,Q4,Online
+TXN-00495,2023-11-23,Central,Cape Coast Metro,Clothing & Textiles,Batakari,11,424.15,4665.65,Kojo Sarpong,Q4,Online
+TXN-00496,2023-07-26,Greater Accra,Tema Metro,Agriculture,Yam (bag),19,298.13,5664.47,Abena Owusu,Q3,In-Store
+TXN-00497,2023-10-11,Eastern,Birim Central,Health & Beauty,Sunscreen (bulk),7,50.12,350.84,Ibrahim Alhassan,Q4,Online
+TXN-00498,2023-08-21,Central,Effutu,Electronics,Laptop,1,580.86,580.86,Fatima Mahama,Q3,In-Store
+TXN-00499,2023-04-10,Western,Tarkwa-Nsuaem,Clothing & Textiles,Kente Cloth,3,205.89,617.67,Ibrahim Alhassan,Q2,Online
+TXN-00500,2023-11-22,Ashanti,Ejisu,Health & Beauty,Shampoo (carton),14,232.17,3250.38,Ama Mensah,Q4,Online
+TXN-00501,2023-11-15,Ashanti,Kumasi Metro,Electronics,Wireless Earbuds,7,234.77,1643.39,Yaw Appiah,Q4,Online
+TXN-00502,2023-10-06,Ashanti,Oforikrom,Clothing & Textiles,Batakari,7,430.73,3015.11,Akosua Darko,Q4,In-Store
+TXN-00503,2023-01-10,Ashanti,Ejisu,Clothing & Textiles,Ankara Fabric (6yds),5,193.45,967.25,Ibrahim Alhassan,Q1,In-Store
+TXN-00504,2023-09-29,Central,Effutu,Electronics,Smart TV,6,1761.71,10570.26,Adwoa Osei,Q3,In-Store
+TXN-00505,2023-11-02,Eastern,New Juaben North,Food & Beverages,Bottled Water (crate),21,97.23,2041.83,Adwoa Osei,Q4,Online
+TXN-00506,2023-12-04,Central,Mfantsiman,Building Materials,PVC Pipes (bundle),35,834.07,29192.45,Kojo Sarpong,Q4,Online
+TXN-00507,2023-01-22,Central,Effutu,Food & Beverages,Tomato Paste (carton),26,50.14,1303.64,Kojo Sarpong,Q1,In-Store
+TXN-00508,2023-06-26,Eastern,Fanteakwa,Building Materials,Tiles (box),32,264.35,8459.2,Gifty Gyasi,Q2,Online
+TXN-00509,2023-10-24,Greater Accra,Tema Metro,Health & Beauty,Sunscreen (bulk),14,264.46,3702.44,Kojo Sarpong,Q4,In-Store
+TXN-00510,2023-11-16,Eastern,Birim Central,Building Materials,Roofing Sheets,50,343.01,17150.5,Akosua Darko,Q4,In-Store
+TXN-00511,2023-10-17,Ashanti,Oforikrom,Agriculture,Fertiliser (50kg),15,184.38,2765.7,Yaw Appiah,Q4,In-Store
+TXN-00512,2023-08-07,Eastern,Birim Central,Clothing & Textiles,Batakari,10,277.61,2776.1,Kweku Frimpong,Q3,In-Store
+TXN-00513,2023-11-14,Central,Cape Coast Metro,Building Materials,Cement (bag),2,779.76,1559.52,Kojo Sarpong,Q4,Online
+TXN-00514,2023-10-25,Volta,Ho Municipal,Clothing & Textiles,Kente Cloth,1,516.42,516.42,Fatima Mahama,Q4,Wholesale
+TXN-00515,2023-09-20,Greater Accra,Ashaiman,Food & Beverages,Tomato Paste (carton),19,164.75,3130.25,Akosua Darko,Q3,In-Store
+TXN-00516,2023-03-13,Western,Ahanta West,Food & Beverages,Packaged Rice (25kg),29,276.32,8013.28,Akosua Darko,Q1,Online
+TXN-00517,2023-01-10,Eastern,Birim Central,Building Materials,Roofing Sheets,20,604.86,12097.2,Patience Dankwa,Q1,Wholesale
+TXN-00518,2023-11-13,Ashanti,Oforikrom,Health & Beauty,Hand Sanitiser (carton),15,134.04,2010.6,Yaw Appiah,Q4,In-Store
+TXN-00519,2023-09-21,Greater Accra,Accra Metro,Agriculture,Maize Seeds (5kg),15,231.96,3479.4,Adwoa Osei,Q3,In-Store
+TXN-00520,2023-08-01,Western,Tarkwa-Nsuaem,Building Materials,PVC Pipes (bundle),44,684.53,30119.32,Akosua Darko,Q3,In-Store
+TXN-00521,2023-09-02,Volta,Ho Municipal,Health & Beauty,Diapers (carton),14,57.16,800.24,Abena Owusu,Q3,Online
+TXN-00522,2023-06-14,Volta,Ho Municipal,Electronics,Laptop,5,2503.03,12515.15,Ama Mensah,Q2,In-Store
+TXN-00523,2023-05-03,Central,Cape Coast Metro,Electronics,Tablet,2,1547.64,3095.28,Kweku Frimpong,Q2,In-Store
+TXN-00524,2023-01-13,Central,Cape Coast Metro,Clothing & Textiles,Ladies Dress,12,240.31,2883.72,Gifty Gyasi,Q1,In-Store
+TXN-00525,2023-05-09,Central,Cape Coast Metro,Health & Beauty,Multivitamins,4,233.16,932.64,Kofi Asante,Q2,Online
+TXN-00526,2023-01-16,Central,Mfantsiman,Agriculture,Yam (bag),15,318.74,4781.1,Ama Mensah,Q1,In-Store
+TXN-00527,2023-06-13,Greater Accra,Ashaiman,Clothing & Textiles,Kente Cloth,1,356.92,356.92,Kweku Frimpong,Q2,In-Store
+TXN-00528,2023-05-31,Ashanti,Kwabre East,Building Materials,Roofing Sheets,18,195.13,3512.34,Yaw Appiah,Q2,In-Store
+TXN-00529,2023-03-01,Volta,Ho Municipal,Agriculture,Maize Seeds (5kg),2,73.98,147.96,Akua Agyei,Q1,Online
+TXN-00530,2023-05-10,Ashanti,Ejisu,Food & Beverages,Tomato Paste (carton),25,32.46,811.5,Yaw Appiah,Q2,In-Store
+TXN-00531,2023-05-13,Greater Accra,Ashaiman,Electronics,Laptop,1,2754.01,2754.01,Emmanuel Antwi,Q2,Online
+TXN-00532,2023-07-09,Ashanti,Ejisu,Agriculture,Farm Tools Set,2,313.7,627.4,Akua Agyei,Q3,Online
+TXN-00533,2023-11-04,Greater Accra,Ga West,Agriculture,Fertiliser (50kg),4,258.97,1035.88,Fatima Mahama,Q4,In-Store
+TXN-00534,2023-11-27,Volta,Hohoe,Agriculture,Maize Seeds (5kg),4,284.91,1139.64,Kweku Frimpong,Q4,Wholesale
+TXN-00535,2023-02-14,Greater Accra,Ashaiman,Agriculture,Yam (bag),11,135.57,1491.27,Emmanuel Antwi,Q1,In-Store
+TXN-00536,2023-07-07,Ashanti,Kumasi Metro,Electronics,Laptop,7,2205.84,15440.88,Emmanuel Antwi,Q3,Wholesale
+TXN-00537,2023-10-30,Greater Accra,Ga West,Electronics,Wireless Earbuds,1,1080.5,1080.5,Yaw Appiah,Q4,Wholesale
+TXN-00538,2023-04-21,Ashanti,Kwabre East,Food & Beverages,Tomato Paste (carton),15,134.04,2010.6,Kojo Sarpong,Q2,In-Store
+TXN-00539,2023-11-29,Volta,Keta,Agriculture,Yam (bag),2,83.38,166.76,Akosua Darko,Q4,Online
+TXN-00540,2023-09-21,Central,Mfantsiman,Clothing & Textiles,Men's Suit,9,215.97,1943.73,Akosua Darko,Q3,In-Store
+TXN-00541,2023-07-14,Eastern,Fanteakwa,Electronics,Tablet,1,1061.9,1061.9,Adwoa Osei,Q3,In-Store
+TXN-00542,2023-11-14,Greater Accra,Ashaiman,Electronics,Power Bank,8,900.45,7203.6,Ama Mensah,Q4,In-Store
+TXN-00543,2023-08-09,Greater Accra,Ashaiman,Food & Beverages,Biscuits (carton),30,131.44,3943.2,Fatima Mahama,Q3,Online
+TXN-00544,2023-03-30,Central,Cape Coast Metro,Agriculture,Fertiliser (50kg),5,310.01,1550.05,Adwoa Osei,Q1,Online
+TXN-00545,2023-10-26,Volta,Hohoe,Agriculture,Maize Seeds (5kg),18,167.11,3007.98,Kwame Boateng,Q4,Wholesale
+TXN-00546,2023-07-22,Volta,Keta,Agriculture,Farm Tools Set,19,253.51,4816.69,Abena Owusu,Q3,Wholesale
+TXN-00547,2023-12-06,Volta,Ho Municipal,Building Materials,Cement (bag),13,1053.28,13692.64,Kweku Frimpong,Q4,Online
+TXN-00548,2023-05-22,Ashanti,Oforikrom,Electronics,Laptop,8,719.26,5754.08,Emmanuel Antwi,Q2,In-Store
+TXN-00549,2023-07-28,Western,Tarkwa-Nsuaem,Electronics,Smartphone,1,2478.35,2478.35,Kojo Sarpong,Q3,In-Store
+TXN-00550,2023-07-24,Central,Cape Coast Metro,Health & Beauty,Soap (carton),3,162.15,486.45,Adwoa Osei,Q3,In-Store
+TXN-00551,2023-02-11,Eastern,Fanteakwa,Health & Beauty,Diapers (carton),8,125.9,1007.2,Fatima Mahama,Q1,In-Store
+TXN-00552,2023-09-13,Ashanti,Kumasi Metro,Agriculture,Fertiliser (50kg),4,46.17,184.68,Kweku Frimpong,Q3,Online
+TXN-00553,2023-08-05,Central,Mfantsiman,Agriculture,Yam (bag),19,62.67,1190.73,Ama Mensah,Q3,In-Store
+TXN-00554,2023-11-21,Central,Cape Coast Metro,Food & Beverages,Cooking Oil (5L),28,271.73,7608.44,Kweku Frimpong,Q4,In-Store
+TXN-00555,2023-07-15,Greater Accra,Accra Metro,Clothing & Textiles,Ladies Dress,1,611.67,611.67,Abena Owusu,Q3,Online
+TXN-00556,2023-10-21,Greater Accra,Tema Metro,Electronics,Power Bank,2,2542.35,5084.7,Kweku Frimpong,Q4,Online
+TXN-00557,2023-03-03,Central,Effutu,Clothing & Textiles,Batakari,11,387.89,4266.79,Akua Agyei,Q1,In-Store
+TXN-00558,2023-07-07,Greater Accra,Ashaiman,Food & Beverages,Biscuits (carton),18,108.97,1961.46,Kofi Asante,Q3,In-Store
+TXN-00559,2023-02-24,Eastern,Fanteakwa,Food & Beverages,Biscuits (carton),21,227.4,4775.4,Kojo Sarpong,Q1,In-Store
+TXN-00560,2023-03-20,Volta,Ho Municipal,Clothing & Textiles,Men's Suit,11,357.32,3930.52,Ama Mensah,Q1,In-Store
+TXN-00561,2023-07-26,Greater Accra,Ashaiman,Clothing & Textiles,Batakari,3,60.26,180.78,Fatima Mahama,Q3,In-Store
+TXN-00562,2023-09-14,Ashanti,Kwabre East,Agriculture,Irrigation Hose,11,89.57,985.27,Fatima Mahama,Q3,In-Store
+TXN-00563,2023-09-17,Western,Sekondi-Takoradi Metro,Electronics,Smartphone,4,1859.14,7436.56,Kofi Asante,Q3,Wholesale
+TXN-00564,2023-03-26,Western,Ahanta West,Food & Beverages,Biscuits (carton),2,190.53,381.06,Patience Dankwa,Q1,Wholesale
+TXN-00565,2023-12-14,Ashanti,Kwabre East,Agriculture,Fertiliser (50kg),2,32.48,64.96,Fatima Mahama,Q4,In-Store
+TXN-00566,2023-08-04,Greater Accra,Tema Metro,Agriculture,Fertiliser (50kg),6,93.9,563.4,Kojo Sarpong,Q3,Wholesale
+TXN-00567,2023-05-08,Eastern,Birim Central,Clothing & Textiles,Batakari,7,428.86,3002.02,Patience Dankwa,Q2,In-Store
+TXN-00568,2023-07-11,Eastern,Fanteakwa,Agriculture,Maize Seeds (5kg),7,59.65,417.55,Kweku Frimpong,Q3,Online
+TXN-00569,2023-09-18,Western,Sekondi-Takoradi Metro,Agriculture,Yam (bag),12,62.68,752.16,Emmanuel Antwi,Q3,In-Store
+TXN-00570,2023-03-07,Eastern,Birim Central,Agriculture,Pesticide (5L),7,196.69,1376.83,Akua Agyei,Q1,Online
+TXN-00571,2023-09-10,Eastern,Fanteakwa,Food & Beverages,Tomato Paste (carton),16,115.15,1842.4,Fatima Mahama,Q3,In-Store
+TXN-00572,2023-09-10,Volta,Hohoe,Electronics,Power Bank,5,695.68,3478.4,Ama Mensah,Q3,Wholesale
+TXN-00573,2023-08-18,Ashanti,Oforikrom,Health & Beauty,Diapers (carton),9,270.65,2435.85,Yaw Appiah,Q3,In-Store
+TXN-00574,2023-12-08,Ashanti,Kumasi Metro,Food & Beverages,Bottled Water (crate),16,26.6,425.6,Ama Mensah,Q4,Online
+TXN-00575,2023-06-11,Central,Cape Coast Metro,Electronics,Smartphone,7,901.99,6313.93,Fatima Mahama,Q2,Online
+TXN-00576,2023-01-16,Eastern,New Juaben North,Building Materials,PVC Pipes (bundle),38,1156.17,43934.46,Patience Dankwa,Q1,Wholesale
+TXN-00577,2023-06-18,Western,Ahanta West,Clothing & Textiles,Ladies Dress,6,617.96,3707.76,Fatima Mahama,Q2,Online
+TXN-00578,2023-07-27,Greater Accra,Tema Metro,Agriculture,Fertiliser (50kg),12,197.37,2368.44,Kofi Asante,Q3,In-Store
+TXN-00579,2023-02-18,Greater Accra,Accra Metro,Food & Beverages,Packaged Rice (25kg),25,244.81,6120.25,Ama Mensah,Q1,Online
+TXN-00580,2023-02-01,Ashanti,Ejisu,Agriculture,Fertiliser (50kg),3,228.59,685.77,Akosua Darko,Q1,In-Store
+TXN-00581,2023-03-22,Ashanti,Kumasi Metro,Electronics,Wireless Earbuds,8,351.57,2812.56,Gifty Gyasi,Q1,Wholesale
+TXN-00582,2023-05-16,Ashanti,Kwabre East,Clothing & Textiles,Batakari,9,229.59,2066.31,Patience Dankwa,Q2,Online
+TXN-00583,2023-11-14,Central,Effutu,Electronics,Smart TV,1,2308.05,2308.05,Emmanuel Antwi,Q4,In-Store
+TXN-00584,2023-06-27,Volta,Hohoe,Health & Beauty,Shampoo (carton),3,304.51,913.53,Emmanuel Antwi,Q2,In-Store
+TXN-00585,2023-05-06,Greater Accra,Ga West,Clothing & Textiles,Ladies Dress,7,260.52,1823.64,Emmanuel Antwi,Q2,Online
+TXN-00586,2023-09-23,Greater Accra,Ga West,Agriculture,Yam (bag),18,79.53,1431.54,Ama Mensah,Q3,Online
+TXN-00587,2023-11-12,Volta,Keta,Clothing & Textiles,Kente Cloth,8,532.43,4259.44,Ama Mensah,Q4,In-Store
+TXN-00588,2023-05-30,Central,Mfantsiman,Electronics,Smart TV,3,2653.29,7959.87,Fatima Mahama,Q2,Wholesale
+TXN-00589,2023-02-04,Volta,Keta,Clothing & Textiles,Kente Cloth,9,535.38,4818.42,Ibrahim Alhassan,Q1,Online
+TXN-00590,2023-04-14,Volta,Hohoe,Health & Beauty,Soap (carton),7,182.09,1274.63,Akua Agyei,Q2,Online
+TXN-00591,2023-09-30,Volta,Keta,Building Materials,Tiles (box),41,598.43,24535.63,Emmanuel Antwi,Q3,Online
+TXN-00592,2023-04-22,Eastern,Birim Central,Clothing & Textiles,Ladies Dress,3,293.35,880.05,Emmanuel Antwi,Q2,In-Store
+TXN-00593,2023-12-02,Eastern,Birim Central,Agriculture,Yam (bag),13,66.21,860.73,Yaw Appiah,Q4,In-Store
+TXN-00594,2023-01-23,Volta,Ho Municipal,Building Materials,Iron Rods (bundle),35,899.76,31491.6,Kofi Asante,Q1,Online
+TXN-00595,2023-07-26,Central,Cape Coast Metro,Food & Beverages,Packaged Rice (25kg),17,61.16,1039.72,Adwoa Osei,Q3,Wholesale
+TXN-00596,2023-11-07,Central,Effutu,Electronics,Laptop,4,304.73,1218.92,Abena Owusu,Q4,In-Store
+TXN-00597,2023-08-04,Eastern,New Juaben North,Food & Beverages,Biscuits (carton),14,262.81,3679.34,Yaw Appiah,Q3,In-Store
+TXN-00598,2023-03-20,Eastern,New Juaben North,Building Materials,Roofing Sheets,26,1051.63,27342.38,Fatima Mahama,Q1,Wholesale
+TXN-00599,2023-03-28,Central,Cape Coast Metro,Food & Beverages,Tomato Paste (carton),25,56.34,1408.5,Akua Agyei,Q1,Online
+TXN-00600,2023-03-08,Eastern,Birim Central,Food & Beverages,Bottled Water (crate),25,46.19,1154.75,Ibrahim Alhassan,Q1,In-Store
+TXN-00601,2023-02-13,Central,Cape Coast Metro,Building Materials,Roofing Sheets,43,61.86,2659.98,Patience Dankwa,Q1,Online
+TXN-00602,2023-11-07,Eastern,New Juaben North,Building Materials,Paint (20L),45,954.78,42965.1,Emmanuel Antwi,Q4,Online
+TXN-00603,2023-06-28,Ashanti,Ejisu,Electronics,Smartphone,3,2151.6,6454.8,Kojo Sarpong,Q2,In-Store
+TXN-00604,2023-05-26,Ashanti,Kumasi Metro,Agriculture,Fertiliser (50kg),4,82.01,328.04,Akua Agyei,Q2,In-Store
+TXN-00605,2023-06-02,Central,Cape Coast Metro,Building Materials,PVC Pipes (bundle),12,1057.88,12694.56,Emmanuel Antwi,Q2,Online
+TXN-00606,2023-04-15,Ashanti,Kumasi Metro,Clothing & Textiles,Kente Cloth,11,358.34,3941.74,Akua Agyei,Q2,Online
+TXN-00607,2023-09-07,Western,Tarkwa-Nsuaem,Agriculture,Yam (bag),6,90.97,545.82,Adwoa Osei,Q3,Online
+TXN-00608,2023-09-07,Greater Accra,Ashaiman,Clothing & Textiles,Men's Suit,10,307.41,3074.1,Adwoa Osei,Q3,Online
+TXN-00609,2023-03-01,Ashanti,Kwabre East,Agriculture,Maize Seeds (5kg),10,222.68,2226.8,Kwame Boateng,Q1,In-Store
+TXN-00610,2023-02-05,Greater Accra,Tema Metro,Electronics,Smartphone,5,2361.98,11809.9,Ibrahim Alhassan,Q1,Wholesale
+TXN-00611,2023-01-24,Volta,Keta,Electronics,Smartphone,3,388.45,1165.35,Gifty Gyasi,Q1,In-Store
+TXN-00612,2023-09-08,Western,Sekondi-Takoradi Metro,Agriculture,Maize Seeds (5kg),10,35.01,350.1,Patience Dankwa,Q3,Online
+TXN-00613,2023-09-25,Central,Mfantsiman,Agriculture,Pesticide (5L),9,260.25,2342.25,Adwoa Osei,Q3,In-Store
+TXN-00614,2023-06-08,Greater Accra,Ga West,Clothing & Textiles,Ladies Dress,9,262.35,2361.15,Adwoa Osei,Q2,In-Store
+TXN-00615,2023-12-15,Greater Accra,Accra Metro,Agriculture,Pesticide (5L),16,333.43,5334.88,Gifty Gyasi,Q4,In-Store
+TXN-00616,2023-02-09,Volta,Keta,Building Materials,PVC Pipes (bundle),39,412.62,16092.18,Gifty Gyasi,Q1,In-Store
+TXN-00617,2023-08-03,Volta,Hohoe,Electronics,Wireless Earbuds,6,2323.89,13943.34,Ama Mensah,Q3,Online
+TXN-00618,2023-02-11,Central,Mfantsiman,Health & Beauty,Diapers (carton),15,147.97,2219.55,Fatima Mahama,Q1,Online
+TXN-00619,2023-12-30,Western,Ahanta West,Building Materials,Tiles (box),37,143.61,5313.57,Akosua Darko,Q4,Wholesale
+TXN-00620,2023-09-30,Western,Ahanta West,Building Materials,Paint (20L),12,1164.03,13968.36,Adwoa Osei,Q3,Online
+TXN-00621,2023-10-04,Western,Tarkwa-Nsuaem,Food & Beverages,Packaged Rice (25kg),12,42.9,514.8,Akosua Darko,Q4,In-Store
+TXN-00622,2023-08-16,Western,Sekondi-Takoradi Metro,Electronics,Tablet,1,1097.41,1097.41,Gifty Gyasi,Q3,Wholesale
+TXN-00623,2023-08-27,Eastern,Fanteakwa,Food & Beverages,Biscuits (carton),13,262.33,3410.29,Abena Owusu,Q3,In-Store
+TXN-00624,2023-04-29,Western,Sekondi-Takoradi Metro,Building Materials,Paint (20L),11,1152.55,12678.05,Adwoa Osei,Q2,Wholesale
+TXN-00625,2023-10-26,Eastern,Birim Central,Agriculture,Yam (bag),6,182.32,1093.92,Adwoa Osei,Q4,Wholesale
+TXN-00626,2023-06-19,Greater Accra,Ga West,Clothing & Textiles,School Uniform Set,7,290.04,2030.28,Gifty Gyasi,Q2,Online
+TXN-00627,2023-12-21,Eastern,New Juaben North,Building Materials,Cement (bag),44,361.24,15894.56,Yaw Appiah,Q4,Online
+TXN-00628,2023-09-27,Eastern,Fanteakwa,Health & Beauty,Multivitamins,8,130.71,1045.68,Abena Owusu,Q3,Wholesale
+TXN-00629,2023-11-05,Western,Sekondi-Takoradi Metro,Food & Beverages,Bottled Water (crate),16,103.99,1663.84,Gifty Gyasi,Q4,In-Store
+TXN-00630,2023-09-21,Ashanti,Oforikrom,Clothing & Textiles,Kente Cloth,8,152.64,1221.12,Akua Agyei,Q3,Online
+TXN-00631,2023-03-06,Western,Tarkwa-Nsuaem,Food & Beverages,Milo (tin),27,172.43,4655.61,Gifty Gyasi,Q1,In-Store
+TXN-00632,2023-04-08,Eastern,Fanteakwa,Building Materials,Paint (20L),19,1031.24,19593.56,Emmanuel Antwi,Q2,Online
+TXN-00633,2023-05-17,Central,Mfantsiman,Electronics,Laptop,3,1849.93,5549.79,Adwoa Osei,Q2,In-Store
+TXN-00634,2023-03-21,Ashanti,Ejisu,Health & Beauty,Soap (carton),7,194.62,1362.34,Abena Owusu,Q1,Online
+TXN-00635,2023-11-23,Ashanti,Kumasi Metro,Building Materials,Roofing Sheets,22,676.2,14876.4,Yaw Appiah,Q4,In-Store
+TXN-00636,2023-08-23,Greater Accra,Ga West,Building Materials,Roofing Sheets,33,737.1,24324.3,Adwoa Osei,Q3,Online
+TXN-00637,2023-03-20,Western,Tarkwa-Nsuaem,Building Materials,Roofing Sheets,34,1060.85,36068.9,Kofi Asante,Q1,In-Store
+TXN-00638,2023-11-13,Western,Sekondi-Takoradi Metro,Food & Beverages,Bottled Water (crate),5,58.37,291.85,Akosua Darko,Q4,In-Store
+TXN-00639,2023-06-24,Western,Sekondi-Takoradi Metro,Agriculture,Maize Seeds (5kg),9,103.88,934.92,Kweku Frimpong,Q2,In-Store
+TXN-00640,2023-10-04,Volta,Keta,Building Materials,Paint (20L),26,463.8,12058.8,Gifty Gyasi,Q4,In-Store
+TXN-00641,2023-12-16,Western,Ahanta West,Electronics,Wireless Earbuds,4,2048.75,8195.0,Emmanuel Antwi,Q4,In-Store
+TXN-00642,2023-03-19,Volta,Hohoe,Building Materials,Tiles (box),29,1077.72,31253.88,Akua Agyei,Q1,Online
+TXN-00643,2023-10-30,Central,Effutu,Health & Beauty,Hand Sanitiser (carton),10,303.67,3036.7,Kweku Frimpong,Q4,In-Store
+TXN-00644,2023-01-05,Eastern,Birim Central,Clothing & Textiles,Batakari,5,488.24,2441.2,Abena Owusu,Q1,In-Store
+TXN-00645,2023-07-25,Ashanti,Kwabre East,Electronics,Laptop,6,2465.85,14795.1,Patience Dankwa,Q3,Wholesale
+TXN-00646,2023-05-06,Western,Tarkwa-Nsuaem,Agriculture,Pesticide (5L),16,102.89,1646.24,Ibrahim Alhassan,Q2,Online
+TXN-00647,2023-11-21,Greater Accra,Tema Metro,Building Materials,Cement (bag),25,189.76,4744.0,Akua Agyei,Q4,In-Store
+TXN-00648,2023-12-19,Greater Accra,Ashaiman,Health & Beauty,Hand Sanitiser (carton),13,172.09,2237.17,Adwoa Osei,Q4,Online
+TXN-00649,2023-03-15,Central,Mfantsiman,Electronics,Tablet,2,1786.12,3572.24,Kwame Boateng,Q1,Online
+TXN-00650,2023-12-15,Central,Effutu,Food & Beverages,Tomato Paste (carton),15,150.49,2257.35,Kweku Frimpong,Q4,In-Store
+TXN-00651,2023-01-22,Greater Accra,Accra Metro,Food & Beverages,Bottled Water (crate),14,240.74,3370.36,Ibrahim Alhassan,Q1,In-Store
+TXN-00652,2023-08-19,Western,Ahanta West,Building Materials,PVC Pipes (bundle),45,109.06,4907.7,Abena Owusu,Q3,In-Store
+TXN-00653,2023-09-11,Greater Accra,Accra Metro,Food & Beverages,Bottled Water (crate),7,128.5,899.5,Abena Owusu,Q3,In-Store
+TXN-00654,2023-01-24,Eastern,New Juaben North,Food & Beverages,Bottled Water (crate),15,260.13,3901.95,Adwoa Osei,Q1,In-Store
+TXN-00655,2023-09-21,Western,Ahanta West,Building Materials,Paint (20L),19,1115.68,21197.92,Kojo Sarpong,Q3,In-Store
+TXN-00656,2023-11-18,Volta,Hohoe,Clothing & Textiles,Ankara Fabric (6yds),6,278.7,1672.2,Emmanuel Antwi,Q4,In-Store
+TXN-00657,2023-12-25,Ashanti,Oforikrom,Clothing & Textiles,Batakari,7,341.25,2388.75,Ama Mensah,Q4,In-Store
+TXN-00658,2023-06-17,Greater Accra,Ashaiman,Clothing & Textiles,Ankara Fabric (6yds),7,410.91,2876.37,Abena Owusu,Q2,In-Store
+TXN-00659,2023-04-10,Greater Accra,Ashaiman,Building Materials,Iron Rods (bundle),37,667.65,24703.05,Adwoa Osei,Q2,In-Store
+TXN-00660,2023-01-03,Ashanti,Kumasi Metro,Food & Beverages,Bottled Water (crate),22,231.48,5092.56,Fatima Mahama,Q1,Wholesale
+TXN-00661,2023-03-03,Eastern,Fanteakwa,Food & Beverages,Biscuits (carton),4,55.78,223.12,Abena Owusu,Q1,Online
+TXN-00662,2023-12-24,Central,Effutu,Electronics,Tablet,7,1277.82,8944.74,Patience Dankwa,Q4,In-Store
+TXN-00663,2023-11-13,Volta,Hohoe,Agriculture,Fertiliser (50kg),15,105.3,1579.5,Kofi Asante,Q4,Wholesale
+TXN-00664,2023-05-10,Central,Mfantsiman,Agriculture,Maize Seeds (5kg),8,343.58,2748.64,Kojo Sarpong,Q2,In-Store
+TXN-00665,2023-07-16,Greater Accra,Tema Metro,Food & Beverages,Tomato Paste (carton),8,185.19,1481.52,Patience Dankwa,Q3,In-Store
+TXN-00666,2023-11-30,Eastern,Birim Central,Agriculture,Maize Seeds (5kg),12,200.99,2411.88,Kojo Sarpong,Q4,In-Store
+TXN-00667,2023-09-10,Greater Accra,Tema Metro,Food & Beverages,Bottled Water (crate),27,171.01,4617.27,Adwoa Osei,Q3,In-Store
+TXN-00668,2023-04-16,Greater Accra,Accra Metro,Health & Beauty,Shampoo (carton),7,285.32,1997.24,Emmanuel Antwi,Q2,In-Store
+TXN-00669,2023-05-29,Eastern,New Juaben North,Health & Beauty,Shampoo (carton),11,157.27,1729.97,Ibrahim Alhassan,Q2,In-Store
+TXN-00670,2023-10-26,Ashanti,Kumasi Metro,Electronics,Power Bank,7,770.02,5390.14,Abena Owusu,Q4,In-Store
+TXN-00671,2023-07-20,Western,Tarkwa-Nsuaem,Electronics,Tablet,7,1087.11,7609.77,Abena Owusu,Q3,In-Store
+TXN-00672,2023-03-12,Eastern,Fanteakwa,Building Materials,PVC Pipes (bundle),33,1139.72,37610.76,Kofi Asante,Q1,Online
+TXN-00673,2023-05-09,Western,Tarkwa-Nsuaem,Health & Beauty,Multivitamins,1,112.54,112.54,Ibrahim Alhassan,Q2,Online
+TXN-00674,2023-09-08,Eastern,Fanteakwa,Food & Beverages,Tomato Paste (carton),19,261.11,4961.09,Akua Agyei,Q3,Online
+TXN-00675,2023-07-11,Western,Ahanta West,Electronics,Laptop,5,2041.9,10209.5,Gifty Gyasi,Q3,Online
+TXN-00676,2023-01-19,Western,Sekondi-Takoradi Metro,Electronics,Wireless Earbuds,6,2705.83,16234.98,Yaw Appiah,Q1,In-Store
+TXN-00677,2023-05-01,Ashanti,Oforikrom,Building Materials,PVC Pipes (bundle),20,665.58,13311.6,Kweku Frimpong,Q2,In-Store
+TXN-00678,2023-08-02,Western,Ahanta West,Health & Beauty,Sunscreen (bulk),5,64.12,320.6,Akua Agyei,Q3,In-Store
+TXN-00679,2023-08-25,Greater Accra,Accra Metro,Agriculture,Farm Tools Set,16,145.94,2335.04,Ibrahim Alhassan,Q3,Online
+TXN-00680,2023-01-24,Ashanti,Kumasi Metro,Food & Beverages,Biscuits (carton),7,129.05,903.35,Emmanuel Antwi,Q1,Online
+TXN-00681,2023-05-05,Greater Accra,Ashaiman,Building Materials,PVC Pipes (bundle),24,325.96,7823.04,Ama Mensah,Q2,In-Store
+TXN-00682,2023-02-06,Central,Mfantsiman,Agriculture,Yam (bag),10,33.38,333.8,Emmanuel Antwi,Q1,Online
+TXN-00683,2023-04-16,Greater Accra,Accra Metro,Food & Beverages,Bottled Water (crate),8,70.11,560.88,Ibrahim Alhassan,Q2,In-Store
+TXN-00684,2023-04-19,Ashanti,Kwabre East,Food & Beverages,Cooking Oil (5L),12,268.72,3224.64,Ibrahim Alhassan,Q2,Online
+TXN-00685,2023-05-12,Greater Accra,Ashaiman,Clothing & Textiles,Kente Cloth,4,77.94,311.76,Kwame Boateng,Q2,Online
+TXN-00686,2023-06-24,Ashanti,Oforikrom,Building Materials,Cement (bag),3,56.29,168.87,Fatima Mahama,Q2,Online
+TXN-00687,2023-10-01,Greater Accra,Ga West,Clothing & Textiles,Kente Cloth,3,565.3,1695.9,Kofi Asante,Q4,Wholesale
+TXN-00688,2023-06-22,Western,Sekondi-Takoradi Metro,Clothing & Textiles,School Uniform Set,4,544.01,2176.04,Yaw Appiah,Q2,Wholesale
+TXN-00689,2023-01-29,Eastern,Fanteakwa,Building Materials,Roofing Sheets,21,287.34,6034.14,Emmanuel Antwi,Q1,In-Store
+TXN-00690,2023-12-28,Ashanti,Ejisu,Agriculture,Fertiliser (50kg),6,85.13,510.78,Abena Owusu,Q4,In-Store
+TXN-00691,2023-10-15,Central,Cape Coast Metro,Clothing & Textiles,Batakari,11,224.65,2471.15,Kojo Sarpong,Q4,In-Store
+TXN-00692,2023-02-02,Central,Mfantsiman,Health & Beauty,Sunscreen (bulk),9,210.54,1894.86,Emmanuel Antwi,Q1,In-Store
+TXN-00693,2023-11-21,Western,Tarkwa-Nsuaem,Health & Beauty,Sunscreen (bulk),9,283.8,2554.2,Akosua Darko,Q4,Wholesale
+TXN-00694,2023-09-15,Eastern,Fanteakwa,Agriculture,Yam (bag),5,98.2,491.0,Adwoa Osei,Q3,In-Store
+TXN-00695,2023-09-04,Volta,Hohoe,Electronics,Smart TV,4,2405.53,9622.12,Kojo Sarpong,Q3,Online
+TXN-00696,2023-10-29,Volta,Hohoe,Food & Beverages,Tomato Paste (carton),17,165.03,2805.51,Adwoa Osei,Q4,In-Store
+TXN-00697,2023-09-18,Central,Mfantsiman,Building Materials,Iron Rods (bundle),2,183.26,366.52,Patience Dankwa,Q3,In-Store
+TXN-00698,2023-07-14,Volta,Hohoe,Agriculture,Farm Tools Set,19,152.71,2901.49,Abena Owusu,Q3,In-Store
+TXN-00699,2023-08-10,Central,Effutu,Health & Beauty,Multivitamins,5,74.72,373.6,Adwoa Osei,Q3,In-Store
+TXN-00700,2023-10-29,Central,Effutu,Electronics,Tablet,6,1247.31,7483.86,Kojo Sarpong,Q4,Online
+TXN-00701,2023-10-11,Volta,Hohoe,Food & Beverages,Milo (tin),20,222.28,4445.6,Kwame Boateng,Q4,In-Store
+TXN-00702,2023-10-03,Volta,Ho Municipal,Electronics,Tablet,8,1205.5,9644.0,Emmanuel Antwi,Q4,In-Store
+TXN-00703,2023-03-02,Eastern,Fanteakwa,Building Materials,Tiles (box),47,348.84,16395.48,Kweku Frimpong,Q1,In-Store
+TXN-00704,2023-04-20,Volta,Ho Municipal,Clothing & Textiles,School Uniform Set,12,91.92,1103.04,Akosua Darko,Q2,In-Store
+TXN-00705,2023-02-13,Central,Mfantsiman,Agriculture,Pesticide (5L),20,46.93,938.6,Abena Owusu,Q1,In-Store
+TXN-00706,2023-08-01,Eastern,Fanteakwa,Electronics,Wireless Earbuds,7,1329.68,9307.76,Adwoa Osei,Q3,Online
+TXN-00707,2023-08-23,Greater Accra,Tema Metro,Building Materials,PVC Pipes (bundle),43,178.92,7693.56,Akua Agyei,Q3,In-Store
+TXN-00708,2023-07-16,Central,Effutu,Building Materials,Cement (bag),13,484.74,6301.62,Ama Mensah,Q3,In-Store
+TXN-00709,2023-11-07,Eastern,New Juaben North,Building Materials,Paint (20L),42,64.19,2695.98,Yaw Appiah,Q4,In-Store
+TXN-00710,2023-02-08,Western,Tarkwa-Nsuaem,Clothing & Textiles,Men's Suit,5,471.02,2355.1,Adwoa Osei,Q1,Wholesale
+TXN-00711,2023-10-18,Greater Accra,Ashaiman,Building Materials,PVC Pipes (bundle),19,1166.44,22162.36,Emmanuel Antwi,Q4,Online
+TXN-00712,2023-10-04,Volta,Ho Municipal,Agriculture,Farm Tools Set,12,352.97,4235.64,Emmanuel Antwi,Q4,In-Store
+TXN-00713,2023-05-18,Greater Accra,Tema Metro,Clothing & Textiles,School Uniform Set,7,90.73,635.11,Fatima Mahama,Q2,In-Store
+TXN-00714,2023-01-01,Ashanti,Kwabre East,Food & Beverages,Packaged Rice (25kg),15,254.15,3812.25,Yaw Appiah,Q1,In-Store
+TXN-00715,2023-02-26,Eastern,Birim Central,Agriculture,Fertiliser (50kg),11,287.21,3159.31,Patience Dankwa,Q1,In-Store
+TXN-00716,2023-06-13,Western,Sekondi-Takoradi Metro,Health & Beauty,Sunscreen (bulk),15,249.35,3740.25,Ibrahim Alhassan,Q2,In-Store
+TXN-00717,2023-09-17,Western,Sekondi-Takoradi Metro,Food & Beverages,Cooking Oil (5L),24,57.66,1383.84,Fatima Mahama,Q3,Online
+TXN-00718,2023-10-27,Western,Ahanta West,Building Materials,Cement (bag),42,851.06,35744.52,Fatima Mahama,Q4,Wholesale
+TXN-00719,2023-02-26,Volta,Keta,Building Materials,Iron Rods (bundle),12,544.5,6534.0,Kwame Boateng,Q1,Online
+TXN-00720,2023-01-05,Central,Cape Coast Metro,Clothing & Textiles,Ankara Fabric (6yds),6,281.34,1688.04,Akosua Darko,Q1,Wholesale
+TXN-00721,2023-12-12,Ashanti,Kwabre East,Clothing & Textiles,Kente Cloth,11,214.23,2356.53,Ama Mensah,Q4,In-Store
+TXN-00722,2023-11-16,Volta,Keta,Building Materials,PVC Pipes (bundle),16,552.81,8844.96,Fatima Mahama,Q4,In-Store
+TXN-00723,2023-02-19,Central,Mfantsiman,Agriculture,Irrigation Hose,17,78.75,1338.75,Akua Agyei,Q1,Wholesale
+TXN-00724,2023-04-13,Volta,Ho Municipal,Food & Beverages,Biscuits (carton),16,255.36,4085.76,Yaw Appiah,Q2,Online
+TXN-00725,2023-01-20,Greater Accra,Accra Metro,Clothing & Textiles,Ankara Fabric (6yds),7,192.42,1346.94,Kojo Sarpong,Q1,Online
+TXN-00726,2023-03-16,Western,Ahanta West,Building Materials,Roofing Sheets,9,826.06,7434.54,Kojo Sarpong,Q1,In-Store
+TXN-00727,2023-09-29,Eastern,Fanteakwa,Agriculture,Irrigation Hose,3,231.79,695.37,Kweku Frimpong,Q3,Online
+TXN-00728,2023-08-08,Volta,Keta,Agriculture,Fertiliser (50kg),11,238.94,2628.34,Patience Dankwa,Q3,In-Store
+TXN-00729,2023-07-01,Ashanti,Ejisu,Health & Beauty,Multivitamins,11,52.89,581.79,Abena Owusu,Q3,Online
+TXN-00730,2023-11-13,Eastern,New Juaben North,Food & Beverages,Bottled Water (crate),18,68.46,1232.28,Akosua Darko,Q4,In-Store
+TXN-00731,2023-03-17,Volta,Hohoe,Agriculture,Yam (bag),19,133.68,2539.92,Ibrahim Alhassan,Q1,Online
+TXN-00732,2023-06-21,Eastern,Birim Central,Building Materials,Roofing Sheets,18,663.76,11947.68,Kojo Sarpong,Q2,In-Store
+TXN-00733,2023-02-18,Volta,Keta,Building Materials,Paint (20L),12,364.54,4374.48,Ama Mensah,Q1,In-Store
+TXN-00734,2023-06-02,Eastern,Fanteakwa,Health & Beauty,Sunscreen (bulk),11,95.6,1051.6,Kojo Sarpong,Q2,Wholesale
+TXN-00735,2023-05-21,Eastern,New Juaben North,Food & Beverages,Milo (tin),21,168.86,3546.06,Patience Dankwa,Q2,In-Store
+TXN-00736,2023-05-02,Western,Ahanta West,Health & Beauty,Soap (carton),14,145.02,2030.28,Emmanuel Antwi,Q2,In-Store
+TXN-00737,2023-04-13,Eastern,New Juaben North,Agriculture,Pesticide (5L),7,348.65,2440.55,Gifty Gyasi,Q2,Wholesale
+TXN-00738,2023-06-13,Volta,Ho Municipal,Food & Beverages,Bottled Water (crate),17,103.59,1761.03,Kofi Asante,Q2,Wholesale
+TXN-00739,2023-07-20,Ashanti,Oforikrom,Food & Beverages,Tomato Paste (carton),24,184.13,4419.12,Akua Agyei,Q3,Wholesale
+TXN-00740,2023-03-31,Central,Cape Coast Metro,Clothing & Textiles,School Uniform Set,6,649.26,3895.56,Patience Dankwa,Q1,Online
+TXN-00741,2023-11-13,Greater Accra,Tema Metro,Clothing & Textiles,Men's Suit,1,402.06,402.06,Patience Dankwa,Q4,In-Store
+TXN-00742,2023-08-25,Greater Accra,Ga West,Building Materials,PVC Pipes (bundle),4,732.5,2930.0,Yaw Appiah,Q3,In-Store
+TXN-00743,2023-08-07,Volta,Ho Municipal,Health & Beauty,Sunscreen (bulk),3,97.1,291.3,Emmanuel Antwi,Q3,Wholesale
+TXN-00744,2023-12-20,Ashanti,Kumasi Metro,Agriculture,Yam (bag),5,167.5,837.5,Ibrahim Alhassan,Q4,Online
+TXN-00745,2023-04-08,Ashanti,Kumasi Metro,Building Materials,PVC Pipes (bundle),32,160.49,5135.68,Kofi Asante,Q2,Online
+TXN-00746,2023-07-27,Ashanti,Kumasi Metro,Health & Beauty,Soap (carton),6,61.43,368.58,Akosua Darko,Q3,In-Store
+TXN-00747,2023-09-25,Western,Sekondi-Takoradi Metro,Agriculture,Maize Seeds (5kg),18,377.99,6803.82,Adwoa Osei,Q3,In-Store
+TXN-00748,2023-11-25,Greater Accra,Ashaiman,Clothing & Textiles,School Uniform Set,1,218.14,218.14,Abena Owusu,Q4,Wholesale
+TXN-00749,2023-08-11,Western,Tarkwa-Nsuaem,Food & Beverages,Packaged Rice (25kg),18,60.83,1094.94,Akosua Darko,Q3,Wholesale
+TXN-00750,2023-03-04,Ashanti,Kumasi Metro,Food & Beverages,Cooking Oil (5L),17,106.28,1806.76,Kweku Frimpong,Q1,In-Store
+TXN-00751,2023-12-22,Greater Accra,Accra Metro,Agriculture,Irrigation Hose,9,273.77,2463.93,Akua Agyei,Q4,Online
+TXN-00752,2023-01-08,Ashanti,Oforikrom,Agriculture,Maize Seeds (5kg),6,88.57,531.42,Adwoa Osei,Q1,In-Store
+TXN-00753,2023-09-18,Volta,Hohoe,Agriculture,Irrigation Hose,13,100.58,1307.54,Fatima Mahama,Q3,In-Store
+TXN-00754,2023-02-28,Greater Accra,Accra Metro,Clothing & Textiles,Ladies Dress,3,485.57,1456.71,Kofi Asante,Q1,In-Store
+TXN-00755,2023-02-21,Western,Tarkwa-Nsuaem,Building Materials,Cement (bag),36,141.37,5089.32,Kojo Sarpong,Q1,Online
+TXN-00756,2023-03-13,Eastern,Fanteakwa,Building Materials,Iron Rods (bundle),21,260.65,5473.65,Akosua Darko,Q1,Wholesale
+TXN-00757,2023-06-20,Volta,Hohoe,Food & Beverages,Cooking Oil (5L),6,236.65,1419.9,Gifty Gyasi,Q2,Wholesale
+TXN-00758,2023-03-03,Volta,Ho Municipal,Building Materials,Tiles (box),23,498.97,11476.31,Kweku Frimpong,Q1,Online
+TXN-00759,2023-05-27,Greater Accra,Tema Metro,Food & Beverages,Bottled Water (crate),22,131.22,2886.84,Kojo Sarpong,Q2,In-Store
+TXN-00760,2023-12-30,Central,Effutu,Food & Beverages,Packaged Rice (25kg),25,120.54,3013.5,Ama Mensah,Q4,In-Store
+TXN-00761,2023-09-05,Central,Effutu,Food & Beverages,Packaged Rice (25kg),3,63.04,189.12,Ibrahim Alhassan,Q3,In-Store
+TXN-00762,2023-10-20,Central,Effutu,Food & Beverages,Milo (tin),9,100.65,905.85,Gifty Gyasi,Q4,Wholesale
+TXN-00763,2023-11-01,Eastern,Birim Central,Health & Beauty,Soap (carton),15,185.63,2784.45,Kojo Sarpong,Q4,Online
+TXN-00764,2023-12-29,Volta,Keta,Health & Beauty,Multivitamins,1,318.55,318.55,Kweku Frimpong,Q4,Online
+TXN-00765,2023-03-31,Western,Ahanta West,Food & Beverages,Bottled Water (crate),25,36.57,914.25,Ama Mensah,Q1,In-Store
+TXN-00766,2023-01-24,Eastern,Birim Central,Building Materials,Cement (bag),3,1036.66,3109.98,Patience Dankwa,Q1,In-Store
+TXN-00767,2023-04-17,Greater Accra,Accra Metro,Health & Beauty,Soap (carton),14,110.57,1547.98,Kweku Frimpong,Q2,Online
+TXN-00768,2023-09-23,Western,Ahanta West,Electronics,Wireless Earbuds,2,1998.38,3996.76,Ibrahim Alhassan,Q3,In-Store
+TXN-00769,2023-01-20,Central,Cape Coast Metro,Building Materials,Paint (20L),26,363.31,9446.06,Adwoa Osei,Q1,In-Store
+TXN-00770,2023-06-03,Eastern,Birim Central,Food & Beverages,Milo (tin),24,115.99,2783.76,Emmanuel Antwi,Q2,Wholesale
+TXN-00771,2023-10-03,Central,Mfantsiman,Electronics,Smartphone,7,1419.29,9935.03,Emmanuel Antwi,Q4,In-Store
+TXN-00772,2023-04-19,Central,Effutu,Health & Beauty,Sunscreen (bulk),10,316.76,3167.6,Abena Owusu,Q2,Online
+TXN-00773,2023-02-06,Eastern,Birim Central,Electronics,Tablet,5,2552.07,12760.35,Kojo Sarpong,Q1,Online
+TXN-00774,2023-02-19,Eastern,New Juaben North,Building Materials,Tiles (box),50,543.64,27182.0,Patience Dankwa,Q1,In-Store
+TXN-00775,2023-09-20,Central,Mfantsiman,Electronics,Tablet,7,2077.85,14544.95,Ibrahim Alhassan,Q3,Online
+TXN-00776,2023-03-02,Volta,Hohoe,Agriculture,Fertiliser (50kg),12,191.54,2298.48,Kojo Sarpong,Q1,Online
+TXN-00777,2023-01-15,Western,Sekondi-Takoradi Metro,Agriculture,Yam (bag),10,139.72,1397.2,Fatima Mahama,Q1,In-Store
+TXN-00778,2023-01-26,Greater Accra,Ga West,Agriculture,Farm Tools Set,10,342.25,3422.5,Patience Dankwa,Q1,Online
+TXN-00779,2023-01-18,Volta,Hohoe,Electronics,Smartphone,4,700.8,2803.2,Kwame Boateng,Q1,In-Store
+TXN-00780,2023-10-31,Volta,Keta,Clothing & Textiles,Batakari,11,211.23,2323.53,Akua Agyei,Q4,Online
+TXN-00781,2023-10-01,Central,Mfantsiman,Electronics,Smart TV,2,582.69,1165.38,Abena Owusu,Q4,In-Store
+TXN-00782,2023-04-02,Greater Accra,Accra Metro,Food & Beverages,Cooking Oil (5L),10,92.26,922.6,Kofi Asante,Q2,In-Store
+TXN-00783,2023-11-27,Central,Mfantsiman,Health & Beauty,Sunscreen (bulk),5,247.3,1236.5,Kweku Frimpong,Q4,Online
+TXN-00784,2023-06-23,Greater Accra,Tema Metro,Clothing & Textiles,Ankara Fabric (6yds),3,210.76,632.28,Emmanuel Antwi,Q2,Wholesale
+TXN-00785,2023-09-01,Eastern,New Juaben North,Agriculture,Fertiliser (50kg),1,252.4,252.4,Kwame Boateng,Q3,Online
+TXN-00786,2023-05-28,Western,Sekondi-Takoradi Metro,Agriculture,Farm Tools Set,10,173.69,1736.9,Kwame Boateng,Q2,In-Store
+TXN-00787,2023-10-08,Volta,Hohoe,Electronics,Tablet,8,2263.04,18104.32,Gifty Gyasi,Q4,In-Store
+TXN-00788,2023-09-07,Greater Accra,Tema Metro,Food & Beverages,Cooking Oil (5L),17,108.34,1841.78,Kofi Asante,Q3,In-Store
+TXN-00789,2023-04-03,Ashanti,Ejisu,Building Materials,Cement (bag),23,590.44,13580.12,Akosua Darko,Q2,Wholesale
+TXN-00790,2023-05-16,Central,Cape Coast Metro,Clothing & Textiles,Ladies Dress,5,224.35,1121.75,Yaw Appiah,Q2,In-Store
+TXN-00791,2023-08-07,Eastern,New Juaben North,Health & Beauty,Multivitamins,4,21.67,86.68,Ama Mensah,Q3,Online
+TXN-00792,2023-07-20,Greater Accra,Tema Metro,Electronics,Tablet,5,973.6,4868.0,Yaw Appiah,Q3,In-Store
+TXN-00793,2023-10-13,Ashanti,Oforikrom,Building Materials,Tiles (box),8,636.32,5090.56,Emmanuel Antwi,Q4,In-Store
+TXN-00794,2023-05-13,Western,Sekondi-Takoradi Metro,Electronics,Wireless Earbuds,3,1827.88,5483.64,Akua Agyei,Q2,Online
+TXN-00795,2023-04-30,Volta,Hohoe,Agriculture,Fertiliser (50kg),8,268.94,2151.52,Yaw Appiah,Q2,Wholesale
+TXN-00796,2023-08-25,Ashanti,Ejisu,Food & Beverages,Cooking Oil (5L),16,129.42,2070.72,Akua Agyei,Q3,Online
+TXN-00797,2023-05-03,Volta,Ho Municipal,Clothing & Textiles,Men's Suit,4,382.41,1529.64,Kwame Boateng,Q2,Online
+TXN-00798,2023-01-06,Central,Cape Coast Metro,Food & Beverages,Biscuits (carton),2,76.31,152.62,Kweku Frimpong,Q1,Online
+TXN-00799,2023-07-27,Ashanti,Kwabre East,Building Materials,Iron Rods (bundle),39,1101.7,42966.3,Kweku Frimpong,Q3,Online
+TXN-00800,2023-08-15,Eastern,Fanteakwa,Health & Beauty,Diapers (carton),3,278.46,835.38,Fatima Mahama,Q3,In-Store
+TXN-00801,2023-01-05,Eastern,Fanteakwa,Building Materials,Roofing Sheets,40,798.03,31921.2,Akua Agyei,Q1,In-Store
+TXN-00802,2023-11-08,Western,Sekondi-Takoradi Metro,Food & Beverages,Bottled Water (crate),20,213.77,4275.4,Akosua Darko,Q4,In-Store
+TXN-00803,2023-10-15,Central,Effutu,Agriculture,Yam (bag),1,194.04,194.04,Kwame Boateng,Q4,In-Store
+TXN-00804,2023-08-13,Central,Cape Coast Metro,Health & Beauty,Soap (carton),15,136.38,2045.7,Fatima Mahama,Q3,In-Store
+TXN-00805,2023-08-06,Ashanti,Oforikrom,Electronics,Smartphone,8,2643.26,21146.08,Emmanuel Antwi,Q3,In-Store
+TXN-00806,2023-02-14,Ashanti,Ejisu,Health & Beauty,Shampoo (carton),11,300.57,3306.27,Akosua Darko,Q1,In-Store
+TXN-00807,2023-05-29,Greater Accra,Ga West,Clothing & Textiles,Kente Cloth,12,110.28,1323.36,Emmanuel Antwi,Q2,In-Store
+TXN-00808,2023-10-08,Central,Effutu,Clothing & Textiles,Ladies Dress,6,294.85,1769.1,Emmanuel Antwi,Q4,Online
+TXN-00809,2023-08-29,Eastern,New Juaben North,Building Materials,Iron Rods (bundle),30,488.86,14665.8,Kweku Frimpong,Q3,In-Store
+TXN-00810,2023-12-13,Central,Mfantsiman,Building Materials,PVC Pipes (bundle),2,97.03,194.06,Yaw Appiah,Q4,Wholesale
+TXN-00811,2023-04-22,Eastern,Fanteakwa,Food & Beverages,Milo (tin),11,264.0,2904.0,Patience Dankwa,Q2,In-Store
+TXN-00812,2023-09-21,Central,Cape Coast Metro,Electronics,Laptop,5,1733.17,8665.85,Yaw Appiah,Q3,In-Store
+TXN-00813,2023-08-14,Volta,Ho Municipal,Clothing & Textiles,Kente Cloth,4,324.17,1296.68,Akosua Darko,Q3,Wholesale
+TXN-00814,2023-02-06,Volta,Keta,Health & Beauty,Multivitamins,5,225.59,1127.95,Kweku Frimpong,Q1,In-Store
+TXN-00815,2023-04-17,Western,Sekondi-Takoradi Metro,Building Materials,Cement (bag),25,1145.58,28639.5,Abena Owusu,Q2,Online
+TXN-00816,2023-03-16,Western,Tarkwa-Nsuaem,Agriculture,Yam (bag),7,233.31,1633.17,Gifty Gyasi,Q1,Online
+TXN-00817,2023-04-28,Central,Cape Coast Metro,Health & Beauty,Hand Sanitiser (carton),2,180.01,360.02,Kojo Sarpong,Q2,In-Store
+TXN-00818,2023-11-28,Central,Mfantsiman,Building Materials,PVC Pipes (bundle),18,506.49,9116.82,Ama Mensah,Q4,In-Store
+TXN-00819,2023-06-29,Greater Accra,Accra Metro,Building Materials,Paint (20L),38,645.68,24535.84,Yaw Appiah,Q2,Online
+TXN-00820,2023-02-11,Central,Effutu,Health & Beauty,Hand Sanitiser (carton),15,190.2,2853.0,Kweku Frimpong,Q1,In-Store
+TXN-00821,2023-03-26,Ashanti,Ejisu,Building Materials,Cement (bag),5,428.09,2140.45,Kofi Asante,Q1,Wholesale
+TXN-00822,2023-01-14,Eastern,Birim Central,Food & Beverages,Packaged Rice (25kg),17,89.25,1517.25,Akua Agyei,Q1,In-Store
+TXN-00823,2023-12-14,Western,Tarkwa-Nsuaem,Clothing & Textiles,Ankara Fabric (6yds),4,513.18,2052.72,Ama Mensah,Q4,In-Store
+TXN-00824,2023-01-04,Ashanti,Oforikrom,Electronics,Tablet,6,834.11,5004.66,Emmanuel Antwi,Q1,Online
+TXN-00825,2023-12-08,Central,Mfantsiman,Electronics,Laptop,6,1965.26,11791.56,Ama Mensah,Q4,In-Store
+TXN-00826,2023-10-05,Central,Mfantsiman,Health & Beauty,Multivitamins,14,28.86,404.04,Yaw Appiah,Q4,In-Store
+TXN-00827,2023-05-25,Ashanti,Ejisu,Clothing & Textiles,Kente Cloth,8,100.78,806.24,Yaw Appiah,Q2,In-Store
+TXN-00828,2023-12-23,Western,Sekondi-Takoradi Metro,Clothing & Textiles,Men's Suit,5,76.52,382.6,Abena Owusu,Q4,In-Store
+TXN-00829,2023-10-28,Eastern,Fanteakwa,Building Materials,Roofing Sheets,50,228.18,11409.0,Abena Owusu,Q4,In-Store
+TXN-00830,2023-07-19,Central,Mfantsiman,Clothing & Textiles,Ladies Dress,8,624.36,4994.88,Akosua Darko,Q3,In-Store
+TXN-00831,2023-05-20,Eastern,Fanteakwa,Building Materials,Cement (bag),25,920.75,23018.75,Kwame Boateng,Q2,In-Store
+TXN-00832,2023-09-24,Greater Accra,Tema Metro,Clothing & Textiles,Ladies Dress,3,547.3,1641.9,Ama Mensah,Q3,Online
+TXN-00833,2023-11-30,Central,Cape Coast Metro,Food & Beverages,Bottled Water (crate),8,58.49,467.92,Kweku Frimpong,Q4,In-Store
+TXN-00834,2023-03-29,Volta,Ho Municipal,Health & Beauty,Shampoo (carton),11,269.5,2964.5,Kwame Boateng,Q1,Wholesale
+TXN-00835,2023-03-08,Central,Cape Coast Metro,Agriculture,Yam (bag),1,215.74,215.74,Ama Mensah,Q1,Online
+TXN-00836,2023-05-18,Greater Accra,Ashaiman,Agriculture,Maize Seeds (5kg),11,216.57,2382.27,Ama Mensah,Q2,Online
+TXN-00837,2023-02-17,Western,Sekondi-Takoradi Metro,Agriculture,Maize Seeds (5kg),12,144.8,1737.6,Gifty Gyasi,Q1,In-Store
+TXN-00838,2023-01-31,Greater Accra,Tema Metro,Agriculture,Fertiliser (50kg),18,310.78,5594.04,Kweku Frimpong,Q1,In-Store
+TXN-00839,2023-02-23,Central,Effutu,Food & Beverages,Packaged Rice (25kg),28,116.02,3248.56,Kwame Boateng,Q1,In-Store
+TXN-00840,2023-06-23,Volta,Keta,Electronics,Smartphone,3,1286.82,3860.46,Emmanuel Antwi,Q2,Online
+TXN-00841,2023-11-05,Western,Tarkwa-Nsuaem,Clothing & Textiles,Kente Cloth,7,645.1,4515.7,Emmanuel Antwi,Q4,In-Store
+TXN-00842,2023-10-10,Central,Effutu,Food & Beverages,Biscuits (carton),22,160.17,3523.74,Akua Agyei,Q4,Wholesale
+TXN-00843,2023-10-23,Ashanti,Ejisu,Building Materials,PVC Pipes (bundle),48,270.74,12995.52,Kofi Asante,Q4,In-Store
+TXN-00844,2023-04-16,Volta,Hohoe,Building Materials,PVC Pipes (bundle),16,775.81,12412.96,Gifty Gyasi,Q2,Wholesale
+TXN-00845,2023-08-22,Western,Tarkwa-Nsuaem,Food & Beverages,Bottled Water (crate),18,41.6,748.8,Kofi Asante,Q3,In-Store
+TXN-00846,2023-08-21,Western,Ahanta West,Health & Beauty,Diapers (carton),5,283.32,1416.6,Gifty Gyasi,Q3,In-Store
+TXN-00847,2023-03-13,Western,Sekondi-Takoradi Metro,Food & Beverages,Cooking Oil (5L),18,28.85,519.3,Yaw Appiah,Q1,In-Store
+TXN-00848,2023-02-14,Volta,Hohoe,Food & Beverages,Bottled Water (crate),12,96.14,1153.68,Patience Dankwa,Q1,Online
+TXN-00849,2023-09-09,Eastern,Fanteakwa,Health & Beauty,Sunscreen (bulk),2,256.38,512.76,Akosua Darko,Q3,In-Store
+TXN-00850,2023-06-10,Western,Sekondi-Takoradi Metro,Health & Beauty,Soap (carton),9,60.98,548.82,Akua Agyei,Q2,Online
+TXN-00851,2023-04-19,Volta,Ho Municipal,Building Materials,Cement (bag),8,97.13,777.04,Emmanuel Antwi,Q2,In-Store
+TXN-00852,2023-12-06,Volta,Hohoe,Agriculture,Maize Seeds (5kg),7,130.21,911.47,Kofi Asante,Q4,Online
+TXN-00853,2023-06-09,Central,Effutu,Food & Beverages,Milo (tin),19,181.71,3452.49,Akosua Darko,Q2,In-Store
+TXN-00854,2023-04-19,Western,Sekondi-Takoradi Metro,Building Materials,Tiles (box),29,766.79,22236.91,Akua Agyei,Q2,In-Store
+TXN-00855,2023-09-23,Greater Accra,Ga West,Clothing & Textiles,Batakari,12,602.94,7235.28,Kweku Frimpong,Q3,In-Store
+TXN-00856,2023-08-29,Eastern,New Juaben North,Building Materials,Cement (bag),32,1039.32,33258.24,Kwame Boateng,Q3,In-Store
+TXN-00857,2023-05-14,Volta,Hohoe,Food & Beverages,Milo (tin),11,139.89,1538.79,Kwame Boateng,Q2,Online
+TXN-00858,2023-03-17,Eastern,Birim Central,Food & Beverages,Cooking Oil (5L),8,162.9,1303.2,Fatima Mahama,Q1,In-Store
+TXN-00859,2023-06-16,Eastern,Birim Central,Agriculture,Maize Seeds (5kg),8,356.04,2848.32,Adwoa Osei,Q2,Online
+TXN-00860,2023-05-07,Eastern,New Juaben North,Health & Beauty,Sunscreen (bulk),5,86.44,432.2,Akua Agyei,Q2,Online
+TXN-00861,2023-07-11,Ashanti,Ejisu,Electronics,Tablet,6,1441.66,8649.96,Kojo Sarpong,Q3,In-Store
+TXN-00862,2023-12-08,Volta,Ho Municipal,Agriculture,Irrigation Hose,7,366.03,2562.21,Kofi Asante,Q4,In-Store
+TXN-00863,2023-02-05,Volta,Ho Municipal,Clothing & Textiles,Ladies Dress,3,633.91,1901.73,Akosua Darko,Q1,In-Store
+TXN-00864,2023-06-14,Eastern,New Juaben North,Building Materials,Paint (20L),7,591.05,4137.35,Akosua Darko,Q2,Online
+TXN-00865,2023-08-30,Central,Cape Coast Metro,Health & Beauty,Diapers (carton),15,241.6,3624.0,Kofi Asante,Q3,In-Store
+TXN-00866,2023-05-30,Ashanti,Kwabre East,Agriculture,Fertiliser (50kg),8,270.83,2166.64,Ama Mensah,Q2,In-Store
+TXN-00867,2023-07-14,Greater Accra,Ga West,Electronics,Tablet,4,377.81,1511.24,Kofi Asante,Q3,In-Store
+TXN-00868,2023-10-25,Ashanti,Kwabre East,Health & Beauty,Hand Sanitiser (carton),1,197.4,197.4,Kweku Frimpong,Q4,In-Store
+TXN-00869,2023-03-18,Ashanti,Ejisu,Clothing & Textiles,Ankara Fabric (6yds),1,120.99,120.99,Kofi Asante,Q1,Online
+TXN-00870,2023-08-15,Central,Effutu,Food & Beverages,Packaged Rice (25kg),3,176.27,528.81,Patience Dankwa,Q3,In-Store
+TXN-00871,2023-03-22,Volta,Keta,Electronics,Laptop,6,1153.66,6921.96,Patience Dankwa,Q1,Wholesale
+TXN-00872,2023-09-21,Central,Mfantsiman,Agriculture,Maize Seeds (5kg),5,76.68,383.4,Kofi Asante,Q3,In-Store
+TXN-00873,2023-11-14,Central,Effutu,Health & Beauty,Diapers (carton),7,231.67,1621.69,Ibrahim Alhassan,Q4,Online
+TXN-00874,2023-10-12,Western,Ahanta West,Agriculture,Maize Seeds (5kg),15,373.99,5609.85,Kofi Asante,Q4,In-Store
+TXN-00875,2023-01-16,Central,Cape Coast Metro,Agriculture,Fertiliser (50kg),4,329.31,1317.24,Adwoa Osei,Q1,Online
+TXN-00876,2023-12-22,Volta,Hohoe,Health & Beauty,Diapers (carton),5,128.25,641.25,Kojo Sarpong,Q4,In-Store
+TXN-00877,2023-04-11,Eastern,Birim Central,Electronics,Tablet,1,2604.92,2604.92,Emmanuel Antwi,Q2,Wholesale
+TXN-00878,2023-05-15,Volta,Hohoe,Agriculture,Irrigation Hose,2,124.62,249.24,Ibrahim Alhassan,Q2,In-Store
+TXN-00879,2023-01-11,Western,Ahanta West,Building Materials,Iron Rods (bundle),37,623.11,23055.07,Akosua Darko,Q1,In-Store
+TXN-00880,2023-12-06,Western,Ahanta West,Building Materials,Iron Rods (bundle),23,254.21,5846.83,Abena Owusu,Q4,Online
+TXN-00881,2023-12-23,Eastern,Birim Central,Health & Beauty,Sunscreen (bulk),4,292.66,1170.64,Yaw Appiah,Q4,Online
+TXN-00882,2023-06-24,Eastern,Birim Central,Clothing & Textiles,Ladies Dress,2,411.01,822.02,Ibrahim Alhassan,Q2,Wholesale
+TXN-00883,2023-05-02,Central,Cape Coast Metro,Health & Beauty,Multivitamins,11,264.48,2909.28,Akosua Darko,Q2,In-Store
+TXN-00884,2023-05-03,Ashanti,Kwabre East,Agriculture,Farm Tools Set,14,47.22,661.08,Gifty Gyasi,Q2,Online
+TXN-00885,2023-12-22,Central,Mfantsiman,Clothing & Textiles,Batakari,9,224.2,2017.8,Ama Mensah,Q4,In-Store
+TXN-00886,2023-06-03,Central,Cape Coast Metro,Clothing & Textiles,Ladies Dress,8,152.22,1217.76,Gifty Gyasi,Q2,Wholesale
+TXN-00887,2023-05-02,Ashanti,Kwabre East,Food & Beverages,Biscuits (carton),23,222.04,5106.92,Kwame Boateng,Q2,Wholesale
+TXN-00888,2023-06-17,Central,Mfantsiman,Food & Beverages,Cooking Oil (5L),29,181.26,5256.54,Patience Dankwa,Q2,Online
+TXN-00889,2023-09-03,Western,Sekondi-Takoradi Metro,Food & Beverages,Biscuits (carton),12,107.64,1291.68,Fatima Mahama,Q3,Wholesale
+TXN-00890,2023-02-11,Greater Accra,Accra Metro,Agriculture,Irrigation Hose,14,214.33,3000.62,Kofi Asante,Q1,In-Store
+TXN-00891,2023-08-20,Western,Sekondi-Takoradi Metro,Health & Beauty,Diapers (carton),13,223.57,2906.41,Kofi Asante,Q3,Online
+TXN-00892,2023-05-13,Greater Accra,Tema Metro,Building Materials,Iron Rods (bundle),29,1025.76,29747.04,Gifty Gyasi,Q2,Online
+TXN-00893,2023-06-07,Volta,Ho Municipal,Health & Beauty,Diapers (carton),7,135.72,950.04,Emmanuel Antwi,Q2,In-Store
+TXN-00894,2023-03-15,Ashanti,Ejisu,Clothing & Textiles,Batakari,4,308.6,1234.4,Kwame Boateng,Q1,In-Store
+TXN-00895,2023-07-27,Eastern,New Juaben North,Building Materials,Iron Rods (bundle),42,234.33,9841.86,Fatima Mahama,Q3,Online
+TXN-00896,2023-07-25,Eastern,New Juaben North,Agriculture,Yam (bag),16,61.58,985.28,Akosua Darko,Q3,Wholesale
+TXN-00897,2023-07-26,Central,Mfantsiman,Clothing & Textiles,Kente Cloth,8,258.58,2068.64,Ibrahim Alhassan,Q3,In-Store
+TXN-00898,2023-03-30,Ashanti,Ejisu,Agriculture,Farm Tools Set,12,32.82,393.84,Abena Owusu,Q1,In-Store
+TXN-00899,2023-05-19,Ashanti,Oforikrom,Electronics,Power Bank,6,1395.12,8370.72,Emmanuel Antwi,Q2,Online
+TXN-00900,2023-12-15,Eastern,Birim Central,Health & Beauty,Shampoo (carton),14,288.02,4032.28,Emmanuel Antwi,Q4,In-Store
+TXN-00901,2023-02-01,Volta,Hohoe,Health & Beauty,Hand Sanitiser (carton),11,65.64,722.04,Gifty Gyasi,Q1,In-Store
+TXN-00902,2023-10-21,Western,Tarkwa-Nsuaem,Food & Beverages,Bottled Water (crate),22,150.54,3311.88,Fatima Mahama,Q4,In-Store
+TXN-00903,2023-11-06,Central,Cape Coast Metro,Food & Beverages,Cooking Oil (5L),28,171.37,4798.36,Fatima Mahama,Q4,In-Store
+TXN-00904,2023-06-11,Ashanti,Oforikrom,Electronics,Smartphone,7,2433.35,17033.45,Gifty Gyasi,Q2,In-Store
+TXN-00905,2023-06-17,Western,Ahanta West,Electronics,Smartphone,5,1883.81,9419.05,Fatima Mahama,Q2,Online
+TXN-00906,2023-01-02,Volta,Ho Municipal,Building Materials,Paint (20L),25,564.46,14111.5,Akosua Darko,Q1,Online
+TXN-00907,2023-10-01,Greater Accra,Ashaiman,Clothing & Textiles,Batakari,2,398.75,797.5,Adwoa Osei,Q4,In-Store
+TXN-00908,2023-03-12,Central,Cape Coast Metro,Clothing & Textiles,Men's Suit,8,321.72,2573.76,Yaw Appiah,Q1,In-Store
+TXN-00909,2023-03-30,Volta,Hohoe,Electronics,Power Bank,7,2231.15,15618.05,Ibrahim Alhassan,Q1,Online
+TXN-00910,2023-05-11,Western,Sekondi-Takoradi Metro,Clothing & Textiles,School Uniform Set,8,169.29,1354.32,Kweku Frimpong,Q2,Online
+TXN-00911,2023-09-21,Ashanti,Kwabre East,Building Materials,Iron Rods (bundle),28,775.8,21722.4,Akosua Darko,Q3,Wholesale
+TXN-00912,2023-06-04,Eastern,Birim Central,Building Materials,Paint (20L),10,745.09,7450.9,Kofi Asante,Q2,In-Store
+TXN-00913,2023-11-13,Western,Tarkwa-Nsuaem,Electronics,Laptop,1,1109.79,1109.79,Patience Dankwa,Q4,In-Store
+TXN-00914,2023-04-03,Central,Cape Coast Metro,Agriculture,Maize Seeds (5kg),6,195.72,1174.32,Adwoa Osei,Q2,Online
+TXN-00915,2023-02-22,Eastern,Fanteakwa,Building Materials,PVC Pipes (bundle),26,750.73,19518.98,Gifty Gyasi,Q1,In-Store
+TXN-00916,2023-08-11,Eastern,Birim Central,Electronics,Laptop,4,181.37,725.48,Kofi Asante,Q3,In-Store
+TXN-00917,2023-05-03,Ashanti,Oforikrom,Electronics,Power Bank,7,1195.86,8371.02,Ibrahim Alhassan,Q2,In-Store
+TXN-00918,2023-10-11,Central,Mfantsiman,Food & Beverages,Tomato Paste (carton),17,121.52,2065.84,Abena Owusu,Q4,In-Store
+TXN-00919,2023-02-11,Greater Accra,Tema Metro,Clothing & Textiles,School Uniform Set,11,342.83,3771.13,Akosua Darko,Q1,In-Store
+TXN-00920,2023-09-14,Western,Ahanta West,Health & Beauty,Diapers (carton),6,108.63,651.78,Kofi Asante,Q3,In-Store
+TXN-00921,2023-07-16,Greater Accra,Ashaiman,Building Materials,Iron Rods (bundle),17,1152.57,19593.69,Akosua Darko,Q3,In-Store
+TXN-00922,2023-06-16,Central,Mfantsiman,Health & Beauty,Multivitamins,10,303.11,3031.1,Akosua Darko,Q2,In-Store
+TXN-00923,2023-10-04,Central,Effutu,Health & Beauty,Shampoo (carton),9,257.57,2318.13,Abena Owusu,Q4,Online
+TXN-00924,2023-12-06,Greater Accra,Tema Metro,Health & Beauty,Sunscreen (bulk),1,290.67,290.67,Adwoa Osei,Q4,Wholesale
+TXN-00925,2023-10-16,Volta,Keta,Electronics,Smart TV,6,2432.46,14594.76,Akosua Darko,Q4,Online
+TXN-00926,2023-12-31,Greater Accra,Ga West,Building Materials,PVC Pipes (bundle),22,847.24,18639.28,Akosua Darko,Q4,Wholesale
+TXN-00927,2023-03-24,Western,Sekondi-Takoradi Metro,Health & Beauty,Hand Sanitiser (carton),7,146.55,1025.85,Kwame Boateng,Q1,In-Store
+TXN-00928,2023-05-31,Eastern,New Juaben North,Electronics,Tablet,2,446.81,893.62,Patience Dankwa,Q2,Online
+TXN-00929,2023-09-08,Volta,Hohoe,Agriculture,Farm Tools Set,11,32.73,360.03,Kojo Sarpong,Q3,Online
+TXN-00930,2023-08-01,Eastern,Fanteakwa,Electronics,Tablet,7,1237.12,8659.84,Kwame Boateng,Q3,In-Store
+TXN-00931,2023-08-09,Volta,Hohoe,Agriculture,Irrigation Hose,2,241.45,482.9,Kweku Frimpong,Q3,Online
+TXN-00932,2023-07-20,Greater Accra,Ashaiman,Building Materials,PVC Pipes (bundle),1,630.19,630.19,Kweku Frimpong,Q3,In-Store
+TXN-00933,2023-01-12,Eastern,New Juaben North,Food & Beverages,Milo (tin),10,91.88,918.8,Yaw Appiah,Q1,Online
+TXN-00934,2023-10-07,Eastern,Birim Central,Agriculture,Maize Seeds (5kg),18,137.23,2470.14,Abena Owusu,Q4,In-Store
+TXN-00935,2023-09-10,Greater Accra,Accra Metro,Electronics,Smartphone,5,1873.59,9367.95,Fatima Mahama,Q3,In-Store
+TXN-00936,2023-08-28,Central,Mfantsiman,Health & Beauty,Multivitamins,10,263.79,2637.9,Fatima Mahama,Q3,In-Store
+TXN-00937,2023-10-15,Eastern,New Juaben North,Building Materials,Iron Rods (bundle),7,424.85,2973.95,Kofi Asante,Q4,In-Store
+TXN-00938,2023-01-19,Greater Accra,Ga West,Clothing & Textiles,Kente Cloth,5,454.06,2270.3,Fatima Mahama,Q1,Wholesale
+TXN-00939,2023-07-10,Ashanti,Oforikrom,Agriculture,Yam (bag),6,267.71,1606.26,Kweku Frimpong,Q3,In-Store
+TXN-00940,2023-10-10,Eastern,Birim Central,Electronics,Wireless Earbuds,3,730.32,2190.96,Kofi Asante,Q4,In-Store
+TXN-00941,2023-04-01,Volta,Hohoe,Food & Beverages,Milo (tin),22,140.25,3085.5,Kweku Frimpong,Q2,In-Store
+TXN-00942,2023-08-15,Central,Effutu,Clothing & Textiles,School Uniform Set,5,274.59,1372.95,Kwame Boateng,Q3,Online
+TXN-00943,2023-06-12,Volta,Hohoe,Building Materials,Paint (20L),29,879.38,25502.02,Fatima Mahama,Q2,In-Store
+TXN-00944,2023-06-07,Greater Accra,Ga West,Clothing & Textiles,Men's Suit,11,370.75,4078.25,Akua Agyei,Q2,Wholesale
+TXN-00945,2023-10-11,Ashanti,Kumasi Metro,Agriculture,Pesticide (5L),1,181.5,181.5,Adwoa Osei,Q4,Wholesale
+TXN-00946,2023-02-18,Central,Effutu,Electronics,Smart TV,6,1118.04,6708.24,Gifty Gyasi,Q1,Online
+TXN-00947,2023-05-14,Greater Accra,Ashaiman,Clothing & Textiles,Kente Cloth,2,185.27,370.54,Akosua Darko,Q2,In-Store
+TXN-00948,2023-03-15,Greater Accra,Ga West,Building Materials,PVC Pipes (bundle),43,1075.86,46261.98,Kofi Asante,Q1,Wholesale
+TXN-00949,2023-01-22,Eastern,New Juaben North,Clothing & Textiles,Ankara Fabric (6yds),12,237.47,2849.64,Gifty Gyasi,Q1,In-Store
+TXN-00950,2023-04-22,Volta,Hohoe,Building Materials,Tiles (box),17,403.46,6858.82,Akua Agyei,Q2,Wholesale
+TXN-00951,2023-07-27,Eastern,Birim Central,Agriculture,Yam (bag),6,142.79,856.74,Akua Agyei,Q3,Wholesale
+TXN-00952,2023-01-13,Volta,Keta,Food & Beverages,Biscuits (carton),7,95.26,666.82,Ibrahim Alhassan,Q1,In-Store
+TXN-00953,2023-03-26,Central,Effutu,Clothing & Textiles,School Uniform Set,9,215.77,1941.93,Ibrahim Alhassan,Q1,Online
+TXN-00954,2023-10-30,Greater Accra,Tema Metro,Building Materials,Cement (bag),2,1173.79,2347.58,Kofi Asante,Q4,Wholesale
+TXN-00955,2023-01-19,Volta,Hohoe,Building Materials,Roofing Sheets,28,834.18,23357.04,Kofi Asante,Q1,In-Store
+TXN-00956,2023-03-18,Volta,Keta,Building Materials,Roofing Sheets,44,174.25,7667.0,Kojo Sarpong,Q1,In-Store
+TXN-00957,2023-06-29,Greater Accra,Ga West,Health & Beauty,Multivitamins,7,265.81,1860.67,Kwame Boateng,Q2,In-Store
+TXN-00958,2023-08-16,Ashanti,Ejisu,Electronics,Tablet,2,229.38,458.76,Akua Agyei,Q3,Wholesale
+TXN-00959,2023-07-21,Ashanti,Oforikrom,Health & Beauty,Diapers (carton),15,214.94,3224.1,Kofi Asante,Q3,Online
+TXN-00960,2023-09-22,Ashanti,Oforikrom,Agriculture,Irrigation Hose,15,236.83,3552.45,Fatima Mahama,Q3,In-Store
+TXN-00961,2023-02-08,Eastern,Birim Central,Building Materials,Cement (bag),7,536.24,3753.68,Gifty Gyasi,Q1,Online
+TXN-00962,2023-02-11,Greater Accra,Ashaiman,Electronics,Smartphone,7,1797.02,12579.14,Emmanuel Antwi,Q1,In-Store
+TXN-00963,2023-08-10,Eastern,New Juaben North,Clothing & Textiles,Ladies Dress,8,68.03,544.24,Kwame Boateng,Q3,In-Store
+TXN-00964,2023-07-04,Western,Sekondi-Takoradi Metro,Health & Beauty,Multivitamins,3,222.83,668.49,Akosua Darko,Q3,Online
+TXN-00965,2023-07-15,Western,Tarkwa-Nsuaem,Health & Beauty,Soap (carton),5,115.24,576.2,Kwame Boateng,Q3,Online
+TXN-00966,2023-11-02,Western,Sekondi-Takoradi Metro,Health & Beauty,Sunscreen (bulk),6,242.87,1457.22,Kwame Boateng,Q4,In-Store
+TXN-00967,2023-04-04,Volta,Hohoe,Building Materials,Paint (20L),1,127.48,127.48,Ama Mensah,Q2,Online
+TXN-00968,2023-05-10,Western,Ahanta West,Agriculture,Maize Seeds (5kg),18,87.15,1568.7,Gifty Gyasi,Q2,In-Store
+TXN-00969,2023-11-15,Greater Accra,Ashaiman,Agriculture,Pesticide (5L),16,157.5,2520.0,Abena Owusu,Q4,Wholesale
+TXN-00970,2023-06-08,Central,Effutu,Electronics,Wireless Earbuds,3,682.48,2047.44,Patience Dankwa,Q2,Wholesale
+TXN-00971,2023-06-12,Eastern,Fanteakwa,Food & Beverages,Tomato Paste (carton),7,154.91,1084.37,Emmanuel Antwi,Q2,Wholesale
+TXN-00972,2023-12-25,Western,Sekondi-Takoradi Metro,Electronics,Power Bank,7,593.61,4155.27,Kofi Asante,Q4,Online
+TXN-00973,2023-11-26,Eastern,Fanteakwa,Clothing & Textiles,Ankara Fabric (6yds),12,396.55,4758.6,Fatima Mahama,Q4,In-Store
+TXN-00974,2023-03-15,Volta,Hohoe,Clothing & Textiles,Kente Cloth,2,314.11,628.22,Yaw Appiah,Q1,In-Store
+TXN-00975,2023-04-10,Ashanti,Oforikrom,Food & Beverages,Packaged Rice (25kg),24,237.16,5691.84,Gifty Gyasi,Q2,In-Store
+TXN-00976,2023-02-12,Western,Ahanta West,Food & Beverages,Packaged Rice (25kg),30,121.57,3647.1,Akosua Darko,Q1,In-Store
+TXN-00977,2023-12-23,Central,Effutu,Electronics,Laptop,6,588.33,3529.98,Patience Dankwa,Q4,In-Store
+TXN-00978,2023-12-22,Eastern,New Juaben North,Food & Beverages,Milo (tin),19,191.33,3635.27,Ibrahim Alhassan,Q4,In-Store
+TXN-00979,2023-04-17,Eastern,Birim Central,Health & Beauty,Diapers (carton),6,167.12,1002.72,Kweku Frimpong,Q2,In-Store
+TXN-00980,2023-04-12,Central,Cape Coast Metro,Clothing & Textiles,Kente Cloth,4,601.06,2404.24,Adwoa Osei,Q2,Online
+TXN-00981,2023-10-04,Eastern,New Juaben North,Clothing & Textiles,Ankara Fabric (6yds),2,291.37,582.74,Kofi Asante,Q4,Wholesale
+TXN-00982,2023-08-27,Western,Ahanta West,Agriculture,Farm Tools Set,18,123.94,2230.92,Akosua Darko,Q3,Online
+TXN-00983,2023-05-02,Western,Sekondi-Takoradi Metro,Clothing & Textiles,Men's Suit,8,625.29,5002.32,Akosua Darko,Q2,In-Store
+TXN-00984,2023-04-13,Eastern,Birim Central,Electronics,Smartphone,2,1366.29,2732.58,Kweku Frimpong,Q2,Online
+TXN-00985,2023-04-18,Eastern,Birim Central,Clothing & Textiles,Batakari,3,550.37,1651.11,Kojo Sarpong,Q2,Online
+TXN-00986,2023-09-26,Eastern,New Juaben North,Clothing & Textiles,Ankara Fabric (6yds),1,525.22,525.22,Kofi Asante,Q3,Online
+TXN-00987,2023-02-15,Ashanti,Kumasi Metro,Food & Beverages,Cooking Oil (5L),28,205.87,5764.36,Akosua Darko,Q1,Online
+TXN-00988,2023-12-17,Eastern,Fanteakwa,Electronics,Laptop,7,2074.89,14524.23,Ibrahim Alhassan,Q4,Online
+TXN-00989,2023-06-06,Western,Sekondi-Takoradi Metro,Food & Beverages,Packaged Rice (25kg),18,163.41,2941.38,Abena Owusu,Q2,In-Store
+TXN-00990,2023-06-21,Eastern,New Juaben North,Building Materials,Paint (20L),47,187.01,8789.47,Abena Owusu,Q2,Online
+TXN-00991,2023-12-13,Central,Cape Coast Metro,Clothing & Textiles,School Uniform Set,11,638.58,7024.38,Kwame Boateng,Q4,In-Store
+TXN-00992,2023-05-15,Ashanti,Kumasi Metro,Health & Beauty,Diapers (carton),11,118.95,1308.45,Emmanuel Antwi,Q2,Wholesale
+TXN-00993,2023-04-01,Eastern,Birim Central,Building Materials,PVC Pipes (bundle),17,954.71,16230.07,Emmanuel Antwi,Q2,In-Store
+TXN-00994,2023-10-18,Western,Ahanta West,Building Materials,Cement (bag),28,1000.88,28024.64,Akua Agyei,Q4,In-Store
+TXN-00995,2023-09-14,Eastern,Birim Central,Building Materials,Cement (bag),39,678.37,26456.43,Kwame Boateng,Q3,Wholesale
+TXN-00996,2023-08-19,Eastern,New Juaben North,Health & Beauty,Hand Sanitiser (carton),1,186.69,186.69,Kwame Boateng,Q3,In-Store
+TXN-00997,2023-10-28,Western,Tarkwa-Nsuaem,Agriculture,Yam (bag),9,69.84,628.56,Ama Mensah,Q4,In-Store
+TXN-00998,2023-08-19,Greater Accra,Accra Metro,Agriculture,Fertiliser (50kg),5,316.44,1582.2,Gifty Gyasi,Q3,In-Store
+TXN-00999,2023-09-16,Volta,Ho Municipal,Food & Beverages,Bottled Water (crate),10,108.47,1084.7,Kofi Asante,Q3,Online
+TXN-01000,2023-03-18,Eastern,Fanteakwa,Agriculture,Irrigation Hose,14,96.27,1347.78,Fatima Mahama,Q1,In-Store
