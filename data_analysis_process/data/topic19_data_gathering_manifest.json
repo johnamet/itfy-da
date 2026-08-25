@@ -1,0 +1,64 @@
+{
+  "created_utc": "2026-08-20T20:07:27.636959+00:00",
+  "purpose": "Topic 19.1 data gathering lesson source manifest",
+  "sources": [
+    {
+      "name": "Gapminder five-year country indicators",
+      "url": "https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv",
+      "publisher_or_host": "Plotly datasets repository",
+      "local_file": "gapminder_five_year.csv",
+      "format": "CSV",
+      "sha256": "714f8a23e9d7429052a1e9b45d20b9adeb64f46c067ed46320e68182e4607b6d",
+      "notes": "Used for direct URL download and SQLite relational examples."
+    },
+    {
+      "name": "Our World in Data life expectancy",
+      "url": "https://ourworldindata.org/grapher/life-expectancy.csv",
+      "publisher_or_host": "Our World in Data",
+      "local_file": "owid_life_expectancy.csv",
+      "format": "CSV",
+      "sha256": "c304603fb8a7da263619a8ae43b7097f35b648c458855e23f1c4ef8f2ae75c01",
+      "notes": "Used for URL download, metadata, and source-understanding practice."
+    },
+    {
+      "name": "World Bank population API response",
+      "url": "https://api.worldbank.org/v2/country/GHA;NGA;KEN;ZAF/indicator/SP.POP.TOTL?date=2000:2022&format=json&per_page=1000",
+      "publisher_or_host": "World Bank",
+      "local_file": "world_bank_population_api_raw.json",
+      "format": "JSON",
+      "sha256": "1f3b6b58507a594828bf6b621c2ee2be33fe9976437d8e1302f8afd008349f71"
+    },
+    {
+      "name": "World Bank GDP per capita API response",
+      "url": "https://api.worldbank.org/v2/country/GHA;NGA;KEN;ZAF/indicator/NY.GDP.PCAP.CD?date=2000:2022&format=json&per_page=1000",
+      "publisher_or_host": "World Bank",
+      "local_file": "world_bank_gdp_per_capita_api_raw.json",
+      "format": "JSON",
+      "sha256": "30af0e072cd5fa635a22d462f12cb34bf56ff6c9cfec63886dad68da6daace45"
+    },
+    {
+      "name": "World Bank life expectancy API response",
+      "url": "https://api.worldbank.org/v2/country/GHA;NGA;KEN;ZAF/indicator/SP.DYN.LE00.IN?date=2000:2022&format=json&per_page=1000",
+      "publisher_or_host": "World Bank",
+      "local_file": "world_bank_life_expectancy_api_raw.json",
+      "format": "JSON",
+      "sha256": "e88ca009bef8b541bae02d5f114a588ae4c0cd70ce46dcdc445124c615cc00a2"
+    },
+    {
+      "name": "GitHub Plotly repository documents",
+      "url": "https://api.github.com/orgs/plotly/repos?per_page=30&sort=stars&direction=desc",
+      "publisher_or_host": "GitHub",
+      "local_file": "github_plotly_repositories.json",
+      "format": "JSON documents",
+      "sha256": "69cbcaa2d5756952942105bc035daa6b7abcbdcb77919765429bce2444d56b40",
+      "notes": "Used for document and key-value examples."
+    }
+  ],
+  "documentation": [
+    "https://datahelpdesk.worldbank.org/knowledgebase/articles/889392",
+    "https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structures",
+    "https://docs.github.com/en/rest/repos",
+    "https://sqlite.org/lang.html",
+    "https://www.mongodb.com/docs/manual/introduction/index.html"
+  ]
+}
