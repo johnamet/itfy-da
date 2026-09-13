@@ -1,0 +1,97 @@
+order_id,return_date,reason
+O00004,2023-12-03,Damaged in transit
+O00015,2023-02-27,Wrong item supplied
+O00043,2023-07-01,Expired stock
+O00055,2023-01-21,Wrong item supplied
+O00065,2023-06-20,Expired stock
+O00075,2023-12-15,Damaged in transit
+O00110,2023-03-14,Wrong item supplied
+O00128,2023-07-31,Wrong item supplied
+O00133,2023-03-09,Short delivery
+O00139,2023-02-05,Customer cancelled
+O00141,2023-01-21,Damaged in transit
+O00156,2023-12-30,Wrong item supplied
+O00160,2023-07-21,Expired stock
+O00162,2023-12-16,Customer cancelled
+O00171,2023-04-05,Damaged in transit
+O00191,2023-03-31,Damaged in transit
+O00196,2023-10-15,Short delivery
+O00230,2023-12-30,Damaged in transit
+O00235,2023-08-17,Wrong item supplied
+O00246,2023-05-16,Customer cancelled
+O00264,2023-10-12,Expired stock
+O00285,2023-10-11,Short delivery
+O00288,2023-05-07,Customer cancelled
+O00291,2024-01-22,Short delivery
+O00302,2023-10-24,Expired stock
+O00304,2023-04-21,Customer cancelled
+O00309,2023-07-07,Wrong item supplied
+O00311,2023-02-08,Damaged in transit
+O00323,2023-04-03,Expired stock
+O00325,2023-11-21,Damaged in transit
+O00355,2023-09-01,Wrong item supplied
+O00373,2023-09-29,Expired stock
+O00375,2023-11-26,Short delivery
+O00385,2024-01-24,Wrong item supplied
+O00427,2023-01-29,Customer cancelled
+O00436,2023-04-28,Wrong item supplied
+O00453,2023-08-23,Wrong item supplied
+O00459,2023-12-16,Wrong item supplied
+O00478,2024-01-17,Short delivery
+O00509,2023-08-20,Customer cancelled
+O00520,2023-04-20,Customer cancelled
+O00538,2023-07-07,Damaged in transit
+O00540,2023-09-20,Wrong item supplied
+O00554,2023-01-25,Wrong item supplied
+O00564,2023-02-27,Short delivery
+O00579,2023-11-09,Customer cancelled
+O00585,2023-09-30,Expired stock
+O00586,2023-07-12,Wrong item supplied
+O00587,2023-05-22,Wrong item supplied
+O00591,2023-06-09,Wrong item supplied
+O00615,2023-09-27,Wrong item supplied
+O00638,2023-11-17,Wrong item supplied
+O00644,2023-09-30,Damaged in transit
+O00665,2023-02-23,Short delivery
+O00667,2023-06-17,Short delivery
+O00679,2023-07-13,Customer cancelled
+O00687,2023-08-17,Wrong item supplied
+O00703,2023-12-24,Wrong item supplied
+O00704,2023-08-23,Wrong item supplied
+O00705,2023-10-25,Customer cancelled
+O00706,2023-02-17,Damaged in transit
+O00707,2023-05-01,Customer cancelled
+O00713,2023-08-12,Damaged in transit
+O00734,2023-05-10,Wrong item supplied
+O00777,2023-02-17,Short delivery
+O00816,2023-05-15,Expired stock
+O00819,2023-07-18,Damaged in transit
+O00843,2023-05-03,Damaged in transit
+O00859,2023-08-30,Wrong item supplied
+O00877,2023-07-14,Damaged in transit
+O00884,2023-04-14,Wrong item supplied
+O00898,2023-10-25,Wrong item supplied
+O00907,2023-09-07,Wrong item supplied
+O00914,2023-09-19,Short delivery
+O00926,2023-06-03,Expired stock
+O00930,2023-02-12,Customer cancelled
+O00936,2023-06-17,Expired stock
+O00945,2023-12-26,Short delivery
+O00976,2023-12-31,Wrong item supplied
+O00979,2023-12-21,Customer cancelled
+O00984,2023-10-09,Damaged in transit
+O00987,2023-07-25,Damaged in transit
+O01016,2023-03-08,Damaged in transit
+O01025,2023-06-07,Customer cancelled
+O01042,2023-03-07,Wrong item supplied
+O01045,2023-07-26,Short delivery
+O01062,2023-07-24,Expired stock
+O01070,2023-06-05,Customer cancelled
+O01141,2023-10-24,Short delivery
+O01144,2023-07-04,Wrong item supplied
+O01145,2024-01-04,Damaged in transit
+O01152,2023-06-06,Short delivery
+O01165,2023-12-04,Short delivery
+O01171,2024-01-04,Damaged in transit
+O01188,2023-05-22,Wrong item supplied
+O01196,2023-04-18,Short delivery

@@ -1,0 +1,201 @@
+customer_id,customer_name,region,city,segment,joined_date
+C001,Kwabena Bediako,Western North,Sefwi Wiawso,Retail,2019-12-13
+C002,Yaw Appiah, Savannah,Bole,Retail,2022-04-04
+C003,Abla Yeboah,Savannah,Bole,Retail,2019-07-09
+C004,Amina Lartey,north east,Nalerigu,Retail,2019-06-21
+C005,Ofori Ventures,Bono East,Techiman,Wholesale,2019-12-01
+C006,Kojo Tetteh,Greater Accra,Accra,Retail,2019-04-25
+C007,Mawuli Agbeko,Ahafo,Bechem,Retail,2022-07-31
+C008,Senyo Darko,Savannah,Bole,Retail,2023-05-16
+C009,Akosua Mahama,Northern,Tamale,Retail,2019-12-19
+C010,Ekow Mensah,Western,Tarkwa,Retail,2020-10-07
+C011,Akosua Amankwah, Upper East,Bawku,Retail,2022-02-15
+C012,Kwabena Agyemang,Greater Accra,Accra,Retail,2022-08-09
+C013,Osei Enterprise,Ahafo,Goaso,Wholesale,2021-11-03
+C014,Yakubu Gyasi,Ashanti,Obuasi,Retail,2019-09-16
+C015,Kwabena Quaye,Bono East,Techiman,Retail,2020-04-08
+C016,Enyonam Gyasi,Ahafo,Bechem,Retail,2021-07-07
+C017,Maame Amoah,Greater Accra,Madina,Retail,2019-07-14
+C018,Maame Frimpong,Eastern,Koforidua,Retail,2019-07-22
+C019,Enyonam Antwi,Bono East,Kintampo,Retail,2020-08-01
+C020,Owusu Trading,Upper East,Bolgatanga,Wholesale,2019-01-21
+C021,Nkrumah Ventures,Oti,Dambai,Wholesale,2019-07-24
+C022,Esi Amoah,Central,Kasoa,Retail,2019-06-10
+C023,Agbeko Enterprise,Northern,Yendi,Wholesale,2019-10-10
+C024,Kwame Sowah, North East,Nalerigu,Retail,2020-10-15
+C025,Mawuli Agyapong,Eastern,Nkawkaw,Retail,2019-04-18
+C026,Cape Coast Poly Cafeteria,western north,Sefwi Wiawso,Institution,2021-09-03
+C027,Kwame Gyasi,Western North,Sefwi Wiawso,Retail,2020-12-17
+C028,Yakubu Agbeko,Greater Accra,Ashaiman,Retail,2021-03-12
+C029,Ekow Agyemang,Ahafo,Bechem,Retail,2020-07-04
+C030,Araba Aryee,Western North ,Sefwi Wiawso,Retail,2022-07-11
+C031,Boateng Trading,Volta,Ho,Wholesale,2021-03-11
+C032,Nkrumah Enterprise,ahafo,Goaso,Wholesale,2022-03-06
+C033,Araba Bediako,Ashanti ,Kumasi,Retail,2020-06-14
+C034,Yaw Aryee,western north,Bibiani,Retail,2021-09-01
+C035,Alhassan Trading,North East,Nalerigu,Wholesale,2022-09-01
+C036,Elikem Amankwah,Ahafo,Bechem,Retail,2022-11-04
+C037,Yaa Ofori, Western North,Bibiani,Retail,2021-04-01
+C038,Danso Trading,Western,Sekondi-Takoradi,Wholesale,2020-03-21
+C039,Quaye Trading,Ahafo,Bechem,Wholesale,2021-06-11
+C040,Araba Nkrumah,Volta,Keta,Retail,2021-02-01
+C041,Enyonam Frimpong,Western North,Sefwi Wiawso,Retail,2023-02-06
+C042,Hawa Mahama,Western ,Sekondi-Takoradi,Retail,2021-05-05
+C043,Agbeko Ventures,Eastern,Koforidua,Wholesale,2023-01-06
+C044,Appiah Ventures,Ashanti,Ejisu,Wholesale,2022-02-28
+C045,Fiifi Tetteh,Ahafo,Bechem,Retail,2022-11-18
+C046,Araba Seidu,Savannah,Damongo,Retail,2021-11-10
+C047,Ama Ofori,Upper East ,Bawku,Retail,2023-04-22
+C048,Sunyani SHS Kitchen,Bono East,Techiman,Institution,2022-10-22
+C049,Amina Nkrumah,Northern,Tamale,Retail,2022-08-01
+C050,Kofi Mensah,Upper East,Bawku,Retail,2020-03-22
+C051,Abdul Mahama,Upper East,Bawku,Retail,2019-08-03
+C052,Adwoa Boateng,Eastern,Akosombo,Retail,2020-01-19
+C053,Ekow Mensah,EASTERN,Akosombo,Retail,2021-05-22
+C054,Yeboah Trading,North East,Nalerigu,Wholesale,2022-01-18
+C055,Asante Enterprise,Oti,Jasikan,Wholesale,2021-11-08
+C056,Quaye Trading,Ashanti,Kumasi,Wholesale,2020-12-15
+C057,Ofori Enterprise,Western North,Bibiani,Wholesale,2020-09-14
+C058,Darko Enterprise,Eastern,Akosombo,Wholesale,2019-11-16
+C059,Cape Coast Poly Cafeteria,Northern,Yendi,Institution,2019-02-17
+C060,Abla Ofori,Greater Accra,Madina,Retail,2021-07-18
+C061,Kofi Agyemang,Central ,Winneba,Retail,2021-05-12
+C062,Adjei Enterprise,Upper East,Bawku,Wholesale,2022-08-09
+C063,Senyo Osei,Western,Sekondi-Takoradi,Retail,2019-02-01
+C064,Appiah Ventures,Greater Accra,Accra,Wholesale,2020-11-14
+C065,Abubakar Trading,Greater Accra,Tema,Wholesale,2022-07-01
+C066,Selorm Zakaria,Upper  East,Bolgatanga,Retail,2019-08-29
+C067,Ankrah Trading,Bono,Berekum,Wholesale,2021-08-04
+C068,Wa Nursing Training College,CENTRAL,Kasoa,Institution,2022-04-03
+C069,Amina Lartey,Eastern,Koforidua,Retail,2020-08-10
+C070,Takoradi Technical University Canteen,Western North,Bibiani,Institution,2023-01-27
+C071,Kwame Danso,Oti,Dambai,Retail,2021-01-07
+C072,Frimpong Trading,Ahafo,Goaso,Wholesale,2022-03-18
+C073,Tetteh Ventures,Central,Kasoa,Wholesale,2019-03-11
+C074,Appiah Enterprise, Greater Accra,Madina,Wholesale,2021-11-23
+C075,Achimota Senior High School,Bono,Berekum,Institution,2020-05-25
+C076,Delali Aryee,Oti,Dambai,Retail,2019-05-14
+C077,Aryee Ventures,Eastern,Koforidua,Wholesale,2020-10-28
+C078,Amoah Enterprise,UPPER EAST,Bolgatanga,Wholesale,2021-08-27
+C079,Efua Mensah, Central,Cape Coast,Retail,2019-03-25
+C080,Osei Enterprise,Volta,Ho,Wholesale,2019-05-29
+C081,Musah Yeboah,North East,Walewale,Retail,2022-08-06
+C082,Kojo Acheampong,Oti,Dambai,Retail,2022-06-16
+C083,Yeboah Ventures,Bono,Sunyani,Wholesale,2021-01-28
+C084,Nartey Enterprise,Western,Sekondi-Takoradi,Wholesale,2019-06-02
+C085,Kojo Darko,Central,Cape Coast,Retail,2019-02-18
+C086,Kofi Aryee,Western,Tarkwa,Retail,2019-10-09
+C087,Musah Quaye,Volta,Keta,Retail,2020-10-15
+C088,Sena Acheampong,Western,Sekondi-Takoradi,Retail,2022-07-18
+C089,Rahama Osei,Bono,Sunyani,Retail,2019-01-11
+C090,Ho Municipal Hospital,Oti,Dambai,Institution,2020-04-18
+C091,Ekow Appiah,Bono East,Kintampo,Retail,2020-04-13
+C092,Achimota Senior High School,Bono,Berekum,Institution,2020-03-18
+C093,Fatima Amoah,Volta,Hohoe,Retail,2022-06-28
+C094,Abena Mahama,Savannah,Bole,Retail,2021-03-18
+C095,Araba Agyemang,Central,Cape Coast,Retail,2019-05-21
+C096,Kofi Boateng,Northern,Tamale,Retail,2019-09-25
+C097,Ankrah Ventures,Volta,Keta,Wholesale,2022-02-27
+C098,Sowah Enterprise,Ashanti,Kumasi,Wholesale,2019-04-02
+C099,Cape Coast Poly Cafeteria,Volta,Keta,Institution,2021-08-19
+C100,Enyonam Appiah,Central,Kasoa,Retail,2019-02-09
+C101,Korle Bu Staff Canteen,Upper East,Bawku,Institution,2023-05-07
+C102,Sena Addo,Western North,Sefwi Wiawso,Retail,2022-10-18
+C103,Musah Abubakar,Northern ,Yendi,Retail,2023-01-02
+C104,Zakaria Enterprise,Bono East,Techiman,Wholesale,2019-04-19
+C105,Nartey Trading,Greater Accra,Madina,Wholesale,2021-10-26
+C106,Hawa Nartey,Bono,Berekum,Retail,2020-02-25
+C107,Korle Bu Staff Canteen,Volta,Ho,Institution,2022-11-21
+C108,Afua Danso,Ashanti,Ejisu,Retail,2022-12-03
+C109,Ofori Ventures,Ahafo,Goaso,Wholesale,2022-08-06
+C110,Fiifi Quaye,Savannah,Damongo,Retail,2019-08-27
+C111,Mawuli Nartey,Ahafo,Bechem,Retail,2022-03-23
+C112,Mawuli Ofori,Ahafo,Goaso,Retail,2021-06-30
+C113,Kwabena Ofori,Western North,Bibiani,Retail,2019-06-16
+C114,Abena Boateng,Upper  West,Lawra,Retail,2020-09-04
+C115,Kwasi Yeboah,Western North,Sefwi Wiawso,Retail,2022-10-25
+C116,Osei Ventures,Bono East,Techiman,Wholesale,2021-10-07
+C117,Kofi Zakaria,Central,Kasoa,Retail,2019-10-14
+C118,Osei Ventures,Ashanti,Kumasi,Wholesale,2019-08-15
+C119,University of Ghana Hostel,Central ,Cape Coast,Institution,2020-08-06
+C120,Rahama Acheampong,volta,Ho,Retail,2019-05-13
+C121,Enyonam Osei,Central,Winneba,Retail,2021-03-22
+C122,Nkrumah Trading,north east,Walewale,Wholesale,2020-06-03
+C123,Fatima Ankrah,Greater Accra,Madina,Retail,2023-03-21
+C124,Adwoa Amankwah,Bono,Berekum,Retail,2020-04-24
+C125,Danso Enterprise,upper east,Bolgatanga,Wholesale,2020-08-13
+C126,Iddrisu Sowah,Ahafo,Goaso,Retail,2021-05-19
+C127,Antwi Ventures,Western,Tarkwa,Wholesale,2019-09-29
+C128,Yaw Ankrah,Ahafo,Bechem,Retail,2020-03-19
+C129,Bediako Trading,Savannah,Bole,Wholesale,2019-01-17
+C130,Selorm Alhassan,Upper West,Lawra,Retail,2021-07-18
+C131,Agbeko Ventures,Upper West,Lawra,Wholesale,2020-12-22
+C132,Iddrisu Yeboah, Central,Kasoa,Retail,2021-10-31
+C133,Seidu Ventures,Northern,Tamale,Wholesale,2019-09-25
+C134,Efua Ofori,Greater Accra,Tema,Retail,2020-08-27
+C135,Zenabu Bediako,Western North,Sefwi Wiawso,Retail,2022-08-13
+C136,Dzokoto Ventures,Western,Tarkwa,Wholesale,2020-05-09
+C137,Kofi Adjei,Greater Accra,Madina,Retail,2022-03-17
+C138,Agyemang Ventures,Central,Winneba,Wholesale,2021-06-30
+C139,Tamale Teaching Hospital Canteen,Ahafo,Goaso,Institution,2023-04-19
+C140,Mawuli Agyemang,Greater Accra ,Accra,Retail,2019-11-01
+C141,Nartey Ventures,Bono ,Berekum,Wholesale,2021-07-30
+C142,Mahama Ventures,Western,Tarkwa,Wholesale,2022-12-17
+C143,Sowah Enterprise,Bono,Berekum,Wholesale,2022-10-30
+C144,Elikem Seidu,Ahafo,Bechem,Retail,2022-01-14
+C145,Yeboah Enterprise, Central,Kasoa,Wholesale,2022-06-09
+C146,Hawa Antwi,Oti,Jasikan,Retail,2020-07-13
+C147,Addo Enterprise,Upper East,Bolgatanga,Wholesale,2021-04-14
+C148,Iddrisu Mahama,Bono East,Techiman,Retail,2019-12-15
+C149,Fatima Darko,BONO,Sunyani,Retail,2020-12-11
+C150,Yakubu Ankrah,Eastern,Akosombo,Retail,2020-06-21
+C151,Abdul Alhassan,Greater Accra ,Tema,Retail,2021-11-01
+C152,Antwi Trading,Volta,Keta,Wholesale,2020-09-10
+C153,Ekow Aryee,Upper East,Bawku,Retail,2020-04-09
+C154,Ofori Enterprise,upper west,Wa,Wholesale,2019-12-11
+C155,Antwi Enterprise, Northern,Yendi,Wholesale,2019-12-03
+C156,Afua Ankrah,Volta,Ho,Retail,2022-10-28
+C157,Quaye Trading,Ahafo,Goaso,Wholesale,2023-01-11
+C158,Alhassan Ventures,North East,Nalerigu,Wholesale,2021-05-20
+C159,Akosua Addo,Ashanti,Ejisu,Retail,2022-11-24
+C160,Lartey Trading,North East,Nalerigu,Wholesale,2022-10-11
+C161,Abena Abubakar,Bono,Berekum,Retail,2020-03-16
+C162,Tetteh Enterprise,Greater Accra,Tema,Wholesale,2021-10-20
+C163,Dzokoto Enterprise,oti,Jasikan,Wholesale,2020-11-28
+C164,Aryee Trading,Northern ,Tamale,Wholesale,2019-01-04
+C165,Musah Appiah,Western,Sekondi-Takoradi,Retail,2020-01-20
+C166,Kojo Amankwah,Ahafo,Bechem,Retail,2023-01-12
+C167,Alhassan Ventures,Savannah,Damongo,Wholesale,2019-10-14
+C168,Abena Zakaria,Ahafo,Bechem,Retail,2023-01-23
+C169,Korle Bu Staff Canteen,Central,Cape Coast,Institution,2020-10-01
+C170,Mariama Ankrah,Greater Accra,Tema,Retail,2019-11-15
+C171,Kojo Sowah,Ashanti,Obuasi,Retail,2022-08-10
+C172,Agyapong Enterprise,North East,Walewale,Wholesale,2022-08-24
+C173,Yakubu Boateng,Western,Sekondi-Takoradi,Retail,2020-05-08
+C174,Senyo Mensah,North East,Walewale,Retail,2021-08-30
+C175,Danso Trading,Eastern,Koforidua,Wholesale,2020-12-10
+C176,Tamale Teaching Hospital Canteen,Ashanti,Obuasi,Institution,2021-06-21
+C177,Mahama Ventures,Upper West,Lawra,Wholesale,2022-03-15
+C178,Agyapong Ventures,Bono East ,Techiman,Wholesale,2023-02-20
+C179,Afua Owusu,Bono East,Techiman,Retail,2022-01-20
+C180,Delali Antwi,Western North,Sefwi Wiawso,Retail,2022-05-23
+C181,Kwaku Agyemang,North East,Walewale,Retail,2019-10-25
+C182,Zakaria Ventures,Savannah,Bole,Wholesale,2021-12-01
+C183,Asante Enterprise,Volta,Hohoe,Wholesale,2021-01-15
+C184,Elikem Addo,Oti,Jasikan,Retail,2020-01-23
+C185,Enyonam Appiah, Greater Accra,Madina,Retail,2021-02-18
+C186,Adwoa Agbeko,Western North,Sefwi Wiawso,Retail,2023-01-29
+C187,Abdul Tetteh,North East,Walewale,Retail,2019-09-05
+C188,Abdul Mensah,Ashanti,Kumasi,Retail,2022-01-08
+C189,Appiah Enterprise,ahafo,Bechem,Wholesale,2021-01-19
+C190,Nartey Enterprise,Greater Accra,Ashaiman,Wholesale,2019-12-09
+C191,Ama Tetteh,Upper  East,Bolgatanga,Retail,2023-02-12
+C192,Ama Adjei,bono east,Techiman,Retail,2019-09-16
+C193,Kojo Seidu,Western North,Bibiani,Retail,2019-08-24
+C194,Kojo Quaye,Western,Sekondi-Takoradi,Retail,2022-12-22
+C195,Agyapong Enterprise,Central,Cape Coast,Wholesale,2022-02-03
+C196,Kwabena Sarpong,North East,Nalerigu,Retail,2020-01-19
+C197,Bediako Ventures,Savannah,Damongo,Wholesale,2020-07-29
+C198,Acheampong Enterprise,North East,Walewale,Wholesale,2019-04-11
+C199,Kwabena Alhassan,Ashanti,Kumasi,Retail,2022-06-06
+C200,Adwoa Sowah,Oti ,Jasikan,Retail,2021-10-13
