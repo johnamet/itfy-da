@@ -3,3 +3,5 @@ __pycache__/
 charts/
 output/
 .ipynb_checkpoints/
+wrangle_report.md
+act_report.md

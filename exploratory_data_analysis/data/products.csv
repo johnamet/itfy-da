@@ -1,0 +1,62 @@
+product_id,product_name,category,supplier,unit_cost_ghs
+P001,Milo Tin 400g,Beverages,Takoradi Trading Co,28.5
+P002,Milo Refill 500g,Beverages,Tema Import House,31.0
+P003,Lipton Tea 50s,Beverages,Tamale Distribution Hub,14.0
+P004,Malta Guinness Can,Beverages,Tamale Distribution Hub,7.5
+P005,Voltic Water 750ml,Beverages,Tema Import House,2.8
+P006,Voltic Water 1.5L,Beverages,Takoradi Trading Co,4.2
+P007,Kalyppo 250ml,Beverages,Tema Import House,3.1
+P008,Nescafe Classic 100g,Beverages,Tamale Distribution Hub,26.0
+P009,Sobolo Concentrate 1L,Beverages,Tema Import House,12.0
+P010,Bel Aqua 500ml Pack,Beverages,Takoradi Trading Co,11.5
+P011,Local Rice 5kg,Grains,Tamale Distribution Hub,62.0
+P012,Perfumed Rice 25kg,Grains,Kumasi Wholesale Ltd,310.0
+P013,Jasmine Rice 10kg,Grains,Tamale Distribution Hub,140.0
+P014,Gari 5kg,Grains,Tema Import House,38.0
+P015,Maize Flour 2kg,Grains,Accra Central Depot,22.0
+P016,Beans 5kg,Grains,Accra Central Depot,75.0
+P017,Tom Brown 1kg,Grains,Kumasi Wholesale Ltd,18.5
+P018,Sugar 1kg,Grains,Takoradi Trading Co,16.0
+P019,Wheat Flour 2kg,Grains,Takoradi Trading Co,24.0
+P020,Millet 5kg,Grains,Tamale Distribution Hub,55.0
+P021,Frytol 2L,Cooking Oils,Takoradi Trading Co,58.0
+P022,Frytol 5L,Cooking Oils,Tema Import House,135.0
+P023,Palm Oil 5L,Cooking Oils,Kumasi Wholesale Ltd,95.0
+P024,Coconut Oil 1L,Cooking Oils,Tamale Distribution Hub,42.0
+P025,Groundnut Oil 2L,Cooking Oils,Accra Central Depot,61.0
+P026,Shea Cooking Fat 1kg,Cooking Oils,Tamale Distribution Hub,33.0
+P027,Key Soap Bar,Personal Care,Tema Import House,6.5
+P028,Pepsodent 150g,Personal Care,Accra Central Depot,13.0
+P029,Dettol 500ml,Personal Care,Accra Central Depot,34.0
+P030,Nivea Lotion 400ml,Personal Care,Accra Central Depot,48.0
+P031,Shea Butter 500g,Personal Care,Tamale Distribution Hub,21.0
+P032,Toilet Roll 10pk,Personal Care,Tema Import House,29.0
+P033,Bath Soap 3pk,Personal Care,Tema Import House,17.5
+P034,Hair Food 250ml,Personal Care,Takoradi Trading Co,19.0
+P035,Sanitary Pads 10s,Personal Care,Tema Import House,12.5
+P036,Omo 900g,Household,Tema Import House,31.0
+P037,Sunlight Liquid 1L,Household,Kumasi Wholesale Ltd,27.0
+P038,Air Freshener 300ml,Household,Accra Central Depot,23.0
+P039,Sweeping Broom,Household,Takoradi Trading Co,9.0
+P040,Bucket 20L,Household,Tamale Distribution Hub,26.0
+P041,Mosquito Coil 10pk,Household,Kumasi Wholesale Ltd,11.0
+P042,Bleach 1L,Household,Kumasi Wholesale Ltd,15.5
+P043,Scouring Powder 500g,Household,Kumasi Wholesale Ltd,8.5
+P044,Matches 10pk,Household,Takoradi Trading Co,5.0
+P045,Charcoal Sack,Household,Takoradi Trading Co,45.0
+P046,Biscuit Family Pack,Snacks,Takoradi Trading Co,18.0
+P047,Plantain Chips 100g,Snacks,Tema Import House,4.5
+P048,Groundnut 200g,Snacks,Accra Central Depot,7.0
+P049,Bofrot Mix 1kg,Snacks,Tema Import House,16.0
+P050,Cassava Chips 150g,Snacks,Kumasi Wholesale Ltd,5.5
+P051,Coconut Biscuit 250g,Snacks,Tamale Distribution Hub,9.5
+P052,Chin Chin 300g,Snacks,Accra Central Depot,11.0
+P053,Popcorn Pack 12s,Snacks,Kumasi Wholesale Ltd,14.5
+P054,Tinned Tomatoes 400g,Canned Goods,Kumasi Wholesale Ltd,10.5
+P055,Tinned Sardines 125g,Canned Goods,Kumasi Wholesale Ltd,9.0
+P056,Tinned Milk 380g,Canned Goods,Takoradi Trading Co,17.0
+P057,Tomato Paste 2.2kg,Canned Goods,Accra Central Depot,52.0
+P058,Corned Beef 340g,Canned Goods,Tamale Distribution Hub,23.0
+P059,Baked Beans 400g,Canned Goods,Tema Import House,12.0
+P060,Tinned Sweetcorn 340g,Canned Goods,Takoradi Trading Co,11.5
+P011,Local Rice 5kg,Grains,Kumasi Wholesale Ltd,62.0
