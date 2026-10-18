@@ -1,0 +1,10 @@
+station_id,station_name,neighborhood,station_type
+STN01,Circle Interchange,Circle,Roadside
+STN02,Kaneshie Market,Kaneshie,Roadside
+STN03,Tema Motorway Roundabout,Tema,Roadside
+STN04,Osu Residential,Osu,Residential
+STN05,Dansoman Estate,Dansoman,Residential
+STN06,East Legon Hills,East Legon,Residential
+STN07,Tema Industrial Area,Tema Industrial Area,Industrial
+STN08,Achimota Industrial Zone,Achimota,Industrial
+STN09,Aburi Background Site,Aburi,Background
